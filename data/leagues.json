@@ -1,0 +1,258 @@
+[
+	{
+		"version": "0.11.0",
+		"league": "Anarchy/Onslaught",
+		"name": "Anarchy/Onslaught",
+		"start": "2013-06-07",
+		"end": "2013-1-0-07"
+	},
+	{
+		"version": "1.0.0",
+		"expansion": "Official Release",
+		"league": "Domination/Nemesis",
+		"name": "Domination/Nemesis",
+		"start": "2013-10-23",
+		"end": "2014-02-23"
+	},
+	{
+		"version": "1.1.0",
+		"expansion": "Sacrifice of the Vaal",
+		"league": "Ambush/Invasion",
+		"name": "Ambush/Invasion",
+		"start": "2014-03-05",
+		"end": "2014-07-05"
+	},
+	{
+		"version": "1.2.0",
+		"expansion": "Forsaken Masters",
+		"league": "Rampage/Beyond",
+		"name": "Rampage/Beyond",
+		"start": "2014-08-20",
+		"end": "2014-11-20"
+	},
+	{
+		"version": "1.3.0",
+		"league": "Torment/Bloodlines",
+		"name": "Torment/Bloodlines",
+		"start": "2014-07-05",
+		"end": "2015-03-24"
+	},
+	{
+		"version": "2.0.0",
+		"expansion": "The Awakening",
+		"league": "Warbands/Tempest",
+		"name": "Warbands/Tempest",
+		"start": "2015-07-10",
+		"end": "2015-10-02"
+	},
+	{
+		"version": "2.1.0",
+		"league": "Talisman",
+		"name": "Talisman",
+		"start": "2015-12-11",
+		"end": "2016-03-04"
+	},
+	{
+		"version": "2.2.0",
+		"expansion": "Ascendancy",
+		"league": "Perandus",
+		"name": "Perandus",
+		"start": "2016-03-04",
+		"end": "2016-05-30"
+	},
+	{
+		"version": "2.3.0",
+		"league": "Prophecy",
+		"name": "Prophecy",
+		"start": "2016-06-03",
+		"end": "2016-08-29"
+	},
+	{
+		"version": "2.4.0",
+		"expansion": "Atlas of Worlds",
+		"league": "Essence",
+		"name": "Essence",
+		"start": "2016-09-02",
+		"end": "2016-11-28"
+	},
+	{
+		"version": "2.5.0",
+		"league": "Breach",
+		"name": "Breach",
+		"start": "2016-12-02",
+		"end": "2017-02-27"
+	},
+	{
+		"version": "2.6.0",
+		"league": "Legacy",
+		"name": "Legacy",
+		"start": "2017-03-03",
+		"end": "2017-07-31"
+	},
+	{
+		"version": "3.0.0",
+		"expansion": "The Fall of Oriath",
+		"league": "Harbinger",
+		"name": "Harbinger",
+		"start": "2017-08-04",
+		"end": "2017-12-04"
+	},
+	{
+		"version": "3.1.0",
+		"expansion": "War for the Atlas",
+		"league": "Abyss",
+		"name": "Abyss",
+		"start": "2017-12-08",
+		"end": "2018-02-26"
+	},
+	{
+		"version": "3.2.0",
+		"league": "Bestiary",
+		"name": "Bestiary",
+		"start": "2018-03-02",
+		"end": "2018-05-28"
+	},
+	{
+		"version": "3.3.0",
+		"league": "Incursion",
+		"name": "Incursion",
+		"start": "2018-06-01",
+		"end": "2018-08-27"
+	},
+	{
+		"version": "3.4.0",
+		"league": "Delve",
+		"name": "Delve",
+		"start": "2018-08-31",
+		"end": "2018-12-03"
+	},
+	{
+		"version": "3.5.0",
+		"league": "Betrayal",
+		"name": "Betrayal",
+		"start": "2018-12-07",
+		"end": "2019-03-04"
+	},
+	{
+		"version": "3.6.0",
+		"league": "Synthesis",
+		"name": "Synthesis",
+		"start": "2019-03-08",
+		"end": "2019-06-03"
+	},
+	{
+		"version": "3.7.0",
+		"league": "Legion",
+		"name": "Legion",
+		"start": "2019-06-07",
+		"end": "2019-09-03"
+	},
+	{
+		"version": "3.8.0",
+		"league": "Blight",
+		"name": "Blight",
+		"start": "2019-09-08",
+		"end": "2019-12-09"
+	},
+	{
+		"version": "3.9.0",
+		"expansion": "Conquerors of the Atlas",
+		"league": "Metamorph",
+		"name": "Metamorph",
+		"start": "2019-12-13",
+		"end": "2020-03-09"
+	},
+	{
+		"version": "3.10.0",
+		"league": "Delirium",
+		"name": "Delirium",
+		"start": "2020-03-13",
+		"end": "2020-06-15"
+	},
+	{
+		"version": "3.11.0",
+		"league": "Harvest",
+		"name": "Harvest",
+		"start": "2020-06-19",
+		"end": "2020-09-14"
+	},
+	{
+		"version": "3.12.0",
+		"league": "Heist",
+		"name": "Heist",
+		"start": "2020-09-18",
+		"end": "2021-01-11"
+	},
+	{
+		"version": "3.13.0",
+		"expansion": "Echoes of the Atlas",
+		"league": "Ritual",
+		"name": "Ritual",
+		"start": "2021-01-15",
+		"end": "2021-04-12"
+	},
+	{
+		"version": "3.14.0",
+		"league": "Ultimatum",
+		"name": "Ultimatum",
+		"start": "2021-04-16",
+		"end": "2021-07-19"
+	},
+	{
+		"version": "3.15.0",
+		"league": "Expedition",
+		"name": "Expedition",
+		"start": "2021-07-23",
+		"end": "2021-10-18"
+	},
+	{
+		"version": "3.16.0",
+		"league": "Scourge",
+		"name": "Scourge",
+		"start": "2021-10-22",
+		"end": "2022-02-01"
+	},
+	{
+		"version": "3.17.0",
+		"expansion": "Siege of the Atlas",
+		"league": "Archnemsis",
+		"name": "Archnemsis",
+		"start": "2022-02-04",
+		"end": "2022-05-10"
+	},
+	{
+		"version": "3.18.0",
+		"league": "Sentinel",
+		"name": "Sentinel",
+		"start": "2022-05-13",
+		"end": "2022-08-16"
+	},
+	{
+		"version": "3.19.0",
+		"league": "Lake of Kalandra",
+		"name": "Kalandra",
+		"start": "2022-08-19",
+		"end": "2022-12-06"
+	},
+	{
+		"version": "3.20.0",
+		"league": "The Forbidden Sanctum",
+		"name": "Sanctum",
+		"start": "2022-12-09",
+		"end": "2023-04-04"
+	},
+	{
+		"version": "3.21.0",
+		"league": "Crucible",
+		"name": "Crucible",
+		"start": "2023-04-07",
+		"end": "2023-08-15"
+	},
+	{
+		"version": "3.22.0",
+		"league": "Trial of the Ancestors",
+		"name": "Ancestors",
+		"start": "2023-08-18",
+		"end": "2023-11-24"
+	}
+]

@@ -1,1 +1,3710 @@
-[{"date":"2022-01-01 00:00:00","players":19481,"averagePlayers":"","twitchViewers":39460},{"date":"2022-01-02 00:00:00","players":18149,"averagePlayers":"","twitchViewers":7940},{"date":"2022-01-03 00:00:00","players":15741,"averagePlayers":"","twitchViewers":6751},{"date":"2022-01-04 00:00:00","players":14154,"averagePlayers":"","twitchViewers":5158},{"date":"2022-01-05 00:00:00","players":13354,"averagePlayers":"","twitchViewers":4741},{"date":"2022-01-06 00:00:00","players":12869,"averagePlayers":"","twitchViewers":6820},{"date":"2022-01-07 00:00:00","players":12759,"averagePlayers":"","twitchViewers":4518},{"date":"2022-01-08 00:00:00","players":13786,"averagePlayers":"","twitchViewers":6000},{"date":"2022-01-09 00:00:00","players":13498,"averagePlayers":"","twitchViewers":4063},{"date":"2022-01-10 00:00:00","players":11267,"averagePlayers":"","twitchViewers":17519},{"date":"2022-01-11 00:00:00","players":11231,"averagePlayers":"","twitchViewers":2955},{"date":"2022-01-12 00:00:00","players":10440,"averagePlayers":"","twitchViewers":3791},{"date":"2022-01-13 00:00:00","players":10350,"averagePlayers":"","twitchViewers":2298},{"date":"2022-01-14 00:00:00","players":10372,"averagePlayers":"","twitchViewers":2834},{"date":"2022-01-15 00:00:00","players":11567,"averagePlayers":"","twitchViewers":2441},{"date":"2022-01-16 00:00:00","players":11537,"averagePlayers":"","twitchViewers":2985},{"date":"2022-01-17 00:00:00","players":10521,"averagePlayers":"","twitchViewers":2892},{"date":"2022-01-18 00:00:00","players":9554,"averagePlayers":"","twitchViewers":2805},{"date":"2022-01-19 00:00:00","players":9079,"averagePlayers":"","twitchViewers":3137},{"date":"2022-01-20 00:00:00","players":9062,"averagePlayers":"","twitchViewers":4038},{"date":"2022-01-21 00:00:00","players":9210,"averagePlayers":"","twitchViewers":2320},{"date":"2022-01-22 00:00:00","players":10443,"averagePlayers":"","twitchViewers":4422},{"date":"2022-01-23 00:00:00","players":10569,"averagePlayers":"","twitchViewers":3229},{"date":"2022-01-24 00:00:00","players":8892,"averagePlayers":"","twitchViewers":26847},{"date":"2022-01-25 00:00:00","players":8452,"averagePlayers":"","twitchViewers":7423},{"date":"2022-01-26 00:00:00","players":8273,"averagePlayers":"","twitchViewers":6095},{"date":"2022-01-27 00:00:00","players":8824,"averagePlayers":"","twitchViewers":254180},{"date":"2022-01-28 00:00:00","players":9754,"averagePlayers":"","twitchViewers":25167},{"date":"2022-01-29 00:00:00","players":11766,"averagePlayers":"","twitchViewers":17434},{"date":"2022-01-30 00:00:00","players":12866,"averagePlayers":"","twitchViewers":18089},{"date":"2022-01-31 00:00:00","players":11169,"averagePlayers":"","twitchViewers":21027},{"date":"2022-02-01 00:00:00","players":11057,"averagePlayers":"","twitchViewers":16902},{"date":"2022-02-02 00:00:00","players":11498,"averagePlayers":"","twitchViewers":33085},{"date":"2022-02-03 00:00:00","players":12154,"averagePlayers":"","twitchViewers":33174},{"date":"2022-02-04 00:00:00","players":158882,"averagePlayers":"","twitchViewers":181299},{"date":"2022-02-05 00:00:00","players":131261,"averagePlayers":"","twitchViewers":142048},{"date":"2022-02-06 00:00:00","players":130583,"averagePlayers":"","twitchViewers":76483},{"date":"2022-02-07 00:00:00","players":111075,"averagePlayers":"","twitchViewers":59377},{"date":"2022-02-08 00:00:00","players":96809,"averagePlayers":"","twitchViewers":48461},{"date":"2022-02-09 00:00:00","players":90431,"averagePlayers":"","twitchViewers":44309},{"date":"2022-02-10 00:00:00","players":86800,"averagePlayers":"","twitchViewers":40840},{"date":"2022-02-11 00:00:00","players":87597,"averagePlayers":"","twitchViewers":39986},{"date":"2022-02-12 00:00:00","players":82701,"averagePlayers":"","twitchViewers":34654},{"date":"2022-02-13 00:00:00","players":83909,"averagePlayers":"","twitchViewers":37409},{"date":"2022-02-14 00:00:00","players":70817,"averagePlayers":"","twitchViewers":34799},{"date":"2022-02-15 00:00:00","players":70724,"averagePlayers":"","twitchViewers":94219},{"date":"2022-02-16 00:00:00","players":67513,"averagePlayers":"","twitchViewers":54102},{"date":"2022-02-17 00:00:00","players":64889,"averagePlayers":"","twitchViewers":23415},{"date":"2022-02-18 00:00:00","players":66540,"averagePlayers":"","twitchViewers":29420},{"date":"2022-02-19 00:00:00","players":69724,"averagePlayers":"","twitchViewers":31673},{"date":"2022-02-20 00:00:00","players":70081,"averagePlayers":"","twitchViewers":24129},{"date":"2022-02-21 00:00:00","players":63991,"averagePlayers":"","twitchViewers":25496},{"date":"2022-02-22 00:00:00","players":59104,"averagePlayers":"","twitchViewers":23072},{"date":"2022-02-23 00:00:00","players":55389,"averagePlayers":"","twitchViewers":17345},{"date":"2022-02-24 00:00:00","players":50613,"averagePlayers":"","twitchViewers":15482},{"date":"2022-02-25 00:00:00","players":46722,"averagePlayers":"","twitchViewers":14896},{"date":"2022-02-26 00:00:00","players":48902,"averagePlayers":"","twitchViewers":13328},{"date":"2022-02-27 00:00:00","players":49440,"averagePlayers":"","twitchViewers":14820},{"date":"2022-02-28 00:00:00","players":42876,"averagePlayers":"","twitchViewers":11599},{"date":"2022-03-01 00:00:00","players":40818,"averagePlayers":"","twitchViewers":10394},{"date":"2022-03-02 00:00:00","players":38442,"averagePlayers":"","twitchViewers":14397},{"date":"2022-03-03 00:00:00","players":37052,"averagePlayers":"","twitchViewers":13114},{"date":"2022-03-04 00:00:00","players":37184,"averagePlayers":"","twitchViewers":13273},{"date":"2022-03-05 00:00:00","players":39636,"averagePlayers":"","twitchViewers":12216},{"date":"2022-03-06 00:00:00","players":40481,"averagePlayers":"","twitchViewers":14114},{"date":"2022-03-07 00:00:00","players":36003,"averagePlayers":"","twitchViewers":13646},{"date":"2022-03-08 00:00:00","players":33729,"averagePlayers":"","twitchViewers":62745},{"date":"2022-03-09 00:00:00","players":33154,"averagePlayers":"","twitchViewers":29960},{"date":"2022-03-10 00:00:00","players":32063,"averagePlayers":"","twitchViewers":11618},{"date":"2022-03-11 00:00:00","players":32327,"averagePlayers":"","twitchViewers":13303},{"date":"2022-03-12 00:00:00","players":35153,"averagePlayers":"","twitchViewers":12141},{"date":"2022-03-13 00:00:00","players":35348,"averagePlayers":"","twitchViewers":11422},{"date":"2022-03-14 00:00:00","players":30493,"averagePlayers":"","twitchViewers":11324},{"date":"2022-03-15 00:00:00","players":29197,"averagePlayers":"","twitchViewers":12941},{"date":"2022-03-16 00:00:00","players":28060,"averagePlayers":"","twitchViewers":9881},{"date":"2022-03-17 00:00:00","players":27109,"averagePlayers":"","twitchViewers":7600},{"date":"2022-03-18 00:00:00","players":27105,"averagePlayers":"","twitchViewers":8599},{"date":"2022-03-19 00:00:00","players":29292,"averagePlayers":"","twitchViewers":8042},{"date":"2022-03-20 00:00:00","players":29496,"averagePlayers":"","twitchViewers":10368},{"date":"2022-03-21 00:00:00","players":25122,"averagePlayers":"","twitchViewers":8821},{"date":"2022-03-22 00:00:00","players":24164,"averagePlayers":"","twitchViewers":7069},{"date":"2022-03-23 00:00:00","players":23319,"averagePlayers":"","twitchViewers":8444},{"date":"2022-03-24 00:00:00","players":22287,"averagePlayers":"","twitchViewers":6893},{"date":"2022-03-25 00:00:00","players":21933,"averagePlayers":"","twitchViewers":6438},{"date":"2022-03-26 00:00:00","players":23598,"averagePlayers":"","twitchViewers":5876},{"date":"2022-03-27 00:00:00","players":24022,"averagePlayers":"","twitchViewers":5662},{"date":"2022-03-28 00:00:00","players":20658,"averagePlayers":"","twitchViewers":7003},{"date":"2022-03-29 00:00:00","players":20200,"averagePlayers":"","twitchViewers":10309},{"date":"2022-03-30 00:00:00","players":19421,"averagePlayers":"","twitchViewers":7396},{"date":"2022-03-31 00:00:00","players":18564,"averagePlayers":"","twitchViewers":9351},{"date":"2022-04-01 00:00:00","players":21118,"averagePlayers":"","twitchViewers":30441},{"date":"2022-04-02 00:00:00","players":20895,"averagePlayers":"","twitchViewers":22384},{"date":"2022-04-03 00:00:00","players":21475,"averagePlayers":"","twitchViewers":14632},{"date":"2022-04-04 00:00:00","players":18018,"averagePlayers":"","twitchViewers":11821},{"date":"2022-04-05 00:00:00","players":17550,"averagePlayers":"","twitchViewers":11704},{"date":"2022-04-06 00:00:00","players":16477,"averagePlayers":"","twitchViewers":9276},{"date":"2022-04-07 00:00:00","players":16300,"averagePlayers":"","twitchViewers":10126},{"date":"2022-04-08 00:00:00","players":16135,"averagePlayers":"","twitchViewers":10071},{"date":"2022-04-09 00:00:00","players":17429,"averagePlayers":"","twitchViewers":9461},{"date":"2022-04-10 00:00:00","players":17648,"averagePlayers":"","twitchViewers":17095},{"date":"2022-04-11 00:00:00","players":15006,"averagePlayers":"","twitchViewers":14755},{"date":"2022-04-12 00:00:00","players":14320,"averagePlayers":"","twitchViewers":5843},{"date":"2022-04-13 00:00:00","players":13329,"averagePlayers":"","twitchViewers":5543},{"date":"2022-04-14 00:00:00","players":13297,"averagePlayers":"","twitchViewers":4635},{"date":"2022-04-15 00:00:00","players":13372,"averagePlayers":"","twitchViewers":4759},{"date":"2022-04-16 00:00:00","players":13475,"averagePlayers":"","twitchViewers":4042},{"date":"2022-04-17 00:00:00","players":13220,"averagePlayers":"","twitchViewers":3238},{"date":"2022-04-18 00:00:00","players":12228,"averagePlayers":"","twitchViewers":3248},{"date":"2022-04-19 00:00:00","players":11147,"averagePlayers":"","twitchViewers":2141},{"date":"2022-04-20 00:00:00","players":10793,"averagePlayers":"","twitchViewers":3064},{"date":"2022-04-21 00:00:00","players":10467,"averagePlayers":"","twitchViewers":2442},{"date":"2022-04-22 00:00:00","players":10701,"averagePlayers":"","twitchViewers":5987},{"date":"2022-04-23 00:00:00","players":11515,"averagePlayers":"","twitchViewers":6587},{"date":"2022-04-24 00:00:00","players":11550,"averagePlayers":"","twitchViewers":5907},{"date":"2022-04-25 00:00:00","players":9946,"averagePlayers":"","twitchViewers":5118},{"date":"2022-04-26 00:00:00","players":9410,"averagePlayers":"","twitchViewers":3817},{"date":"2022-04-27 00:00:00","players":9134,"averagePlayers":"","twitchViewers":3589},{"date":"2022-04-28 00:00:00","players":8575,"averagePlayers":"","twitchViewers":2740},{"date":"2022-04-29 00:00:00","players":8487,"averagePlayers":"","twitchViewers":1869},{"date":"2022-04-30 00:00:00","players":9141,"averagePlayers":"","twitchViewers":1519},{"date":"2022-05-01 00:00:00","players":9533,"averagePlayers":"","twitchViewers":3006},{"date":"2022-05-02 00:00:00","players":8348,"averagePlayers":"","twitchViewers":2035},{"date":"2022-05-03 00:00:00","players":7963,"averagePlayers":"","twitchViewers":3146},{"date":"2022-05-04 00:00:00","players":7810,"averagePlayers":"","twitchViewers":3580},{"date":"2022-05-05 00:00:00","players":8369,"averagePlayers":"","twitchViewers":240853},{"date":"2022-05-06 00:00:00","players":9668,"averagePlayers":"","twitchViewers":27149},{"date":"2022-05-07 00:00:00","players":11167,"averagePlayers":"","twitchViewers":16227},{"date":"2022-05-08 00:00:00","players":11934,"averagePlayers":"","twitchViewers":22422},{"date":"2022-05-09 00:00:00","players":10973,"averagePlayers":"","twitchViewers":29191},{"date":"2022-05-10 00:00:00","players":10826,"averagePlayers":"","twitchViewers":23782},{"date":"2022-05-11 00:00:00","players":10869,"averagePlayers":"","twitchViewers":21981},{"date":"2022-05-12 00:00:00","players":10617,"averagePlayers":"","twitchViewers":22475},{"date":"2022-05-13 00:00:00","players":131010,"averagePlayers":"","twitchViewers":167095},{"date":"2022-05-14 00:00:00","players":102696,"averagePlayers":"","twitchViewers":109934},{"date":"2022-05-15 00:00:00","players":105096,"averagePlayers":"","twitchViewers":69722},{"date":"2022-05-16 00:00:00","players":91485,"averagePlayers":"","twitchViewers":47876},{"date":"2022-05-17 00:00:00","players":85940,"averagePlayers":"","twitchViewers":43058},{"date":"2022-05-18 00:00:00","players":81371,"averagePlayers":"","twitchViewers":39975},{"date":"2022-05-19 00:00:00","players":77387,"averagePlayers":"","twitchViewers":35818},{"date":"2022-05-20 00:00:00","players":75485,"averagePlayers":"","twitchViewers":38883},{"date":"2022-05-21 00:00:00","players":77726,"averagePlayers":"","twitchViewers":42773},{"date":"2022-05-22 00:00:00","players":79191,"averagePlayers":"","twitchViewers":32035},{"date":"2022-05-23 00:00:00","players":72280,"averagePlayers":"","twitchViewers":32863},{"date":"2022-05-24 00:00:00","players":67717,"averagePlayers":"","twitchViewers":32344},{"date":"2022-05-25 00:00:00","players":64311,"averagePlayers":"","twitchViewers":29661},{"date":"2022-05-26 00:00:00","players":61028,"averagePlayers":"","twitchViewers":32934},{"date":"2022-05-27 00:00:00","players":61594,"averagePlayers":"","twitchViewers":29095},{"date":"2022-05-28 00:00:00","players":63060,"averagePlayers":"","twitchViewers":30670},{"date":"2022-05-29 00:00:00","players":65203,"averagePlayers":"","twitchViewers":31239},{"date":"2022-05-30 00:00:00","players":62700,"averagePlayers":"","twitchViewers":33243},{"date":"2022-05-31 00:00:00","players":56820,"averagePlayers":"","twitchViewers":29343},{"date":"2022-06-01 00:00:00","players":53525,"averagePlayers":"","twitchViewers":26093},{"date":"2022-06-02 00:00:00","players":50016,"averagePlayers":"","twitchViewers":23984},{"date":"2022-06-03 00:00:00","players":49483,"averagePlayers":"","twitchViewers":16641},{"date":"2022-06-04 00:00:00","players":52591,"averagePlayers":"","twitchViewers":15709},{"date":"2022-06-05 00:00:00","players":55119,"averagePlayers":"","twitchViewers":19914},{"date":"2022-06-06 00:00:00","players":49070,"averagePlayers":"","twitchViewers":18319},{"date":"2022-06-07 00:00:00","players":47499,"averagePlayers":"","twitchViewers":16830},{"date":"2022-06-08 00:00:00","players":44613,"averagePlayers":"","twitchViewers":12726},{"date":"2022-06-09 00:00:00","players":42565,"averagePlayers":"","twitchViewers":15897},{"date":"2022-06-10 00:00:00","players":42224,"averagePlayers":"","twitchViewers":15380},{"date":"2022-06-11 00:00:00","players":44405,"averagePlayers":"","twitchViewers":18530},{"date":"2022-06-12 00:00:00","players":45494,"averagePlayers":"","twitchViewers":13783},{"date":"2022-06-13 00:00:00","players":41599,"averagePlayers":"","twitchViewers":14556},{"date":"2022-06-14 00:00:00","players":40007,"averagePlayers":"","twitchViewers":14280},{"date":"2022-06-15 00:00:00","players":38371,"averagePlayers":"","twitchViewers":12881},{"date":"2022-06-16 00:00:00","players":38533,"averagePlayers":"","twitchViewers":13494},{"date":"2022-06-17 00:00:00","players":37635,"averagePlayers":"","twitchViewers":14220},{"date":"2022-06-18 00:00:00","players":39492,"averagePlayers":"","twitchViewers":11280},{"date":"2022-06-19 00:00:00","players":40303,"averagePlayers":"","twitchViewers":12357},{"date":"2022-06-20 00:00:00","players":37857,"averagePlayers":"","twitchViewers":12465},{"date":"2022-06-21 00:00:00","players":35159,"averagePlayers":"","twitchViewers":13470},{"date":"2022-06-22 00:00:00","players":33395,"averagePlayers":"","twitchViewers":11744},{"date":"2022-06-23 00:00:00","players":31173,"averagePlayers":"","twitchViewers":10514},{"date":"2022-06-24 00:00:00","players":30075,"averagePlayers":"","twitchViewers":7177},{"date":"2022-06-25 00:00:00","players":31513,"averagePlayers":"","twitchViewers":8824},{"date":"2022-06-26 00:00:00","players":32515,"averagePlayers":"","twitchViewers":9395},{"date":"2022-06-27 00:00:00","players":29125,"averagePlayers":"","twitchViewers":8478},{"date":"2022-06-28 00:00:00","players":27534,"averagePlayers":"","twitchViewers":8787},{"date":"2022-06-29 00:00:00","players":25695,"averagePlayers":"","twitchViewers":7349},{"date":"2022-06-30 00:00:00","players":23783,"averagePlayers":"","twitchViewers":7483},{"date":"2022-07-01 00:00:00","players":23776,"averagePlayers":"","twitchViewers":6434},{"date":"2022-07-02 00:00:00","players":24341,"averagePlayers":"","twitchViewers":11565},{"date":"2022-07-03 00:00:00","players":25437,"averagePlayers":"","twitchViewers":9641},{"date":"2022-07-04 00:00:00","players":24631,"averagePlayers":"","twitchViewers":8001},{"date":"2022-07-05 00:00:00","players":21985,"averagePlayers":"","twitchViewers":7034},{"date":"2022-07-06 00:00:00","players":20999,"averagePlayers":"","twitchViewers":6614},{"date":"2022-07-07 00:00:00","players":19749,"averagePlayers":"","twitchViewers":6426},{"date":"2022-07-08 00:00:00","players":19106,"averagePlayers":"","twitchViewers":6072},{"date":"2022-07-09 00:00:00","players":20327,"averagePlayers":"","twitchViewers":6158},{"date":"2022-07-10 00:00:00","players":21095,"averagePlayers":"","twitchViewers":4642},{"date":"2022-07-11 00:00:00","players":18377,"averagePlayers":"","twitchViewers":5382},{"date":"2022-07-12 00:00:00","players":17110,"averagePlayers":"","twitchViewers":4786},{"date":"2022-07-13 00:00:00","players":16389,"averagePlayers":"","twitchViewers":5691},{"date":"2022-07-14 00:00:00","players":15935,"averagePlayers":"","twitchViewers":13658},{"date":"2022-07-15 00:00:00","players":18029,"averagePlayers":"","twitchViewers":24613},{"date":"2022-07-16 00:00:00","players":18416,"averagePlayers":"","twitchViewers":17494},{"date":"2022-07-17 00:00:00","players":18994,"averagePlayers":"","twitchViewers":13217},{"date":"2022-07-18 00:00:00","players":16004,"averagePlayers":"","twitchViewers":11945},{"date":"2022-07-19 00:00:00","players":15058,"averagePlayers":"","twitchViewers":7332},{"date":"2022-07-20 00:00:00","players":14252,"averagePlayers":"","twitchViewers":11264},{"date":"2022-07-21 00:00:00","players":13660,"averagePlayers":"","twitchViewers":8206},{"date":"2022-07-22 00:00:00","players":13510,"averagePlayers":"","twitchViewers":5183},{"date":"2022-07-23 00:00:00","players":14217,"averagePlayers":"","twitchViewers":5715},{"date":"2022-07-24 00:00:00","players":14728,"averagePlayers":"","twitchViewers":7275},{"date":"2022-07-25 00:00:00","players":12664,"averagePlayers":"","twitchViewers":7977},{"date":"2022-07-26 00:00:00","players":12228,"averagePlayers":"","twitchViewers":4752},{"date":"2022-07-27 00:00:00","players":11764,"averagePlayers":"","twitchViewers":4145},{"date":"2022-07-28 00:00:00","players":11071,"averagePlayers":"","twitchViewers":11779},{"date":"2022-07-29 00:00:00","players":11088,"averagePlayers":"","twitchViewers":5593},{"date":"2022-07-30 00:00:00","players":12043,"averagePlayers":"","twitchViewers":4427},{"date":"2022-07-31 00:00:00","players":11994,"averagePlayers":"","twitchViewers":5278},{"date":"2022-08-01 00:00:00","players":10594,"averagePlayers":"","twitchViewers":6504},{"date":"2022-08-02 00:00:00","players":10023,"averagePlayers":"","twitchViewers":27116},{"date":"2022-08-03 00:00:00","players":9432,"averagePlayers":"","twitchViewers":14824},{"date":"2022-08-04 00:00:00","players":9009,"averagePlayers":"","twitchViewers":6990},{"date":"2022-08-05 00:00:00","players":9022,"averagePlayers":"","twitchViewers":5952},{"date":"2022-08-06 00:00:00","players":9730,"averagePlayers":"","twitchViewers":6953},{"date":"2022-08-07 00:00:00","players":10245,"averagePlayers":"","twitchViewers":5406},{"date":"2022-08-08 00:00:00","players":9113,"averagePlayers":"","twitchViewers":6481},{"date":"2022-08-09 00:00:00","players":8462,"averagePlayers":"","twitchViewers":6949},{"date":"2022-08-10 00:00:00","players":8179,"averagePlayers":"","twitchViewers":6218},{"date":"2022-08-11 00:00:00","players":8522,"averagePlayers":"","twitchViewers":257346},{"date":"2022-08-12 00:00:00","players":9594,"averagePlayers":"","twitchViewers":54204},{"date":"2022-08-13 00:00:00","players":10748,"averagePlayers":"","twitchViewers":21394},{"date":"2022-08-14 00:00:00","players":11770,"averagePlayers":"","twitchViewers":31052},{"date":"2022-08-15 00:00:00","players":10823,"averagePlayers":"","twitchViewers":25299},{"date":"2022-08-16 00:00:00","players":10634,"averagePlayers":"","twitchViewers":31520},{"date":"2022-08-17 00:00:00","players":11169,"averagePlayers":"","twitchViewers":27031},{"date":"2022-08-18 00:00:00","players":11587,"averagePlayers":"","twitchViewers":32734},{"date":"2022-08-19 00:00:00","players":152033,"averagePlayers":"","twitchViewers":230473},{"date":"2022-08-20 00:00:00","players":118772,"averagePlayers":"","twitchViewers":182999},{"date":"2022-08-21 00:00:00","players":119060,"averagePlayers":"","twitchViewers":77708},{"date":"2022-08-22 00:00:00","players":95984,"averagePlayers":"","twitchViewers":61667},{"date":"2022-08-23 00:00:00","players":83394,"averagePlayers":"","twitchViewers":56654},{"date":"2022-08-24 00:00:00","players":77859,"averagePlayers":"","twitchViewers":54602},{"date":"2022-08-25 00:00:00","players":76416,"averagePlayers":"","twitchViewers":46210},{"date":"2022-08-26 00:00:00","players":72731,"averagePlayers":"","twitchViewers":40456},{"date":"2022-08-27 00:00:00","players":74298,"averagePlayers":"","twitchViewers":36988},{"date":"2022-08-28 00:00:00","players":76428,"averagePlayers":"","twitchViewers":42426},{"date":"2022-08-29 00:00:00","players":68332,"averagePlayers":"","twitchViewers":40500},{"date":"2022-08-30 00:00:00","players":64428,"averagePlayers":"","twitchViewers":36137},{"date":"2022-08-31 00:00:00","players":60742,"averagePlayers":"","twitchViewers":34513},{"date":"2022-09-01 00:00:00","players":58824,"averagePlayers":"","twitchViewers":36317},{"date":"2022-09-02 00:00:00","players":56710,"averagePlayers":"","twitchViewers":32192},{"date":"2022-09-03 00:00:00","players":59233,"averagePlayers":"","twitchViewers":32288},{"date":"2022-09-04 00:00:00","players":61378,"averagePlayers":"","twitchViewers":34676},{"date":"2022-09-05 00:00:00","players":59779,"averagePlayers":"","twitchViewers":33828},{"date":"2022-09-06 00:00:00","players":51272,"averagePlayers":"","twitchViewers":31292},{"date":"2022-09-07 00:00:00","players":50656,"averagePlayers":"","twitchViewers":30735},{"date":"2022-09-08 00:00:00","players":47687,"averagePlayers":"","twitchViewers":29186},{"date":"2022-09-09 00:00:00","players":47136,"averagePlayers":"","twitchViewers":28023},{"date":"2022-09-10 00:00:00","players":50209,"averagePlayers":"","twitchViewers":25006},{"date":"2022-09-11 00:00:00","players":51485,"averagePlayers":"","twitchViewers":27476},{"date":"2022-09-12 00:00:00","players":44171,"averagePlayers":"","twitchViewers":25140},{"date":"2022-09-13 00:00:00","players":42456,"averagePlayers":"","twitchViewers":29780},{"date":"2022-09-14 00:00:00","players":41315,"averagePlayers":"","twitchViewers":23148},{"date":"2022-09-15 00:00:00","players":39610,"averagePlayers":"","twitchViewers":25768},{"date":"2022-09-16 00:00:00","players":39552,"averagePlayers":"","twitchViewers":24704},{"date":"2022-09-17 00:00:00","players":42009,"averagePlayers":"","twitchViewers":21667},{"date":"2022-09-18 00:00:00","players":43067,"averagePlayers":"","twitchViewers":23025},{"date":"2022-09-19 00:00:00","players":38123,"averagePlayers":"","twitchViewers":27384},{"date":"2022-09-20 00:00:00","players":35833,"averagePlayers":"","twitchViewers":23265},{"date":"2022-09-21 00:00:00","players":33663,"averagePlayers":"","twitchViewers":19688},{"date":"2022-09-22 00:00:00","players":32713,"averagePlayers":"","twitchViewers":18641},{"date":"2022-09-23 00:00:00","players":31877,"averagePlayers":22558,"twitchViewers":27326},{"date":"2022-09-24 00:00:00","players":34380,"averagePlayers":25775,"twitchViewers":25047},{"date":"2022-09-25 00:00:00","players":35599,"averagePlayers":26128,"twitchViewers":24503},{"date":"2022-09-26 00:00:00","players":30702,"averagePlayers":20654,"twitchViewers":17701},{"date":"2022-09-27 00:00:00","players":28582,"averagePlayers":19462,"twitchViewers":20976},{"date":"2022-09-28 00:00:00","players":27591,"averagePlayers":18684,"twitchViewers":16692},{"date":"2022-09-29 00:00:00","players":26268,"averagePlayers":17886,"twitchViewers":17454},{"date":"2022-09-30 00:00:00","players":25327,"averagePlayers":18041,"twitchViewers":13599},{"date":"2022-10-01 00:00:00","players":27874,"averagePlayers":20634,"twitchViewers":18792},{"date":"2022-10-02 00:00:00","players":28145,"averagePlayers":20915,"twitchViewers":21122},{"date":"2022-10-03 00:00:00","players":23930,"averagePlayers":16578,"twitchViewers":20166},{"date":"2022-10-04 00:00:00","players":22364,"averagePlayers":15228,"twitchViewers":11127},{"date":"2022-10-05 00:00:00","players":21040,"averagePlayers":14371,"twitchViewers":13596},{"date":"2022-10-06 00:00:00","players":20150,"averagePlayers":13724,"twitchViewers":6224},{"date":"2022-10-07 00:00:00","players":19425,"averagePlayers":13683,"twitchViewers":5899},{"date":"2022-10-08 00:00:00","players":20594,"averagePlayers":15463,"twitchViewers":5479},{"date":"2022-10-09 00:00:00","players":21250,"averagePlayers":15738,"twitchViewers":4592},{"date":"2022-10-10 00:00:00","players":19178,"averagePlayers":12736,"twitchViewers":5808},{"date":"2022-10-11 00:00:00","players":17312,"averagePlayers":11782,"twitchViewers":6288},{"date":"2022-10-12 00:00:00","players":16543,"averagePlayers":11225,"twitchViewers":4472},{"date":"2022-10-13 00:00:00","players":15892,"averagePlayers":10787,"twitchViewers":13439},{"date":"2022-10-14 00:00:00","players":15477,"averagePlayers":11020,"twitchViewers":4536},{"date":"2022-10-15 00:00:00","players":16911,"averagePlayers":12671,"twitchViewers":5057},{"date":"2022-10-16 00:00:00","players":17142,"averagePlayers":12764,"twitchViewers":3920},{"date":"2022-10-17 00:00:00","players":14806,"averagePlayers":10005,"twitchViewers":4033},{"date":"2022-10-18 00:00:00","players":14169,"averagePlayers":9519,"twitchViewers":4058},{"date":"2022-10-19 00:00:00","players":13235,"averagePlayers":9073,"twitchViewers":3535},{"date":"2022-10-20 00:00:00","players":12716,"averagePlayers":8804,"twitchViewers":3931},{"date":"2022-10-21 00:00:00","players":12862,"averagePlayers":9032,"twitchViewers":3364},{"date":"2022-10-22 00:00:00","players":13882,"averagePlayers":10368,"twitchViewers":5917},{"date":"2022-10-23 00:00:00","players":14602,"averagePlayers":10660,"twitchViewers":3930},{"date":"2022-10-24 00:00:00","players":12481,"averagePlayers":8488,"twitchViewers":3621},{"date":"2022-10-25 00:00:00","players":11695,"averagePlayers":7994,"twitchViewers":4317},{"date":"2022-10-26 00:00:00","players":11093,"averagePlayers":7691,"twitchViewers":3515},{"date":"2022-10-27 00:00:00","players":10727,"averagePlayers":7323,"twitchViewers":3623},{"date":"2022-10-28 00:00:00","players":10576,"averagePlayers":7444,"twitchViewers":3286},{"date":"2022-10-29 00:00:00","players":11439,"averagePlayers":8510,"twitchViewers":3273},{"date":"2022-10-30 00:00:00","players":11709,"averagePlayers":8713,"twitchViewers":3653},{"date":"2022-10-31 00:00:00","players":9834,"averagePlayers":7085,"twitchViewers":3321},{"date":"2022-11-01 00:00:00","players":9849,"averagePlayers":7007,"twitchViewers":16653},{"date":"2022-11-02 00:00:00","players":9529,"averagePlayers":6350,"twitchViewers":1578},{"date":"2022-11-03 00:00:00","players":9163,"averagePlayers":6351,"twitchViewers":3761},{"date":"2022-11-04 00:00:00","players":20457,"averagePlayers":8467,"twitchViewers":22867},{"date":"2022-11-05 00:00:00","players":17205,"averagePlayers":13143,"twitchViewers":18250},{"date":"2022-11-06 00:00:00","players":15977,"averagePlayers":12038,"twitchViewers":8244},{"date":"2022-11-07 00:00:00","players":12729,"averagePlayers":8806,"twitchViewers":6665},{"date":"2022-11-08 00:00:00","players":11426,"averagePlayers":7969,"twitchViewers":4845},{"date":"2022-11-09 00:00:00","players":10651,"averagePlayers":7422,"twitchViewers":4624},{"date":"2022-11-10 00:00:00","players":9915,"averagePlayers":7046,"twitchViewers":4073},{"date":"2022-11-11 00:00:00","players":10407,"averagePlayers":7319,"twitchViewers":3834},{"date":"2022-11-12 00:00:00","players":10718,"averagePlayers":8069,"twitchViewers":3961},{"date":"2022-11-13 00:00:00","players":10762,"averagePlayers":8074,"twitchViewers":2662},{"date":"2022-11-14 00:00:00","players":22342,"averagePlayers":8337,"twitchViewers":26585},{"date":"2022-11-15 00:00:00","players":15959,"averagePlayers":11303,"twitchViewers":13209},{"date":"2022-11-16 00:00:00","players":12118,"averagePlayers":8661,"twitchViewers":14100},{"date":"2022-11-17 00:00:00","players":10876,"averagePlayers":7662,"twitchViewers":6463},{"date":"2022-11-18 00:00:00","players":9996,"averagePlayers":7176,"twitchViewers":3934},{"date":"2022-11-19 00:00:00","players":10513,"averagePlayers":7999,"twitchViewers":5018},{"date":"2022-11-20 00:00:00","players":10082,"averagePlayers":7674,"twitchViewers":5739},{"date":"2022-11-21 00:00:00","players":13459,"averagePlayers":6447,"twitchViewers":16134},{"date":"2022-11-22 00:00:00","players":11049,"averagePlayers":7754,"twitchViewers":12078},{"date":"2022-11-23 00:00:00","players":9736,"averagePlayers":6866,"twitchViewers":6818},{"date":"2022-11-24 00:00:00","players":8988,"averagePlayers":6171,"twitchViewers":36911},{"date":"2022-11-25 00:00:00","players":9014,"averagePlayers":6275,"twitchViewers":25456},{"date":"2022-11-26 00:00:00","players":9247,"averagePlayers":7031,"twitchViewers":20536},{"date":"2022-11-27 00:00:00","players":9542,"averagePlayers":6903,"twitchViewers":12282},{"date":"2022-11-28 00:00:00","players":7888,"averagePlayers":5221,"twitchViewers":9119},{"date":"2022-11-29 00:00:00","players":6730,"averagePlayers":4725,"twitchViewers":7238},{"date":"2022-11-30 00:00:00","players":6509,"averagePlayers":4589,"twitchViewers":5118},{"date":"2022-12-01 00:00:00","players":7243,"averagePlayers":4496,"twitchViewers":246560},{"date":"2022-12-02 00:00:00","players":8049,"averagePlayers":5573,"twitchViewers":22925},{"date":"2022-12-03 00:00:00","players":9572,"averagePlayers":7039,"twitchViewers":20471},{"date":"2022-12-04 00:00:00","players":10825,"averagePlayers":7808,"twitchViewers":22172},{"date":"2022-12-05 00:00:00","players":9324,"averagePlayers":6496,"twitchViewers":26877},{"date":"2022-12-06 00:00:00","players":9473,"averagePlayers":6336,"twitchViewers":21296},{"date":"2022-12-07 00:00:00","players":9457,"averagePlayers":6612,"twitchViewers":28333},{"date":"2022-12-08 00:00:00","players":9519,"averagePlayers":6685,"twitchViewers":31203},{"date":"2022-12-09 00:00:00","players":127944,"averagePlayers":32815,"twitchViewers":152000},{"date":"2022-12-10 00:00:00","players":102017,"averagePlayers":82880,"twitchViewers":124419},{"date":"2022-12-11 00:00:00","players":103713,"averagePlayers":77867,"twitchViewers":65869},{"date":"2022-12-12 00:00:00","players":88431,"averagePlayers":62382,"twitchViewers":56179},{"date":"2022-12-13 00:00:00","players":83749,"averagePlayers":58117,"twitchViewers":43069},{"date":"2022-12-14 00:00:00","players":75446,"averagePlayers":53782,"twitchViewers":38755},{"date":"2022-12-15 00:00:00","players":74684,"averagePlayers":52156,"twitchViewers":39905},{"date":"2022-12-16 00:00:00","players":74297,"averagePlayers":52669,"twitchViewers":34671},{"date":"2022-12-17 00:00:00","players":78432,"averagePlayers":59039,"twitchViewers":38584},{"date":"2022-12-18 00:00:00","players":79298,"averagePlayers":59112,"twitchViewers":35017},{"date":"2022-12-19 00:00:00","players":71605,"averagePlayers":49193,"twitchViewers":36425},{"date":"2022-12-20 00:00:00","players":69608,"averagePlayers":47850,"twitchViewers":35661},{"date":"2022-12-21 00:00:00","players":67057,"averagePlayers":46818,"twitchViewers":36118},{"date":"2022-12-22 00:00:00","players":67243,"averagePlayers":47868,"twitchViewers":35077},{"date":"2022-12-23 00:00:00","players":66804,"averagePlayers":48502,"twitchViewers":35417},{"date":"2022-12-24 00:00:00","players":56102,"averagePlayers":46559,"twitchViewers":31943},{"date":"2022-12-25 00:00:00","players":62020,"averagePlayers":46557,"twitchViewers":36797},{"date":"2022-12-26 00:00:00","players":65956,"averagePlayers":47883,"twitchViewers":37437},{"date":"2022-12-27 00:00:00","players":64718,"averagePlayers":47047,"twitchViewers":37012},{"date":"2022-12-28 00:00:00","players":61260,"averagePlayers":45621,"twitchViewers":35123},{"date":"2022-12-29 00:00:00","players":60903,"averagePlayers":44662,"twitchViewers":31713},{"date":"2022-12-30 00:00:00","players":60615,"averagePlayers":44917,"twitchViewers":31820},{"date":"2022-12-31 00:00:00","players":50637,"averagePlayers":41134,"twitchViewers":32579},{"date":"2023-01-01 00:00:00","players":60980,"averagePlayers":42667,"twitchViewers":31202},{"date":"2023-01-02 00:00:00","players":61692,"averagePlayers":44771,"twitchViewers":33180},{"date":"2023-01-03 00:00:00","players":55568,"averagePlayers":40853,"twitchViewers":25696},{"date":"2023-01-04 00:00:00","players":54347,"averagePlayers":39456,"twitchViewers":27373},{"date":"2023-01-05 00:00:00","players":52959,"averagePlayers":38344,"twitchViewers":29333},{"date":"2023-01-06 00:00:00","players":54373,"averagePlayers":40073,"twitchViewers":36884},{"date":"2023-01-07 00:00:00","players":57564,"averagePlayers":43474,"twitchViewers":30456},{"date":"2023-01-08 00:00:00","players":58320,"averagePlayers":43780,"twitchViewers":33301},{"date":"2023-01-09 00:00:00","players":50582,"averagePlayers":35359,"twitchViewers":28246},{"date":"2023-01-10 00:00:00","players":49433,"averagePlayers":34300,"twitchViewers":25493},{"date":"2023-01-11 00:00:00","players":49142,"averagePlayers":34758,"twitchViewers":27136},{"date":"2023-01-12 00:00:00","players":47773,"averagePlayers":33768,"twitchViewers":23758},{"date":"2023-01-13 00:00:00","players":48871,"averagePlayers":35172,"twitchViewers":29374},{"date":"2023-01-14 00:00:00","players":53530,"averagePlayers":40807,"twitchViewers":30348},{"date":"2023-01-15 00:00:00","players":54420,"averagePlayers":42381,"twitchViewers":33757},{"date":"2023-01-16 00:00:00","players":50789,"averagePlayers":36765,"twitchViewers":14185},{"date":"2023-01-17 00:00:00","players":46523,"averagePlayers":34239,"twitchViewers":16061},{"date":"2023-01-18 00:00:00","players":45071,"averagePlayers":33347,"twitchViewers":14067},{"date":"2023-01-19 00:00:00","players":44471,"averagePlayers":33006,"twitchViewers":12682},{"date":"2023-01-20 00:00:00","players":44371,"averagePlayers":33700,"twitchViewers":11386},{"date":"2023-01-21 00:00:00","players":47210,"averagePlayers":37436,"twitchViewers":13143},{"date":"2023-01-22 00:00:00","players":47607,"averagePlayers":37601,"twitchViewers":13710},{"date":"2023-01-23 00:00:00","players":41930,"averagePlayers":31246,"twitchViewers":13340},{"date":"2023-01-24 00:00:00","players":40164,"averagePlayers":29849,"twitchViewers":9302},{"date":"2023-01-25 00:00:00","players":38173,"averagePlayers":28700,"twitchViewers":10205},{"date":"2023-01-26 00:00:00","players":37644,"averagePlayers":28182,"twitchViewers":12576},{"date":"2023-01-27 00:00:00","players":37061,"averagePlayers":28588,"twitchViewers":8246},{"date":"2023-01-28 00:00:00","players":39998,"averagePlayers":31965,"twitchViewers":10354},{"date":"2023-01-29 00:00:00","players":40408,"averagePlayers":32217,"twitchViewers":10336},{"date":"2023-01-30 00:00:00","players":35559,"averagePlayers":26924,"twitchViewers":8567},{"date":"2023-01-31 00:00:00","players":34280,"averagePlayers":25799,"twitchViewers":10061},{"date":"2023-02-01 00:00:00","players":32744,"averagePlayers":24261,"twitchViewers":11383},{"date":"2023-02-02 00:00:00","players":31943,"averagePlayers":24094,"twitchViewers":8841},{"date":"2023-02-03 00:00:00","players":32579,"averagePlayers":25115,"twitchViewers":10331},{"date":"2023-02-04 00:00:00","players":35068,"averagePlayers":28047,"twitchViewers":9612},{"date":"2023-02-05 00:00:00","players":35339,"averagePlayers":28418,"twitchViewers":7572},{"date":"2023-02-06 00:00:00","players":30460,"averagePlayers":23509,"twitchViewers":6836},{"date":"2023-02-07 00:00:00","players":29016,"averagePlayers":22309,"twitchViewers":6154},{"date":"2023-02-08 00:00:00","players":27605,"averagePlayers":21504,"twitchViewers":5717},{"date":"2023-02-09 00:00:00","players":26788,"averagePlayers":20963,"twitchViewers":7622},{"date":"2023-02-10 00:00:00","players":30255,"averagePlayers":21456,"twitchViewers":29005},{"date":"2023-02-11 00:00:00","players":30708,"averagePlayers":24914,"twitchViewers":23688},{"date":"2023-02-12 00:00:00","players":30915,"averagePlayers":24892,"twitchViewers":16286},{"date":"2023-02-13 00:00:00","players":26968,"averagePlayers":20635,"twitchViewers":19158},{"date":"2023-02-14 00:00:00","players":25030,"averagePlayers":19458,"twitchViewers":11429},{"date":"2023-02-15 00:00:00","players":24973,"averagePlayers":19134,"twitchViewers":9233},{"date":"2023-02-16 00:00:00","players":24625,"averagePlayers":19102,"twitchViewers":11652},{"date":"2023-02-17 00:00:00","players":25128,"averagePlayers":19603,"twitchViewers":11610},{"date":"2023-02-18 00:00:00","players":26563,"averagePlayers":21593,"twitchViewers":7927},{"date":"2023-02-19 00:00:00","players":26967,"averagePlayers":21970,"twitchViewers":9623},{"date":"2023-02-20 00:00:00","players":24652,"averagePlayers":19047,"twitchViewers":8821},{"date":"2023-02-21 00:00:00","players":23401,"averagePlayers":18040,"twitchViewers":5778},{"date":"2023-02-22 00:00:00","players":23224,"averagePlayers":18040,"twitchViewers":4780},{"date":"2023-02-23 00:00:00","players":22085,"averagePlayers":18165,"twitchViewers":5998},{"date":"2023-02-24 00:00:00","players":21709,"averagePlayers":17843,"twitchViewers":4805},{"date":"2023-02-25 00:00:00","players":22788,"averagePlayers":18976,"twitchViewers":4590},{"date":"2023-02-26 00:00:00","players":23041,"averagePlayers":19066,"twitchViewers":4373},{"date":"2023-02-27 00:00:00","players":20164,"averagePlayers":16192,"twitchViewers":3970},{"date":"2023-02-28 00:00:00","players":19585,"averagePlayers":15589,"twitchViewers":3307},{"date":"2023-03-01 00:00:00","players":18890,"averagePlayers":15250,"twitchViewers":6826},{"date":"2023-03-02 00:00:00","players":18781,"averagePlayers":15116,"twitchViewers":4078},{"date":"2023-03-03 00:00:00","players":18748,"averagePlayers":15264,"twitchViewers":2927},{"date":"2023-03-04 00:00:00","players":20298,"averagePlayers":16898,"twitchViewers":4514},{"date":"2023-03-05 00:00:00","players":20790,"averagePlayers":17186,"twitchViewers":4062},{"date":"2023-03-06 00:00:00","players":18425,"averagePlayers":14863,"twitchViewers":4901},{"date":"2023-03-07 00:00:00","players":17950,"averagePlayers":14153,"twitchViewers":2960},{"date":"2023-03-08 00:00:00","players":20655,"averagePlayers":14962,"twitchViewers":15093},{"date":"2023-03-09 00:00:00","players":19637,"averagePlayers":16178,"twitchViewers":14301},{"date":"2023-03-10 00:00:00","players":19285,"averagePlayers":15620,"twitchViewers":3917},{"date":"2023-03-11 00:00:00","players":20396,"averagePlayers":17030,"twitchViewers":3364},{"date":"2023-03-12 00:00:00","players":20606,"averagePlayers":17144,"twitchViewers":2873},{"date":"2023-03-13 00:00:00","players":18196,"averagePlayers":14512,"twitchViewers":1912},{"date":"2023-03-14 00:00:00","players":17629,"averagePlayers":13874,"twitchViewers":2549},{"date":"2023-03-15 00:00:00","players":17024,"averagePlayers":13753,"twitchViewers":4849},{"date":"2023-03-16 00:00:00","players":16522,"averagePlayers":13450,"twitchViewers":3312},{"date":"2023-03-17 00:00:00","players":16034,"averagePlayers":13314,"twitchViewers":1213},{"date":"2023-03-18 00:00:00","players":17666,"averagePlayers":14657,"twitchViewers":706},{"date":"2023-03-19 00:00:00","players":18852,"averagePlayers":15536,"twitchViewers":3019},{"date":"2023-03-20 00:00:00","players":17929,"averagePlayers":14146,"twitchViewers":3301},{"date":"2023-03-21 00:00:00","players":18357,"averagePlayers":14658,"twitchViewers":13452},{"date":"2023-03-22 00:00:00","players":18302,"averagePlayers":14609,"twitchViewers":9284},{"date":"2023-03-23 00:00:00","players":17744,"averagePlayers":14144,"twitchViewers":3465},{"date":"2023-03-24 00:00:00","players":15244,"averagePlayers":12894,"twitchViewers":3309},{"date":"2023-03-25 00:00:00","players":16918,"averagePlayers":13790,"twitchViewers":2729},{"date":"2023-03-26 00:00:00","players":18755,"averagePlayers":14959,"twitchViewers":2712},{"date":"2023-03-27 00:00:00","players":17974,"averagePlayers":13760,"twitchViewers":3393},{"date":"2023-03-28 00:00:00","players":18623,"averagePlayers":14171,"twitchViewers":11648},{"date":"2023-03-29 00:00:00","players":16053,"averagePlayers":11634,"twitchViewers":8477},{"date":"2023-03-30 00:00:00","players":15153,"averagePlayers":10284,"twitchViewers":290478},{"date":"2023-03-31 00:00:00","players":17060,"averagePlayers":11604,"twitchViewers":45889},{"date":"2023-04-01 00:00:00","players":21223,"averagePlayers":15350,"twitchViewers":32578},{"date":"2023-04-02 00:00:00","players":26139,"averagePlayers":20615,"twitchViewers":31600},{"date":"2023-04-03 00:00:00","players":23051,"averagePlayers":17276,"twitchViewers":30688},{"date":"2023-04-04 00:00:00","players":22413,"averagePlayers":16445,"twitchViewers":34240},{"date":"2023-04-05 00:00:00","players":21503,"averagePlayers":16511,"twitchViewers":35285},{"date":"2023-04-06 00:00:00","players":22270,"averagePlayers":16993,"twitchViewers":33823},{"date":"2023-04-07 00:00:00","players":211637,"averagePlayers":54197,"twitchViewers":220916},{"date":"2023-04-08 00:00:00","players":167375,"averagePlayers":136038,"twitchViewers":158811},{"date":"2023-04-09 00:00:00","players":159238,"averagePlayers":122916,"twitchViewers":83442},{"date":"2023-04-10 00:00:00","players":145866,"averagePlayers":109596,"twitchViewers":67775},{"date":"2023-04-11 00:00:00","players":135548,"averagePlayers":94793,"twitchViewers":60368},{"date":"2023-04-12 00:00:00","players":128246,"averagePlayers":89935,"twitchViewers":50535},{"date":"2023-04-13 00:00:00","players":124079,"averagePlayers":86132,"twitchViewers":51830},{"date":"2023-04-14 00:00:00","players":123962,"averagePlayers":89305,"twitchViewers":47554},{"date":"2023-04-15 00:00:00","players":131724,"averagePlayers":100224,"twitchViewers":49231},{"date":"2023-04-16 00:00:00","players":132894,"averagePlayers":100089,"twitchViewers":47729},{"date":"2023-04-17 00:00:00","players":116283,"averagePlayers":80468,"twitchViewers":42312},{"date":"2023-04-18 00:00:00","players":110730,"averagePlayers":76724,"twitchViewers":46804},{"date":"2023-04-19 00:00:00","players":106122,"averagePlayers":73449,"twitchViewers":47697},{"date":"2023-04-20 00:00:00","players":103461,"averagePlayers":71947,"twitchViewers":42256},{"date":"2023-04-21 00:00:00","players":102071,"averagePlayers":72267,"twitchViewers":32933},{"date":"2023-04-22 00:00:00","players":107525,"averagePlayers":81119,"twitchViewers":34481},{"date":"2023-04-23 00:00:00","players":110542,"averagePlayers":82338,"twitchViewers":46704},{"date":"2023-04-24 00:00:00","players":95811,"averagePlayers":66622,"twitchViewers":35310},{"date":"2023-04-25 00:00:00","players":91073,"averagePlayers":63740,"twitchViewers":39350},{"date":"2023-04-26 00:00:00","players":85021,"averagePlayers":59521,"twitchViewers":30345},{"date":"2023-04-27 00:00:00","players":82160,"averagePlayers":57580,"twitchViewers":34142},{"date":"2023-04-28 00:00:00","players":80776,"averagePlayers":57898,"twitchViewers":20344},{"date":"2023-04-29 00:00:00","players":84955,"averagePlayers":64420,"twitchViewers":22297},{"date":"2023-04-30 00:00:00","players":86369,"averagePlayers":65512,"twitchViewers":21471},{"date":"2023-05-01 00:00:00","players":79314,"averagePlayers":60368,"twitchViewers":26397},{"date":"2023-05-02 00:00:00","players":72852,"averagePlayers":50472,"twitchViewers":17782},{"date":"2023-05-03 00:00:00","players":69654,"averagePlayers":48305,"twitchViewers":20608},{"date":"2023-05-04 00:00:00","players":67998,"averagePlayers":46841,"twitchViewers":15018},{"date":"2023-05-05 00:00:00","players":66977,"averagePlayers":48729,"twitchViewers":0},{"date":"2023-05-06 00:00:00","players":71072,"averagePlayers":54484,"twitchViewers":15744},{"date":"2023-05-07 00:00:00","players":72546,"averagePlayers":55031,"twitchViewers":20681},{"date":"2023-05-08 00:00:00","players":63725,"averagePlayers":46265,"twitchViewers":16297},{"date":"2023-05-09 00:00:00","players":59548,"averagePlayers":42608,"twitchViewers":13146},{"date":"2023-05-10 00:00:00","players":55925,"averagePlayers":39098,"twitchViewers":10355},{"date":"2023-05-11 00:00:00","players":53599,"averagePlayers":38139,"twitchViewers":24537},{"date":"2023-05-12 00:00:00","players":51370,"averagePlayers":37220,"twitchViewers":9438},{"date":"2023-05-13 00:00:00","players":51030,"averagePlayers":39696,"twitchViewers":9932},{"date":"2023-05-14 00:00:00","players":51986,"averagePlayers":39948,"twitchViewers":9560},{"date":"2023-05-15 00:00:00","players":48292,"averagePlayers":31652,"twitchViewers":18156},{"date":"2023-05-16 00:00:00","players":47114,"averagePlayers":33171,"twitchViewers":10370},{"date":"2023-05-17 00:00:00","players":44467,"averagePlayers":32436,"twitchViewers":8304},{"date":"2023-05-18 00:00:00","players":43564,"averagePlayers":32666,"twitchViewers":20641},{"date":"2023-05-19 00:00:00","players":42917,"averagePlayers":32099,"twitchViewers":9368},{"date":"2023-05-20 00:00:00","players":44850,"averagePlayers":35010,"twitchViewers":10582},{"date":"2023-05-21 00:00:00","players":45245,"averagePlayers":34994,"twitchViewers":10775},{"date":"2023-05-22 00:00:00","players":40314,"averagePlayers":28873,"twitchViewers":10906},{"date":"2023-05-23 00:00:00","players":38073,"averagePlayers":27375,"twitchViewers":10188},{"date":"2023-05-24 00:00:00","players":36193,"averagePlayers":26335,"twitchViewers":8981},{"date":"2023-05-25 00:00:00","players":34506,"averagePlayers":25563,"twitchViewers":24049},{"date":"2023-05-26 00:00:00","players":33869,"averagePlayers":25600,"twitchViewers":6346},{"date":"2023-05-27 00:00:00","players":35337,"averagePlayers":28317,"twitchViewers":9111},{"date":"2023-05-28 00:00:00","players":36350,"averagePlayers":28805,"twitchViewers":8384},{"date":"2023-05-29 00:00:00","players":34532,"averagePlayers":25827,"twitchViewers":7232},{"date":"2023-05-30 00:00:00","players":30795,"averagePlayers":22706,"twitchViewers":6791},{"date":"2023-05-31 00:00:00","players":29426,"averagePlayers":21827,"twitchViewers":4369},{"date":"2023-06-01 00:00:00","players":27347,"averagePlayers":20791,"twitchViewers":3110},{"date":"2023-06-02 00:00:00","players":24811,"averagePlayers":19223,"twitchViewers":901},{"date":"2023-06-03 00:00:00","players":26048,"averagePlayers":20687,"twitchViewers":1445},{"date":"2023-06-04 00:00:00","players":27340,"averagePlayers":21385,"twitchViewers":1349},{"date":"2023-06-05 00:00:00","players":24126,"averagePlayers":18200,"twitchViewers":1519},{"date":"2023-06-06 00:00:00","players":23139,"averagePlayers":17153,"twitchViewers":1373},{"date":"2023-06-07 00:00:00","players":22426,"averagePlayers":16905,"twitchViewers":1000},{"date":"2023-06-08 00:00:00","players":23062,"averagePlayers":17505,"twitchViewers":1300},{"date":"2023-06-09 00:00:00","players":22773,"averagePlayers":17450,"twitchViewers":1280},{"date":"2023-06-10 00:00:00","players":24034,"averagePlayers":19177,"twitchViewers":2053},{"date":"2023-06-11 00:00:00","players":25168,"averagePlayers":19919,"twitchViewers":1785},{"date":"2023-06-12 00:00:00","players":22946,"averagePlayers":17550,"twitchViewers":2337},{"date":"2023-06-13 00:00:00","players":22286,"averagePlayers":16477,"twitchViewers":1822},{"date":"2023-06-14 00:00:00","players":21116,"averagePlayers":16109,"twitchViewers":1836},{"date":"2023-06-15 00:00:00","players":19275,"averagePlayers":14287,"twitchViewers":1274},{"date":"2023-06-16 00:00:00","players":20692,"averagePlayers":15980,"twitchViewers":2905},{"date":"2023-06-17 00:00:00","players":21870,"averagePlayers":17685,"twitchViewers":1479},{"date":"2023-06-18 00:00:00","players":22729,"averagePlayers":18169,"twitchViewers":1303},{"date":"2023-06-19 00:00:00","players":21377,"averagePlayers":15881,"twitchViewers":2604},{"date":"2023-06-20 00:00:00","players":20316,"averagePlayers":15312,"twitchViewers":2322},{"date":"2023-06-21 00:00:00","players":19526,"averagePlayers":15038,"twitchViewers":1452},{"date":"2023-06-22 00:00:00","players":18857,"averagePlayers":14790,"twitchViewers":2070},{"date":"2023-06-23 00:00:00","players":18711,"averagePlayers":14857,"twitchViewers":1338},{"date":"2023-06-24 00:00:00","players":19826,"averagePlayers":16181,"twitchViewers":2314},{"date":"2023-06-25 00:00:00","players":20925,"averagePlayers":17008,"twitchViewers":2441},{"date":"2023-06-26 00:00:00","players":19319,"averagePlayers":15006,"twitchViewers":2036},{"date":"2023-06-27 00:00:00","players":19082,"averagePlayers":14837,"twitchViewers":1770},{"date":"2023-06-28 00:00:00","players":18417,"averagePlayers":14562,"twitchViewers":1551},{"date":"2023-06-29 00:00:00","players":17781,"averagePlayers":14232,"twitchViewers":2324},{"date":"2023-06-30 00:00:00","players":17957,"averagePlayers":14314,"twitchViewers":2647},{"date":"2023-07-01 00:00:00","players":19066,"averagePlayers":15826,"twitchViewers":1712},{"date":"2023-07-02 00:00:00","players":19447,"averagePlayers":15938,"twitchViewers":1538},{"date":"2023-07-03 00:00:00","players":18143,"averagePlayers":14269,"twitchViewers":1280},{"date":"2023-07-04 00:00:00","players":17708,"averagePlayers":14028,"twitchViewers":1729},{"date":"2023-07-05 00:00:00","players":16753,"averagePlayers":13450,"twitchViewers":1240},{"date":"2023-07-06 00:00:00","players":16231,"averagePlayers":13232,"twitchViewers":1151},{"date":"2023-07-07 00:00:00","players":16113,"averagePlayers":13211,"twitchViewers":1042},{"date":"2023-07-08 00:00:00","players":16989,"averagePlayers":14276,"twitchViewers":1821},{"date":"2023-07-09 00:00:00","players":17634,"averagePlayers":14665,"twitchViewers":1396},{"date":"2023-07-10 00:00:00","players":15863,"averagePlayers":12914,"twitchViewers":2856},{"date":"2023-07-11 00:00:00","players":15396,"averagePlayers":12601,"twitchViewers":1397},{"date":"2023-07-12 00:00:00","players":15551,"averagePlayers":12523,"twitchViewers":1193},{"date":"2023-07-13 00:00:00","players":15332,"averagePlayers":12383,"twitchViewers":983},{"date":"2023-07-14 00:00:00","players":15302,"averagePlayers":12452,"twitchViewers":1638},{"date":"2023-07-15 00:00:00","players":16579,"averagePlayers":13726,"twitchViewers":2079},{"date":"2023-07-16 00:00:00","players":17041,"averagePlayers":14312,"twitchViewers":3470},{"date":"2023-07-17 00:00:00","players":15415,"averagePlayers":12645,"twitchViewers":1651},{"date":"2023-07-18 00:00:00","players":15240,"averagePlayers":12228,"twitchViewers":3192},{"date":"2023-07-19 00:00:00","players":15235,"averagePlayers":12181,"twitchViewers":2453},{"date":"2023-07-20 00:00:00","players":14503,"averagePlayers":12103,"twitchViewers":1784},{"date":"2023-07-21 00:00:00","players":14641,"averagePlayers":12075,"twitchViewers":848},{"date":"2023-07-22 00:00:00","players":15481,"averagePlayers":13061,"twitchViewers":1392},{"date":"2023-07-23 00:00:00","players":16066,"averagePlayers":13469,"twitchViewers":2895},{"date":"2023-07-24 00:00:00","players":13854,"averagePlayers":11384,"twitchViewers":2870},{"date":"2023-07-25 00:00:00","players":13943,"averagePlayers":11067,"twitchViewers":3422},{"date":"2023-07-26 00:00:00","players":14239,"averagePlayers":11251,"twitchViewers":3495},{"date":"2023-07-27 00:00:00","players":14245,"averagePlayers":11294,"twitchViewers":2907},{"date":"2023-07-28 00:00:00","players":14493,"averagePlayers":11917,"twitchViewers":445814},{"date":"2023-07-29 00:00:00","players":18384,"averagePlayers":14715,"twitchViewers":245550},{"date":"2023-07-30 00:00:00","players":20273,"averagePlayers":16233,"twitchViewers":89443},{"date":"2023-07-31 00:00:00","players":18640,"averagePlayers":14653,"twitchViewers":10882},{"date":"2023-08-01 00:00:00","players":18577,"averagePlayers":14321,"twitchViewers":22963},{"date":"2023-08-02 00:00:00","players":18318,"averagePlayers":14260,"twitchViewers":18176},{"date":"2023-08-03 00:00:00","players":17080,"averagePlayers":13929,"twitchViewers":8766},{"date":"2023-08-04 00:00:00","players":16755,"averagePlayers":13478,"twitchViewers":4854},{"date":"2023-08-05 00:00:00","players":17727,"averagePlayers":14656,"twitchViewers":6978},{"date":"2023-08-06 00:00:00","players":18469,"averagePlayers":15175,"twitchViewers":4977},{"date":"2023-08-07 00:00:00","players":16764,"averagePlayers":13256,"twitchViewers":6440},{"date":"2023-08-08 00:00:00","players":15713,"averagePlayers":12605,"twitchViewers":7843},{"date":"2023-08-09 00:00:00","players":15560,"averagePlayers":12268,"twitchViewers":9064},{"date":"2023-08-10 00:00:00","players":15007,"averagePlayers":12049,"twitchViewers":33474},{"date":"2023-08-11 00:00:00","players":16214,"averagePlayers":12553,"twitchViewers":22202},{"date":"2023-08-12 00:00:00","players":17831,"averagePlayers":14278,"twitchViewers":14766},{"date":"2023-08-13 00:00:00","players":19743,"averagePlayers":15415,"twitchViewers":15461},{"date":"2023-08-14 00:00:00","players":18112,"averagePlayers":14342,"twitchViewers":15531},{"date":"2023-08-15 00:00:00","players":14855,"averagePlayers":11136,"twitchViewers":29266},{"date":"2023-08-16 00:00:00","players":14502,"averagePlayers":10407,"twitchViewers":31360},{"date":"2023-08-17 00:00:00","players":15199,"averagePlayers":10950,"twitchViewers":31723},{"date":"2023-08-18 00:00:00","players":165823,"averagePlayers":42495,"twitchViewers":175648},{"date":"2023-08-19 00:00:00","players":130895,"averagePlayers":108424,"twitchViewers":135825},{"date":"2023-08-20 00:00:00","players":131887,"averagePlayers":100671,"twitchViewers":63289},{"date":"2023-08-21 00:00:00","players":115273,"averagePlayers":82367,"twitchViewers":49810},{"date":"2023-08-22 00:00:00","players":107560,"averagePlayers":76345,"twitchViewers":49490},{"date":"2023-08-23 00:00:00","players":103619,"averagePlayers":73983,"twitchViewers":41746},{"date":"2023-08-24 00:00:00","players":103318,"averagePlayers":73306,"twitchViewers":43092},{"date":"2023-08-25 00:00:00","players":100153,"averagePlayers":72690,"twitchViewers":43382},{"date":"2023-08-26 00:00:00","players":104362,"averagePlayers":79234,"twitchViewers":38567},{"date":"2023-08-27 00:00:00","players":108672,"averagePlayers":81519,"twitchViewers":40173},{"date":"2023-08-28 00:00:00","players":97918,"averagePlayers":68480,"twitchViewers":41685},{"date":"2023-08-29 00:00:00","players":94053,"averagePlayers":64937,"twitchViewers":39428},{"date":"2023-08-30 00:00:00","players":90726,"averagePlayers":63710,"twitchViewers":33999},{"date":"2023-08-31 00:00:00","players":85772,"averagePlayers":61162,"twitchViewers":33481},{"date":"2023-09-01 00:00:00","players":83699,"averagePlayers":60544,"twitchViewers":25157},{"date":"2023-09-02 00:00:00","players":87110,"averagePlayers":66796,"twitchViewers":27911},{"date":"2023-09-03 00:00:00","players":89839,"averagePlayers":67483,"twitchViewers":26727},{"date":"2023-09-04 00:00:00","players":87527,"averagePlayers":58563,"twitchViewers":35173},{"date":"2023-09-05 00:00:00","players":77727,"averagePlayers":53471,"twitchViewers":34644},{"date":"2023-09-06 00:00:00","players":74229,"averagePlayers":51894,"twitchViewers":29080},{"date":"2023-09-07 00:00:00","players":72674,"averagePlayers":50270,"twitchViewers":22587},{"date":"2023-09-08 00:00:00","players":71935,"averagePlayers":52184,"twitchViewers":20507},{"date":"2023-09-09 00:00:00","players":75360,"averagePlayers":58134,"twitchViewers":19407},{"date":"2023-09-10 00:00:00","players":77727,"averagePlayers":58134,"twitchViewers":21594}]
+[
+	{
+		"date": "2022-01-01 00:00:00",
+		"players": 19481,
+		"averagePlayers": "",
+		"twitchViewers": 39460
+	},
+	{
+		"date": "2022-01-02 00:00:00",
+		"players": 18149,
+		"averagePlayers": "",
+		"twitchViewers": 7940
+	},
+	{
+		"date": "2022-01-03 00:00:00",
+		"players": 15741,
+		"averagePlayers": "",
+		"twitchViewers": 6751
+	},
+	{
+		"date": "2022-01-04 00:00:00",
+		"players": 14154,
+		"averagePlayers": "",
+		"twitchViewers": 5158
+	},
+	{
+		"date": "2022-01-05 00:00:00",
+		"players": 13354,
+		"averagePlayers": "",
+		"twitchViewers": 4741
+	},
+	{
+		"date": "2022-01-06 00:00:00",
+		"players": 12869,
+		"averagePlayers": "",
+		"twitchViewers": 6820
+	},
+	{
+		"date": "2022-01-07 00:00:00",
+		"players": 12759,
+		"averagePlayers": "",
+		"twitchViewers": 4518
+	},
+	{
+		"date": "2022-01-08 00:00:00",
+		"players": 13786,
+		"averagePlayers": "",
+		"twitchViewers": 6000
+	},
+	{
+		"date": "2022-01-09 00:00:00",
+		"players": 13498,
+		"averagePlayers": "",
+		"twitchViewers": 4063
+	},
+	{
+		"date": "2022-01-10 00:00:00",
+		"players": 11267,
+		"averagePlayers": "",
+		"twitchViewers": 17519
+	},
+	{
+		"date": "2022-01-11 00:00:00",
+		"players": 11231,
+		"averagePlayers": "",
+		"twitchViewers": 2955
+	},
+	{
+		"date": "2022-01-12 00:00:00",
+		"players": 10440,
+		"averagePlayers": "",
+		"twitchViewers": 3791
+	},
+	{
+		"date": "2022-01-13 00:00:00",
+		"players": 10350,
+		"averagePlayers": "",
+		"twitchViewers": 2298
+	},
+	{
+		"date": "2022-01-14 00:00:00",
+		"players": 10372,
+		"averagePlayers": "",
+		"twitchViewers": 2834
+	},
+	{
+		"date": "2022-01-15 00:00:00",
+		"players": 11567,
+		"averagePlayers": "",
+		"twitchViewers": 2441
+	},
+	{
+		"date": "2022-01-16 00:00:00",
+		"players": 11537,
+		"averagePlayers": "",
+		"twitchViewers": 2985
+	},
+	{
+		"date": "2022-01-17 00:00:00",
+		"players": 10521,
+		"averagePlayers": "",
+		"twitchViewers": 2892
+	},
+	{
+		"date": "2022-01-18 00:00:00",
+		"players": 9554,
+		"averagePlayers": "",
+		"twitchViewers": 2805
+	},
+	{
+		"date": "2022-01-19 00:00:00",
+		"players": 9079,
+		"averagePlayers": "",
+		"twitchViewers": 3137
+	},
+	{
+		"date": "2022-01-20 00:00:00",
+		"players": 9062,
+		"averagePlayers": "",
+		"twitchViewers": 4038
+	},
+	{
+		"date": "2022-01-21 00:00:00",
+		"players": 9210,
+		"averagePlayers": "",
+		"twitchViewers": 2320
+	},
+	{
+		"date": "2022-01-22 00:00:00",
+		"players": 10443,
+		"averagePlayers": "",
+		"twitchViewers": 4422
+	},
+	{
+		"date": "2022-01-23 00:00:00",
+		"players": 10569,
+		"averagePlayers": "",
+		"twitchViewers": 3229
+	},
+	{
+		"date": "2022-01-24 00:00:00",
+		"players": 8892,
+		"averagePlayers": "",
+		"twitchViewers": 26847
+	},
+	{
+		"date": "2022-01-25 00:00:00",
+		"players": 8452,
+		"averagePlayers": "",
+		"twitchViewers": 7423
+	},
+	{
+		"date": "2022-01-26 00:00:00",
+		"players": 8273,
+		"averagePlayers": "",
+		"twitchViewers": 6095
+	},
+	{
+		"date": "2022-01-27 00:00:00",
+		"players": 8824,
+		"averagePlayers": "",
+		"twitchViewers": 254180
+	},
+	{
+		"date": "2022-01-28 00:00:00",
+		"players": 9754,
+		"averagePlayers": "",
+		"twitchViewers": 25167
+	},
+	{
+		"date": "2022-01-29 00:00:00",
+		"players": 11766,
+		"averagePlayers": "",
+		"twitchViewers": 17434
+	},
+	{
+		"date": "2022-01-30 00:00:00",
+		"players": 12866,
+		"averagePlayers": "",
+		"twitchViewers": 18089
+	},
+	{
+		"date": "2022-01-31 00:00:00",
+		"players": 11169,
+		"averagePlayers": "",
+		"twitchViewers": 21027
+	},
+	{
+		"date": "2022-02-01 00:00:00",
+		"players": 11057,
+		"averagePlayers": "",
+		"twitchViewers": 16902
+	},
+	{
+		"date": "2022-02-02 00:00:00",
+		"players": 11498,
+		"averagePlayers": "",
+		"twitchViewers": 33085
+	},
+	{
+		"date": "2022-02-03 00:00:00",
+		"players": 12154,
+		"averagePlayers": "",
+		"twitchViewers": 33174
+	},
+	{
+		"date": "2022-02-04 00:00:00",
+		"players": 158882,
+		"averagePlayers": "",
+		"twitchViewers": 181299
+	},
+	{
+		"date": "2022-02-05 00:00:00",
+		"players": 131261,
+		"averagePlayers": "",
+		"twitchViewers": 142048
+	},
+	{
+		"date": "2022-02-06 00:00:00",
+		"players": 130583,
+		"averagePlayers": "",
+		"twitchViewers": 76483
+	},
+	{
+		"date": "2022-02-07 00:00:00",
+		"players": 111075,
+		"averagePlayers": "",
+		"twitchViewers": 59377
+	},
+	{
+		"date": "2022-02-08 00:00:00",
+		"players": 96809,
+		"averagePlayers": "",
+		"twitchViewers": 48461
+	},
+	{
+		"date": "2022-02-09 00:00:00",
+		"players": 90431,
+		"averagePlayers": "",
+		"twitchViewers": 44309
+	},
+	{
+		"date": "2022-02-10 00:00:00",
+		"players": 86800,
+		"averagePlayers": "",
+		"twitchViewers": 40840
+	},
+	{
+		"date": "2022-02-11 00:00:00",
+		"players": 87597,
+		"averagePlayers": "",
+		"twitchViewers": 39986
+	},
+	{
+		"date": "2022-02-12 00:00:00",
+		"players": 82701,
+		"averagePlayers": "",
+		"twitchViewers": 34654
+	},
+	{
+		"date": "2022-02-13 00:00:00",
+		"players": 83909,
+		"averagePlayers": "",
+		"twitchViewers": 37409
+	},
+	{
+		"date": "2022-02-14 00:00:00",
+		"players": 70817,
+		"averagePlayers": "",
+		"twitchViewers": 34799
+	},
+	{
+		"date": "2022-02-15 00:00:00",
+		"players": 70724,
+		"averagePlayers": "",
+		"twitchViewers": 94219
+	},
+	{
+		"date": "2022-02-16 00:00:00",
+		"players": 67513,
+		"averagePlayers": "",
+		"twitchViewers": 54102
+	},
+	{
+		"date": "2022-02-17 00:00:00",
+		"players": 64889,
+		"averagePlayers": "",
+		"twitchViewers": 23415
+	},
+	{
+		"date": "2022-02-18 00:00:00",
+		"players": 66540,
+		"averagePlayers": "",
+		"twitchViewers": 29420
+	},
+	{
+		"date": "2022-02-19 00:00:00",
+		"players": 69724,
+		"averagePlayers": "",
+		"twitchViewers": 31673
+	},
+	{
+		"date": "2022-02-20 00:00:00",
+		"players": 70081,
+		"averagePlayers": "",
+		"twitchViewers": 24129
+	},
+	{
+		"date": "2022-02-21 00:00:00",
+		"players": 63991,
+		"averagePlayers": "",
+		"twitchViewers": 25496
+	},
+	{
+		"date": "2022-02-22 00:00:00",
+		"players": 59104,
+		"averagePlayers": "",
+		"twitchViewers": 23072
+	},
+	{
+		"date": "2022-02-23 00:00:00",
+		"players": 55389,
+		"averagePlayers": "",
+		"twitchViewers": 17345
+	},
+	{
+		"date": "2022-02-24 00:00:00",
+		"players": 50613,
+		"averagePlayers": "",
+		"twitchViewers": 15482
+	},
+	{
+		"date": "2022-02-25 00:00:00",
+		"players": 46722,
+		"averagePlayers": "",
+		"twitchViewers": 14896
+	},
+	{
+		"date": "2022-02-26 00:00:00",
+		"players": 48902,
+		"averagePlayers": "",
+		"twitchViewers": 13328
+	},
+	{
+		"date": "2022-02-27 00:00:00",
+		"players": 49440,
+		"averagePlayers": "",
+		"twitchViewers": 14820
+	},
+	{
+		"date": "2022-02-28 00:00:00",
+		"players": 42876,
+		"averagePlayers": "",
+		"twitchViewers": 11599
+	},
+	{
+		"date": "2022-03-01 00:00:00",
+		"players": 40818,
+		"averagePlayers": "",
+		"twitchViewers": 10394
+	},
+	{
+		"date": "2022-03-02 00:00:00",
+		"players": 38442,
+		"averagePlayers": "",
+		"twitchViewers": 14397
+	},
+	{
+		"date": "2022-03-03 00:00:00",
+		"players": 37052,
+		"averagePlayers": "",
+		"twitchViewers": 13114
+	},
+	{
+		"date": "2022-03-04 00:00:00",
+		"players": 37184,
+		"averagePlayers": "",
+		"twitchViewers": 13273
+	},
+	{
+		"date": "2022-03-05 00:00:00",
+		"players": 39636,
+		"averagePlayers": "",
+		"twitchViewers": 12216
+	},
+	{
+		"date": "2022-03-06 00:00:00",
+		"players": 40481,
+		"averagePlayers": "",
+		"twitchViewers": 14114
+	},
+	{
+		"date": "2022-03-07 00:00:00",
+		"players": 36003,
+		"averagePlayers": "",
+		"twitchViewers": 13646
+	},
+	{
+		"date": "2022-03-08 00:00:00",
+		"players": 33729,
+		"averagePlayers": "",
+		"twitchViewers": 62745
+	},
+	{
+		"date": "2022-03-09 00:00:00",
+		"players": 33154,
+		"averagePlayers": "",
+		"twitchViewers": 29960
+	},
+	{
+		"date": "2022-03-10 00:00:00",
+		"players": 32063,
+		"averagePlayers": "",
+		"twitchViewers": 11618
+	},
+	{
+		"date": "2022-03-11 00:00:00",
+		"players": 32327,
+		"averagePlayers": "",
+		"twitchViewers": 13303
+	},
+	{
+		"date": "2022-03-12 00:00:00",
+		"players": 35153,
+		"averagePlayers": "",
+		"twitchViewers": 12141
+	},
+	{
+		"date": "2022-03-13 00:00:00",
+		"players": 35348,
+		"averagePlayers": "",
+		"twitchViewers": 11422
+	},
+	{
+		"date": "2022-03-14 00:00:00",
+		"players": 30493,
+		"averagePlayers": "",
+		"twitchViewers": 11324
+	},
+	{
+		"date": "2022-03-15 00:00:00",
+		"players": 29197,
+		"averagePlayers": "",
+		"twitchViewers": 12941
+	},
+	{
+		"date": "2022-03-16 00:00:00",
+		"players": 28060,
+		"averagePlayers": "",
+		"twitchViewers": 9881
+	},
+	{
+		"date": "2022-03-17 00:00:00",
+		"players": 27109,
+		"averagePlayers": "",
+		"twitchViewers": 7600
+	},
+	{
+		"date": "2022-03-18 00:00:00",
+		"players": 27105,
+		"averagePlayers": "",
+		"twitchViewers": 8599
+	},
+	{
+		"date": "2022-03-19 00:00:00",
+		"players": 29292,
+		"averagePlayers": "",
+		"twitchViewers": 8042
+	},
+	{
+		"date": "2022-03-20 00:00:00",
+		"players": 29496,
+		"averagePlayers": "",
+		"twitchViewers": 10368
+	},
+	{
+		"date": "2022-03-21 00:00:00",
+		"players": 25122,
+		"averagePlayers": "",
+		"twitchViewers": 8821
+	},
+	{
+		"date": "2022-03-22 00:00:00",
+		"players": 24164,
+		"averagePlayers": "",
+		"twitchViewers": 7069
+	},
+	{
+		"date": "2022-03-23 00:00:00",
+		"players": 23319,
+		"averagePlayers": "",
+		"twitchViewers": 8444
+	},
+	{
+		"date": "2022-03-24 00:00:00",
+		"players": 22287,
+		"averagePlayers": "",
+		"twitchViewers": 6893
+	},
+	{
+		"date": "2022-03-25 00:00:00",
+		"players": 21933,
+		"averagePlayers": "",
+		"twitchViewers": 6438
+	},
+	{
+		"date": "2022-03-26 00:00:00",
+		"players": 23598,
+		"averagePlayers": "",
+		"twitchViewers": 5876
+	},
+	{
+		"date": "2022-03-27 00:00:00",
+		"players": 24022,
+		"averagePlayers": "",
+		"twitchViewers": 5662
+	},
+	{
+		"date": "2022-03-28 00:00:00",
+		"players": 20658,
+		"averagePlayers": "",
+		"twitchViewers": 7003
+	},
+	{
+		"date": "2022-03-29 00:00:00",
+		"players": 20200,
+		"averagePlayers": "",
+		"twitchViewers": 10309
+	},
+	{
+		"date": "2022-03-30 00:00:00",
+		"players": 19421,
+		"averagePlayers": "",
+		"twitchViewers": 7396
+	},
+	{
+		"date": "2022-03-31 00:00:00",
+		"players": 18564,
+		"averagePlayers": "",
+		"twitchViewers": 9351
+	},
+	{
+		"date": "2022-04-01 00:00:00",
+		"players": 21118,
+		"averagePlayers": "",
+		"twitchViewers": 30441
+	},
+	{
+		"date": "2022-04-02 00:00:00",
+		"players": 20895,
+		"averagePlayers": "",
+		"twitchViewers": 22384
+	},
+	{
+		"date": "2022-04-03 00:00:00",
+		"players": 21475,
+		"averagePlayers": "",
+		"twitchViewers": 14632
+	},
+	{
+		"date": "2022-04-04 00:00:00",
+		"players": 18018,
+		"averagePlayers": "",
+		"twitchViewers": 11821
+	},
+	{
+		"date": "2022-04-05 00:00:00",
+		"players": 17550,
+		"averagePlayers": "",
+		"twitchViewers": 11704
+	},
+	{
+		"date": "2022-04-06 00:00:00",
+		"players": 16477,
+		"averagePlayers": "",
+		"twitchViewers": 9276
+	},
+	{
+		"date": "2022-04-07 00:00:00",
+		"players": 16300,
+		"averagePlayers": "",
+		"twitchViewers": 10126
+	},
+	{
+		"date": "2022-04-08 00:00:00",
+		"players": 16135,
+		"averagePlayers": "",
+		"twitchViewers": 10071
+	},
+	{
+		"date": "2022-04-09 00:00:00",
+		"players": 17429,
+		"averagePlayers": "",
+		"twitchViewers": 9461
+	},
+	{
+		"date": "2022-04-10 00:00:00",
+		"players": 17648,
+		"averagePlayers": "",
+		"twitchViewers": 17095
+	},
+	{
+		"date": "2022-04-11 00:00:00",
+		"players": 15006,
+		"averagePlayers": "",
+		"twitchViewers": 14755
+	},
+	{
+		"date": "2022-04-12 00:00:00",
+		"players": 14320,
+		"averagePlayers": "",
+		"twitchViewers": 5843
+	},
+	{
+		"date": "2022-04-13 00:00:00",
+		"players": 13329,
+		"averagePlayers": "",
+		"twitchViewers": 5543
+	},
+	{
+		"date": "2022-04-14 00:00:00",
+		"players": 13297,
+		"averagePlayers": "",
+		"twitchViewers": 4635
+	},
+	{
+		"date": "2022-04-15 00:00:00",
+		"players": 13372,
+		"averagePlayers": "",
+		"twitchViewers": 4759
+	},
+	{
+		"date": "2022-04-16 00:00:00",
+		"players": 13475,
+		"averagePlayers": "",
+		"twitchViewers": 4042
+	},
+	{
+		"date": "2022-04-17 00:00:00",
+		"players": 13220,
+		"averagePlayers": "",
+		"twitchViewers": 3238
+	},
+	{
+		"date": "2022-04-18 00:00:00",
+		"players": 12228,
+		"averagePlayers": "",
+		"twitchViewers": 3248
+	},
+	{
+		"date": "2022-04-19 00:00:00",
+		"players": 11147,
+		"averagePlayers": "",
+		"twitchViewers": 2141
+	},
+	{
+		"date": "2022-04-20 00:00:00",
+		"players": 10793,
+		"averagePlayers": "",
+		"twitchViewers": 3064
+	},
+	{
+		"date": "2022-04-21 00:00:00",
+		"players": 10467,
+		"averagePlayers": "",
+		"twitchViewers": 2442
+	},
+	{
+		"date": "2022-04-22 00:00:00",
+		"players": 10701,
+		"averagePlayers": "",
+		"twitchViewers": 5987
+	},
+	{
+		"date": "2022-04-23 00:00:00",
+		"players": 11515,
+		"averagePlayers": "",
+		"twitchViewers": 6587
+	},
+	{
+		"date": "2022-04-24 00:00:00",
+		"players": 11550,
+		"averagePlayers": "",
+		"twitchViewers": 5907
+	},
+	{
+		"date": "2022-04-25 00:00:00",
+		"players": 9946,
+		"averagePlayers": "",
+		"twitchViewers": 5118
+	},
+	{
+		"date": "2022-04-26 00:00:00",
+		"players": 9410,
+		"averagePlayers": "",
+		"twitchViewers": 3817
+	},
+	{
+		"date": "2022-04-27 00:00:00",
+		"players": 9134,
+		"averagePlayers": "",
+		"twitchViewers": 3589
+	},
+	{
+		"date": "2022-04-28 00:00:00",
+		"players": 8575,
+		"averagePlayers": "",
+		"twitchViewers": 2740
+	},
+	{
+		"date": "2022-04-29 00:00:00",
+		"players": 8487,
+		"averagePlayers": "",
+		"twitchViewers": 1869
+	},
+	{
+		"date": "2022-04-30 00:00:00",
+		"players": 9141,
+		"averagePlayers": "",
+		"twitchViewers": 1519
+	},
+	{
+		"date": "2022-05-01 00:00:00",
+		"players": 9533,
+		"averagePlayers": "",
+		"twitchViewers": 3006
+	},
+	{
+		"date": "2022-05-02 00:00:00",
+		"players": 8348,
+		"averagePlayers": "",
+		"twitchViewers": 2035
+	},
+	{
+		"date": "2022-05-03 00:00:00",
+		"players": 7963,
+		"averagePlayers": "",
+		"twitchViewers": 3146
+	},
+	{
+		"date": "2022-05-04 00:00:00",
+		"players": 7810,
+		"averagePlayers": "",
+		"twitchViewers": 3580
+	},
+	{
+		"date": "2022-05-05 00:00:00",
+		"players": 8369,
+		"averagePlayers": "",
+		"twitchViewers": 240853
+	},
+	{
+		"date": "2022-05-06 00:00:00",
+		"players": 9668,
+		"averagePlayers": "",
+		"twitchViewers": 27149
+	},
+	{
+		"date": "2022-05-07 00:00:00",
+		"players": 11167,
+		"averagePlayers": "",
+		"twitchViewers": 16227
+	},
+	{
+		"date": "2022-05-08 00:00:00",
+		"players": 11934,
+		"averagePlayers": "",
+		"twitchViewers": 22422
+	},
+	{
+		"date": "2022-05-09 00:00:00",
+		"players": 10973,
+		"averagePlayers": "",
+		"twitchViewers": 29191
+	},
+	{
+		"date": "2022-05-10 00:00:00",
+		"players": 10826,
+		"averagePlayers": "",
+		"twitchViewers": 23782
+	},
+	{
+		"date": "2022-05-11 00:00:00",
+		"players": 10869,
+		"averagePlayers": "",
+		"twitchViewers": 21981
+	},
+	{
+		"date": "2022-05-12 00:00:00",
+		"players": 10617,
+		"averagePlayers": "",
+		"twitchViewers": 22475
+	},
+	{
+		"date": "2022-05-13 00:00:00",
+		"players": 131010,
+		"averagePlayers": "",
+		"twitchViewers": 167095
+	},
+	{
+		"date": "2022-05-14 00:00:00",
+		"players": 102696,
+		"averagePlayers": "",
+		"twitchViewers": 109934
+	},
+	{
+		"date": "2022-05-15 00:00:00",
+		"players": 105096,
+		"averagePlayers": "",
+		"twitchViewers": 69722
+	},
+	{
+		"date": "2022-05-16 00:00:00",
+		"players": 91485,
+		"averagePlayers": "",
+		"twitchViewers": 47876
+	},
+	{
+		"date": "2022-05-17 00:00:00",
+		"players": 85940,
+		"averagePlayers": "",
+		"twitchViewers": 43058
+	},
+	{
+		"date": "2022-05-18 00:00:00",
+		"players": 81371,
+		"averagePlayers": "",
+		"twitchViewers": 39975
+	},
+	{
+		"date": "2022-05-19 00:00:00",
+		"players": 77387,
+		"averagePlayers": "",
+		"twitchViewers": 35818
+	},
+	{
+		"date": "2022-05-20 00:00:00",
+		"players": 75485,
+		"averagePlayers": "",
+		"twitchViewers": 38883
+	},
+	{
+		"date": "2022-05-21 00:00:00",
+		"players": 77726,
+		"averagePlayers": "",
+		"twitchViewers": 42773
+	},
+	{
+		"date": "2022-05-22 00:00:00",
+		"players": 79191,
+		"averagePlayers": "",
+		"twitchViewers": 32035
+	},
+	{
+		"date": "2022-05-23 00:00:00",
+		"players": 72280,
+		"averagePlayers": "",
+		"twitchViewers": 32863
+	},
+	{
+		"date": "2022-05-24 00:00:00",
+		"players": 67717,
+		"averagePlayers": "",
+		"twitchViewers": 32344
+	},
+	{
+		"date": "2022-05-25 00:00:00",
+		"players": 64311,
+		"averagePlayers": "",
+		"twitchViewers": 29661
+	},
+	{
+		"date": "2022-05-26 00:00:00",
+		"players": 61028,
+		"averagePlayers": "",
+		"twitchViewers": 32934
+	},
+	{
+		"date": "2022-05-27 00:00:00",
+		"players": 61594,
+		"averagePlayers": "",
+		"twitchViewers": 29095
+	},
+	{
+		"date": "2022-05-28 00:00:00",
+		"players": 63060,
+		"averagePlayers": "",
+		"twitchViewers": 30670
+	},
+	{
+		"date": "2022-05-29 00:00:00",
+		"players": 65203,
+		"averagePlayers": "",
+		"twitchViewers": 31239
+	},
+	{
+		"date": "2022-05-30 00:00:00",
+		"players": 62700,
+		"averagePlayers": "",
+		"twitchViewers": 33243
+	},
+	{
+		"date": "2022-05-31 00:00:00",
+		"players": 56820,
+		"averagePlayers": "",
+		"twitchViewers": 29343
+	},
+	{
+		"date": "2022-06-01 00:00:00",
+		"players": 53525,
+		"averagePlayers": "",
+		"twitchViewers": 26093
+	},
+	{
+		"date": "2022-06-02 00:00:00",
+		"players": 50016,
+		"averagePlayers": "",
+		"twitchViewers": 23984
+	},
+	{
+		"date": "2022-06-03 00:00:00",
+		"players": 49483,
+		"averagePlayers": "",
+		"twitchViewers": 16641
+	},
+	{
+		"date": "2022-06-04 00:00:00",
+		"players": 52591,
+		"averagePlayers": "",
+		"twitchViewers": 15709
+	},
+	{
+		"date": "2022-06-05 00:00:00",
+		"players": 55119,
+		"averagePlayers": "",
+		"twitchViewers": 19914
+	},
+	{
+		"date": "2022-06-06 00:00:00",
+		"players": 49070,
+		"averagePlayers": "",
+		"twitchViewers": 18319
+	},
+	{
+		"date": "2022-06-07 00:00:00",
+		"players": 47499,
+		"averagePlayers": "",
+		"twitchViewers": 16830
+	},
+	{
+		"date": "2022-06-08 00:00:00",
+		"players": 44613,
+		"averagePlayers": "",
+		"twitchViewers": 12726
+	},
+	{
+		"date": "2022-06-09 00:00:00",
+		"players": 42565,
+		"averagePlayers": "",
+		"twitchViewers": 15897
+	},
+	{
+		"date": "2022-06-10 00:00:00",
+		"players": 42224,
+		"averagePlayers": "",
+		"twitchViewers": 15380
+	},
+	{
+		"date": "2022-06-11 00:00:00",
+		"players": 44405,
+		"averagePlayers": "",
+		"twitchViewers": 18530
+	},
+	{
+		"date": "2022-06-12 00:00:00",
+		"players": 45494,
+		"averagePlayers": "",
+		"twitchViewers": 13783
+	},
+	{
+		"date": "2022-06-13 00:00:00",
+		"players": 41599,
+		"averagePlayers": "",
+		"twitchViewers": 14556
+	},
+	{
+		"date": "2022-06-14 00:00:00",
+		"players": 40007,
+		"averagePlayers": "",
+		"twitchViewers": 14280
+	},
+	{
+		"date": "2022-06-15 00:00:00",
+		"players": 38371,
+		"averagePlayers": "",
+		"twitchViewers": 12881
+	},
+	{
+		"date": "2022-06-16 00:00:00",
+		"players": 38533,
+		"averagePlayers": "",
+		"twitchViewers": 13494
+	},
+	{
+		"date": "2022-06-17 00:00:00",
+		"players": 37635,
+		"averagePlayers": "",
+		"twitchViewers": 14220
+	},
+	{
+		"date": "2022-06-18 00:00:00",
+		"players": 39492,
+		"averagePlayers": "",
+		"twitchViewers": 11280
+	},
+	{
+		"date": "2022-06-19 00:00:00",
+		"players": 40303,
+		"averagePlayers": "",
+		"twitchViewers": 12357
+	},
+	{
+		"date": "2022-06-20 00:00:00",
+		"players": 37857,
+		"averagePlayers": "",
+		"twitchViewers": 12465
+	},
+	{
+		"date": "2022-06-21 00:00:00",
+		"players": 35159,
+		"averagePlayers": "",
+		"twitchViewers": 13470
+	},
+	{
+		"date": "2022-06-22 00:00:00",
+		"players": 33395,
+		"averagePlayers": "",
+		"twitchViewers": 11744
+	},
+	{
+		"date": "2022-06-23 00:00:00",
+		"players": 31173,
+		"averagePlayers": "",
+		"twitchViewers": 10514
+	},
+	{
+		"date": "2022-06-24 00:00:00",
+		"players": 30075,
+		"averagePlayers": "",
+		"twitchViewers": 7177
+	},
+	{
+		"date": "2022-06-25 00:00:00",
+		"players": 31513,
+		"averagePlayers": "",
+		"twitchViewers": 8824
+	},
+	{
+		"date": "2022-06-26 00:00:00",
+		"players": 32515,
+		"averagePlayers": "",
+		"twitchViewers": 9395
+	},
+	{
+		"date": "2022-06-27 00:00:00",
+		"players": 29125,
+		"averagePlayers": "",
+		"twitchViewers": 8478
+	},
+	{
+		"date": "2022-06-28 00:00:00",
+		"players": 27534,
+		"averagePlayers": "",
+		"twitchViewers": 8787
+	},
+	{
+		"date": "2022-06-29 00:00:00",
+		"players": 25695,
+		"averagePlayers": "",
+		"twitchViewers": 7349
+	},
+	{
+		"date": "2022-06-30 00:00:00",
+		"players": 23783,
+		"averagePlayers": "",
+		"twitchViewers": 7483
+	},
+	{
+		"date": "2022-07-01 00:00:00",
+		"players": 23776,
+		"averagePlayers": "",
+		"twitchViewers": 6434
+	},
+	{
+		"date": "2022-07-02 00:00:00",
+		"players": 24341,
+		"averagePlayers": "",
+		"twitchViewers": 11565
+	},
+	{
+		"date": "2022-07-03 00:00:00",
+		"players": 25437,
+		"averagePlayers": "",
+		"twitchViewers": 9641
+	},
+	{
+		"date": "2022-07-04 00:00:00",
+		"players": 24631,
+		"averagePlayers": "",
+		"twitchViewers": 8001
+	},
+	{
+		"date": "2022-07-05 00:00:00",
+		"players": 21985,
+		"averagePlayers": "",
+		"twitchViewers": 7034
+	},
+	{
+		"date": "2022-07-06 00:00:00",
+		"players": 20999,
+		"averagePlayers": "",
+		"twitchViewers": 6614
+	},
+	{
+		"date": "2022-07-07 00:00:00",
+		"players": 19749,
+		"averagePlayers": "",
+		"twitchViewers": 6426
+	},
+	{
+		"date": "2022-07-08 00:00:00",
+		"players": 19106,
+		"averagePlayers": "",
+		"twitchViewers": 6072
+	},
+	{
+		"date": "2022-07-09 00:00:00",
+		"players": 20327,
+		"averagePlayers": "",
+		"twitchViewers": 6158
+	},
+	{
+		"date": "2022-07-10 00:00:00",
+		"players": 21095,
+		"averagePlayers": "",
+		"twitchViewers": 4642
+	},
+	{
+		"date": "2022-07-11 00:00:00",
+		"players": 18377,
+		"averagePlayers": "",
+		"twitchViewers": 5382
+	},
+	{
+		"date": "2022-07-12 00:00:00",
+		"players": 17110,
+		"averagePlayers": "",
+		"twitchViewers": 4786
+	},
+	{
+		"date": "2022-07-13 00:00:00",
+		"players": 16389,
+		"averagePlayers": "",
+		"twitchViewers": 5691
+	},
+	{
+		"date": "2022-07-14 00:00:00",
+		"players": 15935,
+		"averagePlayers": "",
+		"twitchViewers": 13658
+	},
+	{
+		"date": "2022-07-15 00:00:00",
+		"players": 18029,
+		"averagePlayers": "",
+		"twitchViewers": 24613
+	},
+	{
+		"date": "2022-07-16 00:00:00",
+		"players": 18416,
+		"averagePlayers": "",
+		"twitchViewers": 17494
+	},
+	{
+		"date": "2022-07-17 00:00:00",
+		"players": 18994,
+		"averagePlayers": "",
+		"twitchViewers": 13217
+	},
+	{
+		"date": "2022-07-18 00:00:00",
+		"players": 16004,
+		"averagePlayers": "",
+		"twitchViewers": 11945
+	},
+	{
+		"date": "2022-07-19 00:00:00",
+		"players": 15058,
+		"averagePlayers": "",
+		"twitchViewers": 7332
+	},
+	{
+		"date": "2022-07-20 00:00:00",
+		"players": 14252,
+		"averagePlayers": "",
+		"twitchViewers": 11264
+	},
+	{
+		"date": "2022-07-21 00:00:00",
+		"players": 13660,
+		"averagePlayers": "",
+		"twitchViewers": 8206
+	},
+	{
+		"date": "2022-07-22 00:00:00",
+		"players": 13510,
+		"averagePlayers": "",
+		"twitchViewers": 5183
+	},
+	{
+		"date": "2022-07-23 00:00:00",
+		"players": 14217,
+		"averagePlayers": "",
+		"twitchViewers": 5715
+	},
+	{
+		"date": "2022-07-24 00:00:00",
+		"players": 14728,
+		"averagePlayers": "",
+		"twitchViewers": 7275
+	},
+	{
+		"date": "2022-07-25 00:00:00",
+		"players": 12664,
+		"averagePlayers": "",
+		"twitchViewers": 7977
+	},
+	{
+		"date": "2022-07-26 00:00:00",
+		"players": 12228,
+		"averagePlayers": "",
+		"twitchViewers": 4752
+	},
+	{
+		"date": "2022-07-27 00:00:00",
+		"players": 11764,
+		"averagePlayers": "",
+		"twitchViewers": 4145
+	},
+	{
+		"date": "2022-07-28 00:00:00",
+		"players": 11071,
+		"averagePlayers": "",
+		"twitchViewers": 11779
+	},
+	{
+		"date": "2022-07-29 00:00:00",
+		"players": 11088,
+		"averagePlayers": "",
+		"twitchViewers": 5593
+	},
+	{
+		"date": "2022-07-30 00:00:00",
+		"players": 12043,
+		"averagePlayers": "",
+		"twitchViewers": 4427
+	},
+	{
+		"date": "2022-07-31 00:00:00",
+		"players": 11994,
+		"averagePlayers": "",
+		"twitchViewers": 5278
+	},
+	{
+		"date": "2022-08-01 00:00:00",
+		"players": 10594,
+		"averagePlayers": "",
+		"twitchViewers": 6504
+	},
+	{
+		"date": "2022-08-02 00:00:00",
+		"players": 10023,
+		"averagePlayers": "",
+		"twitchViewers": 27116
+	},
+	{
+		"date": "2022-08-03 00:00:00",
+		"players": 9432,
+		"averagePlayers": "",
+		"twitchViewers": 14824
+	},
+	{
+		"date": "2022-08-04 00:00:00",
+		"players": 9009,
+		"averagePlayers": "",
+		"twitchViewers": 6990
+	},
+	{
+		"date": "2022-08-05 00:00:00",
+		"players": 9022,
+		"averagePlayers": "",
+		"twitchViewers": 5952
+	},
+	{
+		"date": "2022-08-06 00:00:00",
+		"players": 9730,
+		"averagePlayers": "",
+		"twitchViewers": 6953
+	},
+	{
+		"date": "2022-08-07 00:00:00",
+		"players": 10245,
+		"averagePlayers": "",
+		"twitchViewers": 5406
+	},
+	{
+		"date": "2022-08-08 00:00:00",
+		"players": 9113,
+		"averagePlayers": "",
+		"twitchViewers": 6481
+	},
+	{
+		"date": "2022-08-09 00:00:00",
+		"players": 8462,
+		"averagePlayers": "",
+		"twitchViewers": 6949
+	},
+	{
+		"date": "2022-08-10 00:00:00",
+		"players": 8179,
+		"averagePlayers": "",
+		"twitchViewers": 6218
+	},
+	{
+		"date": "2022-08-11 00:00:00",
+		"players": 8522,
+		"averagePlayers": "",
+		"twitchViewers": 257346
+	},
+	{
+		"date": "2022-08-12 00:00:00",
+		"players": 9594,
+		"averagePlayers": "",
+		"twitchViewers": 54204
+	},
+	{
+		"date": "2022-08-13 00:00:00",
+		"players": 10748,
+		"averagePlayers": "",
+		"twitchViewers": 21394
+	},
+	{
+		"date": "2022-08-14 00:00:00",
+		"players": 11770,
+		"averagePlayers": "",
+		"twitchViewers": 31052
+	},
+	{
+		"date": "2022-08-15 00:00:00",
+		"players": 10823,
+		"averagePlayers": "",
+		"twitchViewers": 25299
+	},
+	{
+		"date": "2022-08-16 00:00:00",
+		"players": 10634,
+		"averagePlayers": "",
+		"twitchViewers": 31520
+	},
+	{
+		"date": "2022-08-17 00:00:00",
+		"players": 11169,
+		"averagePlayers": "",
+		"twitchViewers": 27031
+	},
+	{
+		"date": "2022-08-18 00:00:00",
+		"players": 11587,
+		"averagePlayers": "",
+		"twitchViewers": 32734
+	},
+	{
+		"date": "2022-08-19 00:00:00",
+		"players": 152033,
+		"averagePlayers": "",
+		"twitchViewers": 230473
+	},
+	{
+		"date": "2022-08-20 00:00:00",
+		"players": 118772,
+		"averagePlayers": "",
+		"twitchViewers": 182999
+	},
+	{
+		"date": "2022-08-21 00:00:00",
+		"players": 119060,
+		"averagePlayers": "",
+		"twitchViewers": 77708
+	},
+	{
+		"date": "2022-08-22 00:00:00",
+		"players": 95984,
+		"averagePlayers": "",
+		"twitchViewers": 61667
+	},
+	{
+		"date": "2022-08-23 00:00:00",
+		"players": 83394,
+		"averagePlayers": "",
+		"twitchViewers": 56654
+	},
+	{
+		"date": "2022-08-24 00:00:00",
+		"players": 77859,
+		"averagePlayers": "",
+		"twitchViewers": 54602
+	},
+	{
+		"date": "2022-08-25 00:00:00",
+		"players": 76416,
+		"averagePlayers": "",
+		"twitchViewers": 46210
+	},
+	{
+		"date": "2022-08-26 00:00:00",
+		"players": 72731,
+		"averagePlayers": "",
+		"twitchViewers": 40456
+	},
+	{
+		"date": "2022-08-27 00:00:00",
+		"players": 74298,
+		"averagePlayers": "",
+		"twitchViewers": 36988
+	},
+	{
+		"date": "2022-08-28 00:00:00",
+		"players": 76428,
+		"averagePlayers": "",
+		"twitchViewers": 42426
+	},
+	{
+		"date": "2022-08-29 00:00:00",
+		"players": 68332,
+		"averagePlayers": "",
+		"twitchViewers": 40500
+	},
+	{
+		"date": "2022-08-30 00:00:00",
+		"players": 64428,
+		"averagePlayers": "",
+		"twitchViewers": 36137
+	},
+	{
+		"date": "2022-08-31 00:00:00",
+		"players": 60742,
+		"averagePlayers": "",
+		"twitchViewers": 34513
+	},
+	{
+		"date": "2022-09-01 00:00:00",
+		"players": 58824,
+		"averagePlayers": "",
+		"twitchViewers": 36317
+	},
+	{
+		"date": "2022-09-02 00:00:00",
+		"players": 56710,
+		"averagePlayers": "",
+		"twitchViewers": 32192
+	},
+	{
+		"date": "2022-09-03 00:00:00",
+		"players": 59233,
+		"averagePlayers": "",
+		"twitchViewers": 32288
+	},
+	{
+		"date": "2022-09-04 00:00:00",
+		"players": 61378,
+		"averagePlayers": "",
+		"twitchViewers": 34676
+	},
+	{
+		"date": "2022-09-05 00:00:00",
+		"players": 59779,
+		"averagePlayers": "",
+		"twitchViewers": 33828
+	},
+	{
+		"date": "2022-09-06 00:00:00",
+		"players": 51272,
+		"averagePlayers": "",
+		"twitchViewers": 31292
+	},
+	{
+		"date": "2022-09-07 00:00:00",
+		"players": 50656,
+		"averagePlayers": "",
+		"twitchViewers": 30735
+	},
+	{
+		"date": "2022-09-08 00:00:00",
+		"players": 47687,
+		"averagePlayers": "",
+		"twitchViewers": 29186
+	},
+	{
+		"date": "2022-09-09 00:00:00",
+		"players": 47136,
+		"averagePlayers": "",
+		"twitchViewers": 28023
+	},
+	{
+		"date": "2022-09-10 00:00:00",
+		"players": 50209,
+		"averagePlayers": "",
+		"twitchViewers": 25006
+	},
+	{
+		"date": "2022-09-11 00:00:00",
+		"players": 51485,
+		"averagePlayers": "",
+		"twitchViewers": 27476
+	},
+	{
+		"date": "2022-09-12 00:00:00",
+		"players": 44171,
+		"averagePlayers": "",
+		"twitchViewers": 25140
+	},
+	{
+		"date": "2022-09-13 00:00:00",
+		"players": 42456,
+		"averagePlayers": "",
+		"twitchViewers": 29780
+	},
+	{
+		"date": "2022-09-14 00:00:00",
+		"players": 41315,
+		"averagePlayers": "",
+		"twitchViewers": 23148
+	},
+	{
+		"date": "2022-09-15 00:00:00",
+		"players": 39610,
+		"averagePlayers": "",
+		"twitchViewers": 25768
+	},
+	{
+		"date": "2022-09-16 00:00:00",
+		"players": 39552,
+		"averagePlayers": "",
+		"twitchViewers": 24704
+	},
+	{
+		"date": "2022-09-17 00:00:00",
+		"players": 42009,
+		"averagePlayers": "",
+		"twitchViewers": 21667
+	},
+	{
+		"date": "2022-09-18 00:00:00",
+		"players": 43067,
+		"averagePlayers": "",
+		"twitchViewers": 23025
+	},
+	{
+		"date": "2022-09-19 00:00:00",
+		"players": 38123,
+		"averagePlayers": "",
+		"twitchViewers": 27384
+	},
+	{
+		"date": "2022-09-20 00:00:00",
+		"players": 35833,
+		"averagePlayers": "",
+		"twitchViewers": 23265
+	},
+	{
+		"date": "2022-09-21 00:00:00",
+		"players": 33663,
+		"averagePlayers": "",
+		"twitchViewers": 19688
+	},
+	{
+		"date": "2022-09-22 00:00:00",
+		"players": 32713,
+		"averagePlayers": "",
+		"twitchViewers": 18641
+	},
+	{
+		"date": "2022-09-23 00:00:00",
+		"players": 31877,
+		"averagePlayers": 22558,
+		"twitchViewers": 27326
+	},
+	{
+		"date": "2022-09-24 00:00:00",
+		"players": 34380,
+		"averagePlayers": 25775,
+		"twitchViewers": 25047
+	},
+	{
+		"date": "2022-09-25 00:00:00",
+		"players": 35599,
+		"averagePlayers": 26128,
+		"twitchViewers": 24503
+	},
+	{
+		"date": "2022-09-26 00:00:00",
+		"players": 30702,
+		"averagePlayers": 20654,
+		"twitchViewers": 17701
+	},
+	{
+		"date": "2022-09-27 00:00:00",
+		"players": 28582,
+		"averagePlayers": 19462,
+		"twitchViewers": 20976
+	},
+	{
+		"date": "2022-09-28 00:00:00",
+		"players": 27591,
+		"averagePlayers": 18684,
+		"twitchViewers": 16692
+	},
+	{
+		"date": "2022-09-29 00:00:00",
+		"players": 26268,
+		"averagePlayers": 17886,
+		"twitchViewers": 17454
+	},
+	{
+		"date": "2022-09-30 00:00:00",
+		"players": 25327,
+		"averagePlayers": 18041,
+		"twitchViewers": 13599
+	},
+	{
+		"date": "2022-10-01 00:00:00",
+		"players": 27874,
+		"averagePlayers": 20634,
+		"twitchViewers": 18792
+	},
+	{
+		"date": "2022-10-02 00:00:00",
+		"players": 28145,
+		"averagePlayers": 20915,
+		"twitchViewers": 21122
+	},
+	{
+		"date": "2022-10-03 00:00:00",
+		"players": 23930,
+		"averagePlayers": 16578,
+		"twitchViewers": 20166
+	},
+	{
+		"date": "2022-10-04 00:00:00",
+		"players": 22364,
+		"averagePlayers": 15228,
+		"twitchViewers": 11127
+	},
+	{
+		"date": "2022-10-05 00:00:00",
+		"players": 21040,
+		"averagePlayers": 14371,
+		"twitchViewers": 13596
+	},
+	{
+		"date": "2022-10-06 00:00:00",
+		"players": 20150,
+		"averagePlayers": 13724,
+		"twitchViewers": 6224
+	},
+	{
+		"date": "2022-10-07 00:00:00",
+		"players": 19425,
+		"averagePlayers": 13683,
+		"twitchViewers": 5899
+	},
+	{
+		"date": "2022-10-08 00:00:00",
+		"players": 20594,
+		"averagePlayers": 15463,
+		"twitchViewers": 5479
+	},
+	{
+		"date": "2022-10-09 00:00:00",
+		"players": 21250,
+		"averagePlayers": 15738,
+		"twitchViewers": 4592
+	},
+	{
+		"date": "2022-10-10 00:00:00",
+		"players": 19178,
+		"averagePlayers": 12736,
+		"twitchViewers": 5808
+	},
+	{
+		"date": "2022-10-11 00:00:00",
+		"players": 17312,
+		"averagePlayers": 11782,
+		"twitchViewers": 6288
+	},
+	{
+		"date": "2022-10-12 00:00:00",
+		"players": 16543,
+		"averagePlayers": 11225,
+		"twitchViewers": 4472
+	},
+	{
+		"date": "2022-10-13 00:00:00",
+		"players": 15892,
+		"averagePlayers": 10787,
+		"twitchViewers": 13439
+	},
+	{
+		"date": "2022-10-14 00:00:00",
+		"players": 15477,
+		"averagePlayers": 11020,
+		"twitchViewers": 4536
+	},
+	{
+		"date": "2022-10-15 00:00:00",
+		"players": 16911,
+		"averagePlayers": 12671,
+		"twitchViewers": 5057
+	},
+	{
+		"date": "2022-10-16 00:00:00",
+		"players": 17142,
+		"averagePlayers": 12764,
+		"twitchViewers": 3920
+	},
+	{
+		"date": "2022-10-17 00:00:00",
+		"players": 14806,
+		"averagePlayers": 10005,
+		"twitchViewers": 4033
+	},
+	{
+		"date": "2022-10-18 00:00:00",
+		"players": 14169,
+		"averagePlayers": 9519,
+		"twitchViewers": 4058
+	},
+	{
+		"date": "2022-10-19 00:00:00",
+		"players": 13235,
+		"averagePlayers": 9073,
+		"twitchViewers": 3535
+	},
+	{
+		"date": "2022-10-20 00:00:00",
+		"players": 12716,
+		"averagePlayers": 8804,
+		"twitchViewers": 3931
+	},
+	{
+		"date": "2022-10-21 00:00:00",
+		"players": 12862,
+		"averagePlayers": 9032,
+		"twitchViewers": 3364
+	},
+	{
+		"date": "2022-10-22 00:00:00",
+		"players": 13882,
+		"averagePlayers": 10368,
+		"twitchViewers": 5917
+	},
+	{
+		"date": "2022-10-23 00:00:00",
+		"players": 14602,
+		"averagePlayers": 10660,
+		"twitchViewers": 3930
+	},
+	{
+		"date": "2022-10-24 00:00:00",
+		"players": 12481,
+		"averagePlayers": 8488,
+		"twitchViewers": 3621
+	},
+	{
+		"date": "2022-10-25 00:00:00",
+		"players": 11695,
+		"averagePlayers": 7994,
+		"twitchViewers": 4317
+	},
+	{
+		"date": "2022-10-26 00:00:00",
+		"players": 11093,
+		"averagePlayers": 7691,
+		"twitchViewers": 3515
+	},
+	{
+		"date": "2022-10-27 00:00:00",
+		"players": 10727,
+		"averagePlayers": 7323,
+		"twitchViewers": 3623
+	},
+	{
+		"date": "2022-10-28 00:00:00",
+		"players": 10576,
+		"averagePlayers": 7444,
+		"twitchViewers": 3286
+	},
+	{
+		"date": "2022-10-29 00:00:00",
+		"players": 11439,
+		"averagePlayers": 8510,
+		"twitchViewers": 3273
+	},
+	{
+		"date": "2022-10-30 00:00:00",
+		"players": 11709,
+		"averagePlayers": 8713,
+		"twitchViewers": 3653
+	},
+	{
+		"date": "2022-10-31 00:00:00",
+		"players": 9834,
+		"averagePlayers": 7085,
+		"twitchViewers": 3321
+	},
+	{
+		"date": "2022-11-01 00:00:00",
+		"players": 9849,
+		"averagePlayers": 7007,
+		"twitchViewers": 16653
+	},
+	{
+		"date": "2022-11-02 00:00:00",
+		"players": 9529,
+		"averagePlayers": 6350,
+		"twitchViewers": 1578
+	},
+	{
+		"date": "2022-11-03 00:00:00",
+		"players": 9163,
+		"averagePlayers": 6351,
+		"twitchViewers": 3761
+	},
+	{
+		"date": "2022-11-04 00:00:00",
+		"players": 20457,
+		"averagePlayers": 8467,
+		"twitchViewers": 22867
+	},
+	{
+		"date": "2022-11-05 00:00:00",
+		"players": 17205,
+		"averagePlayers": 13143,
+		"twitchViewers": 18250
+	},
+	{
+		"date": "2022-11-06 00:00:00",
+		"players": 15977,
+		"averagePlayers": 12038,
+		"twitchViewers": 8244
+	},
+	{
+		"date": "2022-11-07 00:00:00",
+		"players": 12729,
+		"averagePlayers": 8806,
+		"twitchViewers": 6665
+	},
+	{
+		"date": "2022-11-08 00:00:00",
+		"players": 11426,
+		"averagePlayers": 7969,
+		"twitchViewers": 4845
+	},
+	{
+		"date": "2022-11-09 00:00:00",
+		"players": 10651,
+		"averagePlayers": 7422,
+		"twitchViewers": 4624
+	},
+	{
+		"date": "2022-11-10 00:00:00",
+		"players": 9915,
+		"averagePlayers": 7046,
+		"twitchViewers": 4073
+	},
+	{
+		"date": "2022-11-11 00:00:00",
+		"players": 10407,
+		"averagePlayers": 7319,
+		"twitchViewers": 3834
+	},
+	{
+		"date": "2022-11-12 00:00:00",
+		"players": 10718,
+		"averagePlayers": 8069,
+		"twitchViewers": 3961
+	},
+	{
+		"date": "2022-11-13 00:00:00",
+		"players": 10762,
+		"averagePlayers": 8074,
+		"twitchViewers": 2662
+	},
+	{
+		"date": "2022-11-14 00:00:00",
+		"players": 22342,
+		"averagePlayers": 8337,
+		"twitchViewers": 26585
+	},
+	{
+		"date": "2022-11-15 00:00:00",
+		"players": 15959,
+		"averagePlayers": 11303,
+		"twitchViewers": 13209
+	},
+	{
+		"date": "2022-11-16 00:00:00",
+		"players": 12118,
+		"averagePlayers": 8661,
+		"twitchViewers": 14100
+	},
+	{
+		"date": "2022-11-17 00:00:00",
+		"players": 10876,
+		"averagePlayers": 7662,
+		"twitchViewers": 6463
+	},
+	{
+		"date": "2022-11-18 00:00:00",
+		"players": 9996,
+		"averagePlayers": 7176,
+		"twitchViewers": 3934
+	},
+	{
+		"date": "2022-11-19 00:00:00",
+		"players": 10513,
+		"averagePlayers": 7999,
+		"twitchViewers": 5018
+	},
+	{
+		"date": "2022-11-20 00:00:00",
+		"players": 10082,
+		"averagePlayers": 7674,
+		"twitchViewers": 5739
+	},
+	{
+		"date": "2022-11-21 00:00:00",
+		"players": 13459,
+		"averagePlayers": 6447,
+		"twitchViewers": 16134
+	},
+	{
+		"date": "2022-11-22 00:00:00",
+		"players": 11049,
+		"averagePlayers": 7754,
+		"twitchViewers": 12078
+	},
+	{
+		"date": "2022-11-23 00:00:00",
+		"players": 9736,
+		"averagePlayers": 6866,
+		"twitchViewers": 6818
+	},
+	{
+		"date": "2022-11-24 00:00:00",
+		"players": 8988,
+		"averagePlayers": 6171,
+		"twitchViewers": 36911
+	},
+	{
+		"date": "2022-11-25 00:00:00",
+		"players": 9014,
+		"averagePlayers": 6275,
+		"twitchViewers": 25456
+	},
+	{
+		"date": "2022-11-26 00:00:00",
+		"players": 9247,
+		"averagePlayers": 7031,
+		"twitchViewers": 20536
+	},
+	{
+		"date": "2022-11-27 00:00:00",
+		"players": 9542,
+		"averagePlayers": 6903,
+		"twitchViewers": 12282
+	},
+	{
+		"date": "2022-11-28 00:00:00",
+		"players": 7888,
+		"averagePlayers": 5221,
+		"twitchViewers": 9119
+	},
+	{
+		"date": "2022-11-29 00:00:00",
+		"players": 6730,
+		"averagePlayers": 4725,
+		"twitchViewers": 7238
+	},
+	{
+		"date": "2022-11-30 00:00:00",
+		"players": 6509,
+		"averagePlayers": 4589,
+		"twitchViewers": 5118
+	},
+	{
+		"date": "2022-12-01 00:00:00",
+		"players": 7243,
+		"averagePlayers": 4496,
+		"twitchViewers": 246560
+	},
+	{
+		"date": "2022-12-02 00:00:00",
+		"players": 8049,
+		"averagePlayers": 5573,
+		"twitchViewers": 22925
+	},
+	{
+		"date": "2022-12-03 00:00:00",
+		"players": 9572,
+		"averagePlayers": 7039,
+		"twitchViewers": 20471
+	},
+	{
+		"date": "2022-12-04 00:00:00",
+		"players": 10825,
+		"averagePlayers": 7808,
+		"twitchViewers": 22172
+	},
+	{
+		"date": "2022-12-05 00:00:00",
+		"players": 9324,
+		"averagePlayers": 6496,
+		"twitchViewers": 26877
+	},
+	{
+		"date": "2022-12-06 00:00:00",
+		"players": 9473,
+		"averagePlayers": 6336,
+		"twitchViewers": 21296
+	},
+	{
+		"date": "2022-12-07 00:00:00",
+		"players": 9457,
+		"averagePlayers": 6612,
+		"twitchViewers": 28333
+	},
+	{
+		"date": "2022-12-08 00:00:00",
+		"players": 9519,
+		"averagePlayers": 6685,
+		"twitchViewers": 31203
+	},
+	{
+		"date": "2022-12-09 00:00:00",
+		"players": 127944,
+		"averagePlayers": 32815,
+		"twitchViewers": 152000
+	},
+	{
+		"date": "2022-12-10 00:00:00",
+		"players": 102017,
+		"averagePlayers": 82880,
+		"twitchViewers": 124419
+	},
+	{
+		"date": "2022-12-11 00:00:00",
+		"players": 103713,
+		"averagePlayers": 77867,
+		"twitchViewers": 65869
+	},
+	{
+		"date": "2022-12-12 00:00:00",
+		"players": 88431,
+		"averagePlayers": 62382,
+		"twitchViewers": 56179
+	},
+	{
+		"date": "2022-12-13 00:00:00",
+		"players": 83749,
+		"averagePlayers": 58117,
+		"twitchViewers": 43069
+	},
+	{
+		"date": "2022-12-14 00:00:00",
+		"players": 75446,
+		"averagePlayers": 53782,
+		"twitchViewers": 38755
+	},
+	{
+		"date": "2022-12-15 00:00:00",
+		"players": 74684,
+		"averagePlayers": 52156,
+		"twitchViewers": 39905
+	},
+	{
+		"date": "2022-12-16 00:00:00",
+		"players": 74297,
+		"averagePlayers": 52669,
+		"twitchViewers": 34671
+	},
+	{
+		"date": "2022-12-17 00:00:00",
+		"players": 78432,
+		"averagePlayers": 59039,
+		"twitchViewers": 38584
+	},
+	{
+		"date": "2022-12-18 00:00:00",
+		"players": 79298,
+		"averagePlayers": 59112,
+		"twitchViewers": 35017
+	},
+	{
+		"date": "2022-12-19 00:00:00",
+		"players": 71605,
+		"averagePlayers": 49193,
+		"twitchViewers": 36425
+	},
+	{
+		"date": "2022-12-20 00:00:00",
+		"players": 69608,
+		"averagePlayers": 47850,
+		"twitchViewers": 35661
+	},
+	{
+		"date": "2022-12-21 00:00:00",
+		"players": 67057,
+		"averagePlayers": 46818,
+		"twitchViewers": 36118
+	},
+	{
+		"date": "2022-12-22 00:00:00",
+		"players": 67243,
+		"averagePlayers": 47868,
+		"twitchViewers": 35077
+	},
+	{
+		"date": "2022-12-23 00:00:00",
+		"players": 66804,
+		"averagePlayers": 48502,
+		"twitchViewers": 35417
+	},
+	{
+		"date": "2022-12-24 00:00:00",
+		"players": 56102,
+		"averagePlayers": 46559,
+		"twitchViewers": 31943
+	},
+	{
+		"date": "2022-12-25 00:00:00",
+		"players": 62020,
+		"averagePlayers": 46557,
+		"twitchViewers": 36797
+	},
+	{
+		"date": "2022-12-26 00:00:00",
+		"players": 65956,
+		"averagePlayers": 47883,
+		"twitchViewers": 37437
+	},
+	{
+		"date": "2022-12-27 00:00:00",
+		"players": 64718,
+		"averagePlayers": 47047,
+		"twitchViewers": 37012
+	},
+	{
+		"date": "2022-12-28 00:00:00",
+		"players": 61260,
+		"averagePlayers": 45621,
+		"twitchViewers": 35123
+	},
+	{
+		"date": "2022-12-29 00:00:00",
+		"players": 60903,
+		"averagePlayers": 44662,
+		"twitchViewers": 31713
+	},
+	{
+		"date": "2022-12-30 00:00:00",
+		"players": 60615,
+		"averagePlayers": 44917,
+		"twitchViewers": 31820
+	},
+	{
+		"date": "2022-12-31 00:00:00",
+		"players": 50637,
+		"averagePlayers": 41134,
+		"twitchViewers": 32579
+	},
+	{
+		"date": "2023-01-01 00:00:00",
+		"players": 60980,
+		"averagePlayers": 42667,
+		"twitchViewers": 31202
+	},
+	{
+		"date": "2023-01-02 00:00:00",
+		"players": 61692,
+		"averagePlayers": 44771,
+		"twitchViewers": 33180
+	},
+	{
+		"date": "2023-01-03 00:00:00",
+		"players": 55568,
+		"averagePlayers": 40853,
+		"twitchViewers": 25696
+	},
+	{
+		"date": "2023-01-04 00:00:00",
+		"players": 54347,
+		"averagePlayers": 39456,
+		"twitchViewers": 27373
+	},
+	{
+		"date": "2023-01-05 00:00:00",
+		"players": 52959,
+		"averagePlayers": 38344,
+		"twitchViewers": 29333
+	},
+	{
+		"date": "2023-01-06 00:00:00",
+		"players": 54373,
+		"averagePlayers": 40073,
+		"twitchViewers": 36884
+	},
+	{
+		"date": "2023-01-07 00:00:00",
+		"players": 57564,
+		"averagePlayers": 43474,
+		"twitchViewers": 30456
+	},
+	{
+		"date": "2023-01-08 00:00:00",
+		"players": 58320,
+		"averagePlayers": 43780,
+		"twitchViewers": 33301
+	},
+	{
+		"date": "2023-01-09 00:00:00",
+		"players": 50582,
+		"averagePlayers": 35359,
+		"twitchViewers": 28246
+	},
+	{
+		"date": "2023-01-10 00:00:00",
+		"players": 49433,
+		"averagePlayers": 34300,
+		"twitchViewers": 25493
+	},
+	{
+		"date": "2023-01-11 00:00:00",
+		"players": 49142,
+		"averagePlayers": 34758,
+		"twitchViewers": 27136
+	},
+	{
+		"date": "2023-01-12 00:00:00",
+		"players": 47773,
+		"averagePlayers": 33768,
+		"twitchViewers": 23758
+	},
+	{
+		"date": "2023-01-13 00:00:00",
+		"players": 48871,
+		"averagePlayers": 35172,
+		"twitchViewers": 29374
+	},
+	{
+		"date": "2023-01-14 00:00:00",
+		"players": 53530,
+		"averagePlayers": 40807,
+		"twitchViewers": 30348
+	},
+	{
+		"date": "2023-01-15 00:00:00",
+		"players": 54420,
+		"averagePlayers": 42381,
+		"twitchViewers": 33757
+	},
+	{
+		"date": "2023-01-16 00:00:00",
+		"players": 50789,
+		"averagePlayers": 36765,
+		"twitchViewers": 14185
+	},
+	{
+		"date": "2023-01-17 00:00:00",
+		"players": 46523,
+		"averagePlayers": 34239,
+		"twitchViewers": 16061
+	},
+	{
+		"date": "2023-01-18 00:00:00",
+		"players": 45071,
+		"averagePlayers": 33347,
+		"twitchViewers": 14067
+	},
+	{
+		"date": "2023-01-19 00:00:00",
+		"players": 44471,
+		"averagePlayers": 33006,
+		"twitchViewers": 12682
+	},
+	{
+		"date": "2023-01-20 00:00:00",
+		"players": 44371,
+		"averagePlayers": 33700,
+		"twitchViewers": 11386
+	},
+	{
+		"date": "2023-01-21 00:00:00",
+		"players": 47210,
+		"averagePlayers": 37436,
+		"twitchViewers": 13143
+	},
+	{
+		"date": "2023-01-22 00:00:00",
+		"players": 47607,
+		"averagePlayers": 37601,
+		"twitchViewers": 13710
+	},
+	{
+		"date": "2023-01-23 00:00:00",
+		"players": 41930,
+		"averagePlayers": 31246,
+		"twitchViewers": 13340
+	},
+	{
+		"date": "2023-01-24 00:00:00",
+		"players": 40164,
+		"averagePlayers": 29849,
+		"twitchViewers": 9302
+	},
+	{
+		"date": "2023-01-25 00:00:00",
+		"players": 38173,
+		"averagePlayers": 28700,
+		"twitchViewers": 10205
+	},
+	{
+		"date": "2023-01-26 00:00:00",
+		"players": 37644,
+		"averagePlayers": 28182,
+		"twitchViewers": 12576
+	},
+	{
+		"date": "2023-01-27 00:00:00",
+		"players": 37061,
+		"averagePlayers": 28588,
+		"twitchViewers": 8246
+	},
+	{
+		"date": "2023-01-28 00:00:00",
+		"players": 39998,
+		"averagePlayers": 31965,
+		"twitchViewers": 10354
+	},
+	{
+		"date": "2023-01-29 00:00:00",
+		"players": 40408,
+		"averagePlayers": 32217,
+		"twitchViewers": 10336
+	},
+	{
+		"date": "2023-01-30 00:00:00",
+		"players": 35559,
+		"averagePlayers": 26924,
+		"twitchViewers": 8567
+	},
+	{
+		"date": "2023-01-31 00:00:00",
+		"players": 34280,
+		"averagePlayers": 25799,
+		"twitchViewers": 10061
+	},
+	{
+		"date": "2023-02-01 00:00:00",
+		"players": 32744,
+		"averagePlayers": 24261,
+		"twitchViewers": 11383
+	},
+	{
+		"date": "2023-02-02 00:00:00",
+		"players": 31943,
+		"averagePlayers": 24094,
+		"twitchViewers": 8841
+	},
+	{
+		"date": "2023-02-03 00:00:00",
+		"players": 32579,
+		"averagePlayers": 25115,
+		"twitchViewers": 10331
+	},
+	{
+		"date": "2023-02-04 00:00:00",
+		"players": 35068,
+		"averagePlayers": 28047,
+		"twitchViewers": 9612
+	},
+	{
+		"date": "2023-02-05 00:00:00",
+		"players": 35339,
+		"averagePlayers": 28418,
+		"twitchViewers": 7572
+	},
+	{
+		"date": "2023-02-06 00:00:00",
+		"players": 30460,
+		"averagePlayers": 23509,
+		"twitchViewers": 6836
+	},
+	{
+		"date": "2023-02-07 00:00:00",
+		"players": 29016,
+		"averagePlayers": 22309,
+		"twitchViewers": 6154
+	},
+	{
+		"date": "2023-02-08 00:00:00",
+		"players": 27605,
+		"averagePlayers": 21504,
+		"twitchViewers": 5717
+	},
+	{
+		"date": "2023-02-09 00:00:00",
+		"players": 26788,
+		"averagePlayers": 20963,
+		"twitchViewers": 7622
+	},
+	{
+		"date": "2023-02-10 00:00:00",
+		"players": 30255,
+		"averagePlayers": 21456,
+		"twitchViewers": 29005
+	},
+	{
+		"date": "2023-02-11 00:00:00",
+		"players": 30708,
+		"averagePlayers": 24914,
+		"twitchViewers": 23688
+	},
+	{
+		"date": "2023-02-12 00:00:00",
+		"players": 30915,
+		"averagePlayers": 24892,
+		"twitchViewers": 16286
+	},
+	{
+		"date": "2023-02-13 00:00:00",
+		"players": 26968,
+		"averagePlayers": 20635,
+		"twitchViewers": 19158
+	},
+	{
+		"date": "2023-02-14 00:00:00",
+		"players": 25030,
+		"averagePlayers": 19458,
+		"twitchViewers": 11429
+	},
+	{
+		"date": "2023-02-15 00:00:00",
+		"players": 24973,
+		"averagePlayers": 19134,
+		"twitchViewers": 9233
+	},
+	{
+		"date": "2023-02-16 00:00:00",
+		"players": 24625,
+		"averagePlayers": 19102,
+		"twitchViewers": 11652
+	},
+	{
+		"date": "2023-02-17 00:00:00",
+		"players": 25128,
+		"averagePlayers": 19603,
+		"twitchViewers": 11610
+	},
+	{
+		"date": "2023-02-18 00:00:00",
+		"players": 26563,
+		"averagePlayers": 21593,
+		"twitchViewers": 7927
+	},
+	{
+		"date": "2023-02-19 00:00:00",
+		"players": 26967,
+		"averagePlayers": 21970,
+		"twitchViewers": 9623
+	},
+	{
+		"date": "2023-02-20 00:00:00",
+		"players": 24652,
+		"averagePlayers": 19047,
+		"twitchViewers": 8821
+	},
+	{
+		"date": "2023-02-21 00:00:00",
+		"players": 23401,
+		"averagePlayers": 18040,
+		"twitchViewers": 5778
+	},
+	{
+		"date": "2023-02-22 00:00:00",
+		"players": 23224,
+		"averagePlayers": 18040,
+		"twitchViewers": 4780
+	},
+	{
+		"date": "2023-02-23 00:00:00",
+		"players": 22085,
+		"averagePlayers": 18165,
+		"twitchViewers": 5998
+	},
+	{
+		"date": "2023-02-24 00:00:00",
+		"players": 21709,
+		"averagePlayers": 17843,
+		"twitchViewers": 4805
+	},
+	{
+		"date": "2023-02-25 00:00:00",
+		"players": 22788,
+		"averagePlayers": 18976,
+		"twitchViewers": 4590
+	},
+	{
+		"date": "2023-02-26 00:00:00",
+		"players": 23041,
+		"averagePlayers": 19066,
+		"twitchViewers": 4373
+	},
+	{
+		"date": "2023-02-27 00:00:00",
+		"players": 20164,
+		"averagePlayers": 16192,
+		"twitchViewers": 3970
+	},
+	{
+		"date": "2023-02-28 00:00:00",
+		"players": 19585,
+		"averagePlayers": 15589,
+		"twitchViewers": 3307
+	},
+	{
+		"date": "2023-03-01 00:00:00",
+		"players": 18890,
+		"averagePlayers": 15250,
+		"twitchViewers": 6826
+	},
+	{
+		"date": "2023-03-02 00:00:00",
+		"players": 18781,
+		"averagePlayers": 15116,
+		"twitchViewers": 4078
+	},
+	{
+		"date": "2023-03-03 00:00:00",
+		"players": 18748,
+		"averagePlayers": 15264,
+		"twitchViewers": 2927
+	},
+	{
+		"date": "2023-03-04 00:00:00",
+		"players": 20298,
+		"averagePlayers": 16898,
+		"twitchViewers": 4514
+	},
+	{
+		"date": "2023-03-05 00:00:00",
+		"players": 20790,
+		"averagePlayers": 17186,
+		"twitchViewers": 4062
+	},
+	{
+		"date": "2023-03-06 00:00:00",
+		"players": 18425,
+		"averagePlayers": 14863,
+		"twitchViewers": 4901
+	},
+	{
+		"date": "2023-03-07 00:00:00",
+		"players": 17950,
+		"averagePlayers": 14153,
+		"twitchViewers": 2960
+	},
+	{
+		"date": "2023-03-08 00:00:00",
+		"players": 20655,
+		"averagePlayers": 14962,
+		"twitchViewers": 15093
+	},
+	{
+		"date": "2023-03-09 00:00:00",
+		"players": 19637,
+		"averagePlayers": 16178,
+		"twitchViewers": 14301
+	},
+	{
+		"date": "2023-03-10 00:00:00",
+		"players": 19285,
+		"averagePlayers": 15620,
+		"twitchViewers": 3917
+	},
+	{
+		"date": "2023-03-11 00:00:00",
+		"players": 20396,
+		"averagePlayers": 17030,
+		"twitchViewers": 3364
+	},
+	{
+		"date": "2023-03-12 00:00:00",
+		"players": 20606,
+		"averagePlayers": 17144,
+		"twitchViewers": 2873
+	},
+	{
+		"date": "2023-03-13 00:00:00",
+		"players": 18196,
+		"averagePlayers": 14512,
+		"twitchViewers": 1912
+	},
+	{
+		"date": "2023-03-14 00:00:00",
+		"players": 17629,
+		"averagePlayers": 13874,
+		"twitchViewers": 2549
+	},
+	{
+		"date": "2023-03-15 00:00:00",
+		"players": 17024,
+		"averagePlayers": 13753,
+		"twitchViewers": 4849
+	},
+	{
+		"date": "2023-03-16 00:00:00",
+		"players": 16522,
+		"averagePlayers": 13450,
+		"twitchViewers": 3312
+	},
+	{
+		"date": "2023-03-17 00:00:00",
+		"players": 16034,
+		"averagePlayers": 13314,
+		"twitchViewers": 1213
+	},
+	{
+		"date": "2023-03-18 00:00:00",
+		"players": 17666,
+		"averagePlayers": 14657,
+		"twitchViewers": 706
+	},
+	{
+		"date": "2023-03-19 00:00:00",
+		"players": 18852,
+		"averagePlayers": 15536,
+		"twitchViewers": 3019
+	},
+	{
+		"date": "2023-03-20 00:00:00",
+		"players": 17929,
+		"averagePlayers": 14146,
+		"twitchViewers": 3301
+	},
+	{
+		"date": "2023-03-21 00:00:00",
+		"players": 18357,
+		"averagePlayers": 14658,
+		"twitchViewers": 13452
+	},
+	{
+		"date": "2023-03-22 00:00:00",
+		"players": 18302,
+		"averagePlayers": 14609,
+		"twitchViewers": 9284
+	},
+	{
+		"date": "2023-03-23 00:00:00",
+		"players": 17744,
+		"averagePlayers": 14144,
+		"twitchViewers": 3465
+	},
+	{
+		"date": "2023-03-24 00:00:00",
+		"players": 15244,
+		"averagePlayers": 12894,
+		"twitchViewers": 3309
+	},
+	{
+		"date": "2023-03-25 00:00:00",
+		"players": 16918,
+		"averagePlayers": 13790,
+		"twitchViewers": 2729
+	},
+	{
+		"date": "2023-03-26 00:00:00",
+		"players": 18755,
+		"averagePlayers": 14959,
+		"twitchViewers": 2712
+	},
+	{
+		"date": "2023-03-27 00:00:00",
+		"players": 17974,
+		"averagePlayers": 13760,
+		"twitchViewers": 3393
+	},
+	{
+		"date": "2023-03-28 00:00:00",
+		"players": 18623,
+		"averagePlayers": 14171,
+		"twitchViewers": 11648
+	},
+	{
+		"date": "2023-03-29 00:00:00",
+		"players": 16053,
+		"averagePlayers": 11634,
+		"twitchViewers": 8477
+	},
+	{
+		"date": "2023-03-30 00:00:00",
+		"players": 15153,
+		"averagePlayers": 10284,
+		"twitchViewers": 290478
+	},
+	{
+		"date": "2023-03-31 00:00:00",
+		"players": 17060,
+		"averagePlayers": 11604,
+		"twitchViewers": 45889
+	},
+	{
+		"date": "2023-04-01 00:00:00",
+		"players": 21223,
+		"averagePlayers": 15350,
+		"twitchViewers": 32578
+	},
+	{
+		"date": "2023-04-02 00:00:00",
+		"players": 26139,
+		"averagePlayers": 20615,
+		"twitchViewers": 31600
+	},
+	{
+		"date": "2023-04-03 00:00:00",
+		"players": 23051,
+		"averagePlayers": 17276,
+		"twitchViewers": 30688
+	},
+	{
+		"date": "2023-04-04 00:00:00",
+		"players": 22413,
+		"averagePlayers": 16445,
+		"twitchViewers": 34240
+	},
+	{
+		"date": "2023-04-05 00:00:00",
+		"players": 21503,
+		"averagePlayers": 16511,
+		"twitchViewers": 35285
+	},
+	{
+		"date": "2023-04-06 00:00:00",
+		"players": 22270,
+		"averagePlayers": 16993,
+		"twitchViewers": 33823
+	},
+	{
+		"date": "2023-04-07 00:00:00",
+		"players": 211637,
+		"averagePlayers": 54197,
+		"twitchViewers": 220916
+	},
+	{
+		"date": "2023-04-08 00:00:00",
+		"players": 167375,
+		"averagePlayers": 136038,
+		"twitchViewers": 158811
+	},
+	{
+		"date": "2023-04-09 00:00:00",
+		"players": 159238,
+		"averagePlayers": 122916,
+		"twitchViewers": 83442
+	},
+	{
+		"date": "2023-04-10 00:00:00",
+		"players": 145866,
+		"averagePlayers": 109596,
+		"twitchViewers": 67775
+	},
+	{
+		"date": "2023-04-11 00:00:00",
+		"players": 135548,
+		"averagePlayers": 94793,
+		"twitchViewers": 60368
+	},
+	{
+		"date": "2023-04-12 00:00:00",
+		"players": 128246,
+		"averagePlayers": 89935,
+		"twitchViewers": 50535
+	},
+	{
+		"date": "2023-04-13 00:00:00",
+		"players": 124079,
+		"averagePlayers": 86132,
+		"twitchViewers": 51830
+	},
+	{
+		"date": "2023-04-14 00:00:00",
+		"players": 123962,
+		"averagePlayers": 89305,
+		"twitchViewers": 47554
+	},
+	{
+		"date": "2023-04-15 00:00:00",
+		"players": 131724,
+		"averagePlayers": 100224,
+		"twitchViewers": 49231
+	},
+	{
+		"date": "2023-04-16 00:00:00",
+		"players": 132894,
+		"averagePlayers": 100089,
+		"twitchViewers": 47729
+	},
+	{
+		"date": "2023-04-17 00:00:00",
+		"players": 116283,
+		"averagePlayers": 80468,
+		"twitchViewers": 42312
+	},
+	{
+		"date": "2023-04-18 00:00:00",
+		"players": 110730,
+		"averagePlayers": 76724,
+		"twitchViewers": 46804
+	},
+	{
+		"date": "2023-04-19 00:00:00",
+		"players": 106122,
+		"averagePlayers": 73449,
+		"twitchViewers": 47697
+	},
+	{
+		"date": "2023-04-20 00:00:00",
+		"players": 103461,
+		"averagePlayers": 71947,
+		"twitchViewers": 42256
+	},
+	{
+		"date": "2023-04-21 00:00:00",
+		"players": 102071,
+		"averagePlayers": 72267,
+		"twitchViewers": 32933
+	},
+	{
+		"date": "2023-04-22 00:00:00",
+		"players": 107525,
+		"averagePlayers": 81119,
+		"twitchViewers": 34481
+	},
+	{
+		"date": "2023-04-23 00:00:00",
+		"players": 110542,
+		"averagePlayers": 82338,
+		"twitchViewers": 46704
+	},
+	{
+		"date": "2023-04-24 00:00:00",
+		"players": 95811,
+		"averagePlayers": 66622,
+		"twitchViewers": 35310
+	},
+	{
+		"date": "2023-04-25 00:00:00",
+		"players": 91073,
+		"averagePlayers": 63740,
+		"twitchViewers": 39350
+	},
+	{
+		"date": "2023-04-26 00:00:00",
+		"players": 85021,
+		"averagePlayers": 59521,
+		"twitchViewers": 30345
+	},
+	{
+		"date": "2023-04-27 00:00:00",
+		"players": 82160,
+		"averagePlayers": 57580,
+		"twitchViewers": 34142
+	},
+	{
+		"date": "2023-04-28 00:00:00",
+		"players": 80776,
+		"averagePlayers": 57898,
+		"twitchViewers": 20344
+	},
+	{
+		"date": "2023-04-29 00:00:00",
+		"players": 84955,
+		"averagePlayers": 64420,
+		"twitchViewers": 22297
+	},
+	{
+		"date": "2023-04-30 00:00:00",
+		"players": 86369,
+		"averagePlayers": 65512,
+		"twitchViewers": 21471
+	},
+	{
+		"date": "2023-05-01 00:00:00",
+		"players": 79314,
+		"averagePlayers": 60368,
+		"twitchViewers": 26397
+	},
+	{
+		"date": "2023-05-02 00:00:00",
+		"players": 72852,
+		"averagePlayers": 50472,
+		"twitchViewers": 17782
+	},
+	{
+		"date": "2023-05-03 00:00:00",
+		"players": 69654,
+		"averagePlayers": 48305,
+		"twitchViewers": 20608
+	},
+	{
+		"date": "2023-05-04 00:00:00",
+		"players": 67998,
+		"averagePlayers": 46841,
+		"twitchViewers": 15018
+	},
+	{
+		"date": "2023-05-05 00:00:00",
+		"players": 66977,
+		"averagePlayers": 48729,
+		"twitchViewers": 0
+	},
+	{
+		"date": "2023-05-06 00:00:00",
+		"players": 71072,
+		"averagePlayers": 54484,
+		"twitchViewers": 15744
+	},
+	{
+		"date": "2023-05-07 00:00:00",
+		"players": 72546,
+		"averagePlayers": 55031,
+		"twitchViewers": 20681
+	},
+	{
+		"date": "2023-05-08 00:00:00",
+		"players": 63725,
+		"averagePlayers": 46265,
+		"twitchViewers": 16297
+	},
+	{
+		"date": "2023-05-09 00:00:00",
+		"players": 59548,
+		"averagePlayers": 42608,
+		"twitchViewers": 13146
+	},
+	{
+		"date": "2023-05-10 00:00:00",
+		"players": 55925,
+		"averagePlayers": 39098,
+		"twitchViewers": 10355
+	},
+	{
+		"date": "2023-05-11 00:00:00",
+		"players": 53599,
+		"averagePlayers": 38139,
+		"twitchViewers": 24537
+	},
+	{
+		"date": "2023-05-12 00:00:00",
+		"players": 51370,
+		"averagePlayers": 37220,
+		"twitchViewers": 9438
+	},
+	{
+		"date": "2023-05-13 00:00:00",
+		"players": 51030,
+		"averagePlayers": 39696,
+		"twitchViewers": 9932
+	},
+	{
+		"date": "2023-05-14 00:00:00",
+		"players": 51986,
+		"averagePlayers": 39948,
+		"twitchViewers": 9560
+	},
+	{
+		"date": "2023-05-15 00:00:00",
+		"players": 48292,
+		"averagePlayers": 31652,
+		"twitchViewers": 18156
+	},
+	{
+		"date": "2023-05-16 00:00:00",
+		"players": 47114,
+		"averagePlayers": 33171,
+		"twitchViewers": 10370
+	},
+	{
+		"date": "2023-05-17 00:00:00",
+		"players": 44467,
+		"averagePlayers": 32436,
+		"twitchViewers": 8304
+	},
+	{
+		"date": "2023-05-18 00:00:00",
+		"players": 43564,
+		"averagePlayers": 32666,
+		"twitchViewers": 20641
+	},
+	{
+		"date": "2023-05-19 00:00:00",
+		"players": 42917,
+		"averagePlayers": 32099,
+		"twitchViewers": 9368
+	},
+	{
+		"date": "2023-05-20 00:00:00",
+		"players": 44850,
+		"averagePlayers": 35010,
+		"twitchViewers": 10582
+	},
+	{
+		"date": "2023-05-21 00:00:00",
+		"players": 45245,
+		"averagePlayers": 34994,
+		"twitchViewers": 10775
+	},
+	{
+		"date": "2023-05-22 00:00:00",
+		"players": 40314,
+		"averagePlayers": 28873,
+		"twitchViewers": 10906
+	},
+	{
+		"date": "2023-05-23 00:00:00",
+		"players": 38073,
+		"averagePlayers": 27375,
+		"twitchViewers": 10188
+	},
+	{
+		"date": "2023-05-24 00:00:00",
+		"players": 36193,
+		"averagePlayers": 26335,
+		"twitchViewers": 8981
+	},
+	{
+		"date": "2023-05-25 00:00:00",
+		"players": 34506,
+		"averagePlayers": 25563,
+		"twitchViewers": 24049
+	},
+	{
+		"date": "2023-05-26 00:00:00",
+		"players": 33869,
+		"averagePlayers": 25600,
+		"twitchViewers": 6346
+	},
+	{
+		"date": "2023-05-27 00:00:00",
+		"players": 35337,
+		"averagePlayers": 28317,
+		"twitchViewers": 9111
+	},
+	{
+		"date": "2023-05-28 00:00:00",
+		"players": 36350,
+		"averagePlayers": 28805,
+		"twitchViewers": 8384
+	},
+	{
+		"date": "2023-05-29 00:00:00",
+		"players": 34532,
+		"averagePlayers": 25827,
+		"twitchViewers": 7232
+	},
+	{
+		"date": "2023-05-30 00:00:00",
+		"players": 30795,
+		"averagePlayers": 22706,
+		"twitchViewers": 6791
+	},
+	{
+		"date": "2023-05-31 00:00:00",
+		"players": 29426,
+		"averagePlayers": 21827,
+		"twitchViewers": 4369
+	},
+	{
+		"date": "2023-06-01 00:00:00",
+		"players": 27347,
+		"averagePlayers": 20791,
+		"twitchViewers": 3110
+	},
+	{
+		"date": "2023-06-02 00:00:00",
+		"players": 24811,
+		"averagePlayers": 19223,
+		"twitchViewers": 901
+	},
+	{
+		"date": "2023-06-03 00:00:00",
+		"players": 26048,
+		"averagePlayers": 20687,
+		"twitchViewers": 1445
+	},
+	{
+		"date": "2023-06-04 00:00:00",
+		"players": 27340,
+		"averagePlayers": 21385,
+		"twitchViewers": 1349
+	},
+	{
+		"date": "2023-06-05 00:00:00",
+		"players": 24126,
+		"averagePlayers": 18200,
+		"twitchViewers": 1519
+	},
+	{
+		"date": "2023-06-06 00:00:00",
+		"players": 23139,
+		"averagePlayers": 17153,
+		"twitchViewers": 1373
+	},
+	{
+		"date": "2023-06-07 00:00:00",
+		"players": 22426,
+		"averagePlayers": 16905,
+		"twitchViewers": 1000
+	},
+	{
+		"date": "2023-06-08 00:00:00",
+		"players": 23062,
+		"averagePlayers": 17505,
+		"twitchViewers": 1300
+	},
+	{
+		"date": "2023-06-09 00:00:00",
+		"players": 22773,
+		"averagePlayers": 17450,
+		"twitchViewers": 1280
+	},
+	{
+		"date": "2023-06-10 00:00:00",
+		"players": 24034,
+		"averagePlayers": 19177,
+		"twitchViewers": 2053
+	},
+	{
+		"date": "2023-06-11 00:00:00",
+		"players": 25168,
+		"averagePlayers": 19919,
+		"twitchViewers": 1785
+	},
+	{
+		"date": "2023-06-12 00:00:00",
+		"players": 22946,
+		"averagePlayers": 17550,
+		"twitchViewers": 2337
+	},
+	{
+		"date": "2023-06-13 00:00:00",
+		"players": 22286,
+		"averagePlayers": 16477,
+		"twitchViewers": 1822
+	},
+	{
+		"date": "2023-06-14 00:00:00",
+		"players": 21116,
+		"averagePlayers": 16109,
+		"twitchViewers": 1836
+	},
+	{
+		"date": "2023-06-15 00:00:00",
+		"players": 19275,
+		"averagePlayers": 14287,
+		"twitchViewers": 1274
+	},
+	{
+		"date": "2023-06-16 00:00:00",
+		"players": 20692,
+		"averagePlayers": 15980,
+		"twitchViewers": 2905
+	},
+	{
+		"date": "2023-06-17 00:00:00",
+		"players": 21870,
+		"averagePlayers": 17685,
+		"twitchViewers": 1479
+	},
+	{
+		"date": "2023-06-18 00:00:00",
+		"players": 22729,
+		"averagePlayers": 18169,
+		"twitchViewers": 1303
+	},
+	{
+		"date": "2023-06-19 00:00:00",
+		"players": 21377,
+		"averagePlayers": 15881,
+		"twitchViewers": 2604
+	},
+	{
+		"date": "2023-06-20 00:00:00",
+		"players": 20316,
+		"averagePlayers": 15312,
+		"twitchViewers": 2322
+	},
+	{
+		"date": "2023-06-21 00:00:00",
+		"players": 19526,
+		"averagePlayers": 15038,
+		"twitchViewers": 1452
+	},
+	{
+		"date": "2023-06-22 00:00:00",
+		"players": 18857,
+		"averagePlayers": 14790,
+		"twitchViewers": 2070
+	},
+	{
+		"date": "2023-06-23 00:00:00",
+		"players": 18711,
+		"averagePlayers": 14857,
+		"twitchViewers": 1338
+	},
+	{
+		"date": "2023-06-24 00:00:00",
+		"players": 19826,
+		"averagePlayers": 16181,
+		"twitchViewers": 2314
+	},
+	{
+		"date": "2023-06-25 00:00:00",
+		"players": 20925,
+		"averagePlayers": 17008,
+		"twitchViewers": 2441
+	},
+	{
+		"date": "2023-06-26 00:00:00",
+		"players": 19319,
+		"averagePlayers": 15006,
+		"twitchViewers": 2036
+	},
+	{
+		"date": "2023-06-27 00:00:00",
+		"players": 19082,
+		"averagePlayers": 14837,
+		"twitchViewers": 1770
+	},
+	{
+		"date": "2023-06-28 00:00:00",
+		"players": 18417,
+		"averagePlayers": 14562,
+		"twitchViewers": 1551
+	},
+	{
+		"date": "2023-06-29 00:00:00",
+		"players": 17781,
+		"averagePlayers": 14232,
+		"twitchViewers": 2324
+	},
+	{
+		"date": "2023-06-30 00:00:00",
+		"players": 17957,
+		"averagePlayers": 14314,
+		"twitchViewers": 2647
+	},
+	{
+		"date": "2023-07-01 00:00:00",
+		"players": 19066,
+		"averagePlayers": 15826,
+		"twitchViewers": 1712
+	},
+	{
+		"date": "2023-07-02 00:00:00",
+		"players": 19447,
+		"averagePlayers": 15938,
+		"twitchViewers": 1538
+	},
+	{
+		"date": "2023-07-03 00:00:00",
+		"players": 18143,
+		"averagePlayers": 14269,
+		"twitchViewers": 1280
+	},
+	{
+		"date": "2023-07-04 00:00:00",
+		"players": 17708,
+		"averagePlayers": 14028,
+		"twitchViewers": 1729
+	},
+	{
+		"date": "2023-07-05 00:00:00",
+		"players": 16753,
+		"averagePlayers": 13450,
+		"twitchViewers": 1240
+	},
+	{
+		"date": "2023-07-06 00:00:00",
+		"players": 16231,
+		"averagePlayers": 13232,
+		"twitchViewers": 1151
+	},
+	{
+		"date": "2023-07-07 00:00:00",
+		"players": 16113,
+		"averagePlayers": 13211,
+		"twitchViewers": 1042
+	},
+	{
+		"date": "2023-07-08 00:00:00",
+		"players": 16989,
+		"averagePlayers": 14276,
+		"twitchViewers": 1821
+	},
+	{
+		"date": "2023-07-09 00:00:00",
+		"players": 17634,
+		"averagePlayers": 14665,
+		"twitchViewers": 1396
+	},
+	{
+		"date": "2023-07-10 00:00:00",
+		"players": 15863,
+		"averagePlayers": 12914,
+		"twitchViewers": 2856
+	},
+	{
+		"date": "2023-07-11 00:00:00",
+		"players": 15396,
+		"averagePlayers": 12601,
+		"twitchViewers": 1397
+	},
+	{
+		"date": "2023-07-12 00:00:00",
+		"players": 15551,
+		"averagePlayers": 12523,
+		"twitchViewers": 1193
+	},
+	{
+		"date": "2023-07-13 00:00:00",
+		"players": 15332,
+		"averagePlayers": 12383,
+		"twitchViewers": 983
+	},
+	{
+		"date": "2023-07-14 00:00:00",
+		"players": 15302,
+		"averagePlayers": 12452,
+		"twitchViewers": 1638
+	},
+	{
+		"date": "2023-07-15 00:00:00",
+		"players": 16579,
+		"averagePlayers": 13726,
+		"twitchViewers": 2079
+	},
+	{
+		"date": "2023-07-16 00:00:00",
+		"players": 17041,
+		"averagePlayers": 14312,
+		"twitchViewers": 3470
+	},
+	{
+		"date": "2023-07-17 00:00:00",
+		"players": 15415,
+		"averagePlayers": 12645,
+		"twitchViewers": 1651
+	},
+	{
+		"date": "2023-07-18 00:00:00",
+		"players": 15240,
+		"averagePlayers": 12228,
+		"twitchViewers": 3192
+	},
+	{
+		"date": "2023-07-19 00:00:00",
+		"players": 15235,
+		"averagePlayers": 12181,
+		"twitchViewers": 2453
+	},
+	{
+		"date": "2023-07-20 00:00:00",
+		"players": 14503,
+		"averagePlayers": 12103,
+		"twitchViewers": 1784
+	},
+	{
+		"date": "2023-07-21 00:00:00",
+		"players": 14641,
+		"averagePlayers": 12075,
+		"twitchViewers": 848
+	},
+	{
+		"date": "2023-07-22 00:00:00",
+		"players": 15481,
+		"averagePlayers": 13061,
+		"twitchViewers": 1392
+	},
+	{
+		"date": "2023-07-23 00:00:00",
+		"players": 16066,
+		"averagePlayers": 13469,
+		"twitchViewers": 2895
+	},
+	{
+		"date": "2023-07-24 00:00:00",
+		"players": 13854,
+		"averagePlayers": 11384,
+		"twitchViewers": 2870
+	},
+	{
+		"date": "2023-07-25 00:00:00",
+		"players": 13943,
+		"averagePlayers": 11067,
+		"twitchViewers": 3422
+	},
+	{
+		"date": "2023-07-26 00:00:00",
+		"players": 14239,
+		"averagePlayers": 11251,
+		"twitchViewers": 3495
+	},
+	{
+		"date": "2023-07-27 00:00:00",
+		"players": 14245,
+		"averagePlayers": 11294,
+		"twitchViewers": 2907
+	},
+	{
+		"date": "2023-07-28 00:00:00",
+		"players": 14493,
+		"averagePlayers": 11917,
+		"twitchViewers": 445814
+	},
+	{
+		"date": "2023-07-29 00:00:00",
+		"players": 18384,
+		"averagePlayers": 14715,
+		"twitchViewers": 245550
+	},
+	{
+		"date": "2023-07-30 00:00:00",
+		"players": 20273,
+		"averagePlayers": 16233,
+		"twitchViewers": 89443
+	},
+	{
+		"date": "2023-07-31 00:00:00",
+		"players": 18640,
+		"averagePlayers": 14653,
+		"twitchViewers": 10882
+	},
+	{
+		"date": "2023-08-01 00:00:00",
+		"players": 18577,
+		"averagePlayers": 14321,
+		"twitchViewers": 22963
+	},
+	{
+		"date": "2023-08-02 00:00:00",
+		"players": 18318,
+		"averagePlayers": 14260,
+		"twitchViewers": 18176
+	},
+	{
+		"date": "2023-08-03 00:00:00",
+		"players": 17080,
+		"averagePlayers": 13929,
+		"twitchViewers": 8766
+	},
+	{
+		"date": "2023-08-04 00:00:00",
+		"players": 16755,
+		"averagePlayers": 13478,
+		"twitchViewers": 4854
+	},
+	{
+		"date": "2023-08-05 00:00:00",
+		"players": 17727,
+		"averagePlayers": 14656,
+		"twitchViewers": 6978
+	},
+	{
+		"date": "2023-08-06 00:00:00",
+		"players": 18469,
+		"averagePlayers": 15175,
+		"twitchViewers": 4977
+	},
+	{
+		"date": "2023-08-07 00:00:00",
+		"players": 16764,
+		"averagePlayers": 13256,
+		"twitchViewers": 6440
+	},
+	{
+		"date": "2023-08-08 00:00:00",
+		"players": 15713,
+		"averagePlayers": 12605,
+		"twitchViewers": 7843
+	},
+	{
+		"date": "2023-08-09 00:00:00",
+		"players": 15560,
+		"averagePlayers": 12268,
+		"twitchViewers": 9064
+	},
+	{
+		"date": "2023-08-10 00:00:00",
+		"players": 15007,
+		"averagePlayers": 12049,
+		"twitchViewers": 33474
+	},
+	{
+		"date": "2023-08-11 00:00:00",
+		"players": 16214,
+		"averagePlayers": 12553,
+		"twitchViewers": 22202
+	},
+	{
+		"date": "2023-08-12 00:00:00",
+		"players": 17831,
+		"averagePlayers": 14278,
+		"twitchViewers": 14766
+	},
+	{
+		"date": "2023-08-13 00:00:00",
+		"players": 19743,
+		"averagePlayers": 15415,
+		"twitchViewers": 15461
+	},
+	{
+		"date": "2023-08-14 00:00:00",
+		"players": 18112,
+		"averagePlayers": 14342,
+		"twitchViewers": 15531
+	},
+	{
+		"date": "2023-08-15 00:00:00",
+		"players": 14855,
+		"averagePlayers": 11136,
+		"twitchViewers": 29266
+	},
+	{
+		"date": "2023-08-16 00:00:00",
+		"players": 14502,
+		"averagePlayers": 10407,
+		"twitchViewers": 31360
+	},
+	{
+		"date": "2023-08-17 00:00:00",
+		"players": 15199,
+		"averagePlayers": 10950,
+		"twitchViewers": 31723
+	},
+	{
+		"date": "2023-08-18 00:00:00",
+		"players": 165823,
+		"averagePlayers": 42495,
+		"twitchViewers": 175648
+	},
+	{
+		"date": "2023-08-19 00:00:00",
+		"players": 130895,
+		"averagePlayers": 108424,
+		"twitchViewers": 135825
+	},
+	{
+		"date": "2023-08-20 00:00:00",
+		"players": 131887,
+		"averagePlayers": 100671,
+		"twitchViewers": 63289
+	},
+	{
+		"date": "2023-08-21 00:00:00",
+		"players": 115273,
+		"averagePlayers": 82367,
+		"twitchViewers": 49810
+	},
+	{
+		"date": "2023-08-22 00:00:00",
+		"players": 107560,
+		"averagePlayers": 76345,
+		"twitchViewers": 49490
+	},
+	{
+		"date": "2023-08-23 00:00:00",
+		"players": 103619,
+		"averagePlayers": 73983,
+		"twitchViewers": 41746
+	},
+	{
+		"date": "2023-08-24 00:00:00",
+		"players": 103318,
+		"averagePlayers": 73306,
+		"twitchViewers": 43092
+	},
+	{
+		"date": "2023-08-25 00:00:00",
+		"players": 100153,
+		"averagePlayers": 72690,
+		"twitchViewers": 43382
+	},
+	{
+		"date": "2023-08-26 00:00:00",
+		"players": 104362,
+		"averagePlayers": 79234,
+		"twitchViewers": 38567
+	},
+	{
+		"date": "2023-08-27 00:00:00",
+		"players": 108672,
+		"averagePlayers": 81519,
+		"twitchViewers": 40173
+	},
+	{
+		"date": "2023-08-28 00:00:00",
+		"players": 97918,
+		"averagePlayers": 68480,
+		"twitchViewers": 41685
+	},
+	{
+		"date": "2023-08-29 00:00:00",
+		"players": 94053,
+		"averagePlayers": 64937,
+		"twitchViewers": 39428
+	},
+	{
+		"date": "2023-08-30 00:00:00",
+		"players": 90726,
+		"averagePlayers": 63710,
+		"twitchViewers": 33999
+	},
+	{
+		"date": "2023-08-31 00:00:00",
+		"players": 85772,
+		"averagePlayers": 61162,
+		"twitchViewers": 33481
+	},
+	{
+		"date": "2023-09-01 00:00:00",
+		"players": 83699,
+		"averagePlayers": 60544,
+		"twitchViewers": 25157
+	},
+	{
+		"date": "2023-09-02 00:00:00",
+		"players": 87110,
+		"averagePlayers": 66796,
+		"twitchViewers": 27911
+	},
+	{
+		"date": "2023-09-03 00:00:00",
+		"players": 89839,
+		"averagePlayers": 67483,
+		"twitchViewers": 26727
+	},
+	{
+		"date": "2023-09-04 00:00:00",
+		"players": 87527,
+		"averagePlayers": 58563,
+		"twitchViewers": 35173
+	},
+	{
+		"date": "2023-09-05 00:00:00",
+		"players": 77727,
+		"averagePlayers": 53471,
+		"twitchViewers": 34644
+	},
+	{
+		"date": "2023-09-06 00:00:00",
+		"players": 74229,
+		"averagePlayers": 51894,
+		"twitchViewers": 29080
+	},
+	{
+		"date": "2023-09-07 00:00:00",
+		"players": 72674,
+		"averagePlayers": 50270,
+		"twitchViewers": 22587
+	},
+	{
+		"date": "2023-09-08 00:00:00",
+		"players": 71935,
+		"averagePlayers": 52184,
+		"twitchViewers": 20507
+	},
+	{
+		"date": "2023-09-09 00:00:00",
+		"players": 75360,
+		"averagePlayers": 58134,
+		"twitchViewers": 19407
+	},
+	{
+		"date": "2023-09-10 00:00:00",
+		"players": 77727,
+		"averagePlayers": 58134,
+		"twitchViewers": 21594
+	}
+]
