@@ -13,6 +13,7 @@
     "dependencies": {
         "@types/csv-parse": "^1.2.2",
         "@types/node": "^20.6.0",
-        "csv-parse": "^5.5.0"
+        "csv-parse": "^5.5.0",
+        "moment": "^2.29.4"
     }
 }

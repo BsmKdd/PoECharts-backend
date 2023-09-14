@@ -2,6 +2,7 @@ import * as fs from 'fs'
 import * as fsp from 'fs/promises'
 
 import { parse } from 'csv-parse'
+import moment, { Moment } from 'moment'
 
 export const convertToJSON = async (csvFilePath: string): Promise<void> => {
     let records: object[] = []
@@ -16,7 +17,7 @@ export const convertToJSON = async (csvFilePath: string): Promise<void> => {
     fs.createReadStream(csvFilePath).pipe(parser)
 
     for await (const row of parser) {
-        records.push({ ...row, date: convertDate(row.date) })
+        records.push({ ...row, date: moment(row.date).format('Do MMM YYYY') })
     }
 
     const JSONContent = JSON.stringify(records)
@@ -38,14 +39,24 @@ export const addLeague = async (
     try {
         data = JSON.parse(data)
         leaguesData = JSON.parse(leaguesData)
+        let day1Players = 0
 
-        data = data.map((OneDay: { date: string }) => {
-            const date = new Date(OneDay.date).getTime()
+        data = data.map((OneDay: { date: string; players: number }) => {
+            const date = moment(OneDay.date, 'Do MMM YYYY')
 
             for (var league of leaguesData) {
-                const start = new Date(league.start).getTime()
-                const end = new Date(league.end).getTime()
-                if (date >= start && date <= end) return { league: league.name, ...OneDay }
+                const start = moment(league.start)
+                const end = moment(league.end)
+
+                if (date.isBetween(start, end, undefined, '[]')) {
+                    if (date.diff(start, 'days') === 0) day1Players = OneDay.players
+                    return {
+                        league: league.name,
+                        day: date.diff(start, 'days') + 1,
+                        retention: Math.round((OneDay.players * 10000) / day1Players) / 100,
+                        ...OneDay,
+                    }
+                }
             }
 
             return OneDay
@@ -58,11 +69,4 @@ export const addLeague = async (
     } catch (err) {
         throw err
     }
-}
-
-export const convertDate = (
-    date: string,
-    options: Intl.DateTimeFormatOptions = { year: 'numeric', month: 'short', day: 'numeric' }
-): string => {
-    return new Date(date).toLocaleDateString('en-GB', options)
 }
