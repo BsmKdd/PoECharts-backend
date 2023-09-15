@@ -2,7 +2,7 @@
 	{
 		"version": "0.11.0",
 		"league": "Anarchy/Onslaught",
-		"name": "Anarchy/Onslaught",
+		"name": "Ana/Ons",
 		"start": "2013-06-07",
 		"end": "2013-10-07"
 	},
@@ -10,7 +10,7 @@
 		"version": "1.0.0",
 		"expansion": "Official Release",
 		"league": "Domination/Nemesis",
-		"name": "Domination/Nemesis",
+		"name": "Dom/Nem",
 		"start": "2013-10-23",
 		"end": "2014-02-23"
 	},
@@ -18,7 +18,7 @@
 		"version": "1.1.0",
 		"expansion": "Sacrifice of the Vaal",
 		"league": "Ambush/Invasion",
-		"name": "Ambush/Invasion",
+		"name": "Amb/Inv",
 		"start": "2014-03-05",
 		"end": "2014-07-05"
 	},
@@ -26,22 +26,22 @@
 		"version": "1.2.0",
 		"expansion": "Forsaken Masters",
 		"league": "Rampage/Beyond",
-		"name": "Rampage/Beyond",
+		"name": "Ram/Bey",
 		"start": "2014-08-20",
 		"end": "2014-11-20"
 	},
 	{
 		"version": "1.3.0",
 		"league": "Torment/Bloodlines",
-		"name": "Torment/Bloodlines",
-		"start": "2014-12-13",
+		"name": "Tor/Blo",
+		"start": "2014-07-05",
 		"end": "2015-03-24"
 	},
 	{
 		"version": "2.0.0",
 		"expansion": "The Awakening",
 		"league": "Warbands/Tempest",
-		"name": "Warbands/Tempest",
+		"name": "War/Tem",
 		"start": "2015-07-10",
 		"end": "2015-10-02"
 	},

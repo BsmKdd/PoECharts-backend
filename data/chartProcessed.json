@@ -1,6 +1,6 @@
 [
 	{
-		"league": "Anarchy/Onslaught",
+		"league": "Ana/Ons",
 		"day": 117,
 		"retention": null,
 		"date": "1st Oct 2013",
@@ -9,7 +9,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Anarchy/Onslaught",
+		"league": "Ana/Ons",
 		"day": 118,
 		"retention": null,
 		"date": "2nd Oct 2013",
@@ -18,7 +18,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Anarchy/Onslaught",
+		"league": "Ana/Ons",
 		"day": 119,
 		"retention": null,
 		"date": "3rd Oct 2013",
@@ -27,7 +27,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Anarchy/Onslaught",
+		"league": "Ana/Ons",
 		"day": 120,
 		"retention": null,
 		"date": "4th Oct 2013",
@@ -36,7 +36,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Anarchy/Onslaught",
+		"league": "Ana/Ons",
 		"day": 121,
 		"retention": null,
 		"date": "5th Oct 2013",
@@ -45,7 +45,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Anarchy/Onslaught",
+		"league": "Ana/Ons",
 		"day": 122,
 		"retention": null,
 		"date": "6th Oct 2013",
@@ -54,7 +54,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Anarchy/Onslaught",
+		"league": "Ana/Ons",
 		"day": 123,
 		"retention": null,
 		"date": "7th Oct 2013",
@@ -153,7 +153,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 1,
 		"retention": 100,
 		"date": "23rd Oct 2013",
@@ -162,7 +162,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 2,
 		"retention": 99.68,
 		"date": "24th Oct 2013",
@@ -171,7 +171,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 3,
 		"retention": 116.93,
 		"date": "25th Oct 2013",
@@ -180,7 +180,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 4,
 		"retention": 129.73,
 		"date": "26th Oct 2013",
@@ -189,7 +189,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 5,
 		"retention": 129.32,
 		"date": "27th Oct 2013",
@@ -198,7 +198,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 6,
 		"retention": 112.45,
 		"date": "28th Oct 2013",
@@ -207,7 +207,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 7,
 		"retention": 106.1,
 		"date": "29th Oct 2013",
@@ -216,7 +216,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 8,
 		"retention": 97.73,
 		"date": "30th Oct 2013",
@@ -225,7 +225,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 9,
 		"retention": 90.16,
 		"date": "31st Oct 2013",
@@ -234,7 +234,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 10,
 		"retention": 120.66,
 		"date": "1st Nov 2013",
@@ -243,7 +243,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 11,
 		"retention": 120.66,
 		"date": "2nd Nov 2013",
@@ -252,7 +252,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 12,
 		"retention": 121.11,
 		"date": "3rd Nov 2013",
@@ -261,7 +261,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 13,
 		"retention": 96.17,
 		"date": "4th Nov 2013",
@@ -270,7 +270,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 14,
 		"retention": 89.8,
 		"date": "5th Nov 2013",
@@ -279,7 +279,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 15,
 		"retention": 86.96,
 		"date": "6th Nov 2013",
@@ -288,7 +288,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 16,
 		"retention": 87.96,
 		"date": "7th Nov 2013",
@@ -297,7 +297,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 17,
 		"retention": 102.3,
 		"date": "8th Nov 2013",
@@ -306,7 +306,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 18,
 		"retention": 112.04,
 		"date": "9th Nov 2013",
@@ -315,7 +315,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 19,
 		"retention": 111.75,
 		"date": "10th Nov 2013",
@@ -324,7 +324,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 20,
 		"retention": 97.13,
 		"date": "11th Nov 2013",
@@ -333,7 +333,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 21,
 		"retention": 87.24,
 		"date": "12th Nov 2013",
@@ -342,7 +342,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 22,
 		"retention": 81.84,
 		"date": "13th Nov 2013",
@@ -351,7 +351,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 23,
 		"retention": 85.49,
 		"date": "14th Nov 2013",
@@ -360,7 +360,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 24,
 		"retention": 96.13,
 		"date": "15th Nov 2013",
@@ -369,7 +369,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 25,
 		"retention": 108.25,
 		"date": "16th Nov 2013",
@@ -378,7 +378,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 26,
 		"retention": 108.26,
 		"date": "17th Nov 2013",
@@ -387,7 +387,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 27,
 		"retention": 83.19,
 		"date": "18th Nov 2013",
@@ -396,7 +396,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 28,
 		"retention": 78.78,
 		"date": "19th Nov 2013",
@@ -405,7 +405,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 29,
 		"retention": 77.23,
 		"date": "20th Nov 2013",
@@ -414,7 +414,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 30,
 		"retention": 74.39,
 		"date": "21st Nov 2013",
@@ -423,7 +423,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 31,
 		"retention": 80.96,
 		"date": "22nd Nov 2013",
@@ -432,7 +432,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 32,
 		"retention": 86.66,
 		"date": "23rd Nov 2013",
@@ -441,7 +441,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 33,
 		"retention": 86.94,
 		"date": "24th Nov 2013",
@@ -450,7 +450,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 34,
 		"retention": 72.48,
 		"date": "25th Nov 2013",
@@ -459,7 +459,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 35,
 		"retention": 72,
 		"date": "26th Nov 2013",
@@ -468,7 +468,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 36,
 		"retention": 69.53,
 		"date": "27th Nov 2013",
@@ -477,7 +477,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 37,
 		"retention": 69.26,
 		"date": "28th Nov 2013",
@@ -486,7 +486,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 38,
 		"retention": 71.77,
 		"date": "29th Nov 2013",
@@ -495,7 +495,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 39,
 		"retention": 74.82,
 		"date": "30th Nov 2013",
@@ -504,7 +504,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 40,
 		"retention": 74.98,
 		"date": "1st Dec 2013",
@@ -513,7 +513,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 41,
 		"retention": 61.12,
 		"date": "2nd Dec 2013",
@@ -522,7 +522,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 42,
 		"retention": 57.85,
 		"date": "3rd Dec 2013",
@@ -531,7 +531,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 43,
 		"retention": 57.46,
 		"date": "4th Dec 2013",
@@ -540,7 +540,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 44,
 		"retention": 56.88,
 		"date": "5th Dec 2013",
@@ -549,7 +549,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 45,
 		"retention": 66.92,
 		"date": "6th Dec 2013",
@@ -558,7 +558,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 46,
 		"retention": 72.43,
 		"date": "7th Dec 2013",
@@ -567,7 +567,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 47,
 		"retention": 72.02,
 		"date": "8th Dec 2013",
@@ -576,7 +576,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 48,
 		"retention": 58.74,
 		"date": "9th Dec 2013",
@@ -585,7 +585,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 49,
 		"retention": 55.56,
 		"date": "10th Dec 2013",
@@ -594,7 +594,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 50,
 		"retention": 52.64,
 		"date": "11th Dec 2013",
@@ -603,7 +603,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 51,
 		"retention": 51.79,
 		"date": "12th Dec 2013",
@@ -612,7 +612,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 52,
 		"retention": 58.22,
 		"date": "13th Dec 2013",
@@ -621,7 +621,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 53,
 		"retention": 61.32,
 		"date": "14th Dec 2013",
@@ -630,7 +630,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 54,
 		"retention": 61.75,
 		"date": "15th Dec 2013",
@@ -639,7 +639,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 55,
 		"retention": 51.12,
 		"date": "16th Dec 2013",
@@ -648,7 +648,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 56,
 		"retention": 48.79,
 		"date": "17th Dec 2013",
@@ -657,7 +657,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 57,
 		"retention": 47.67,
 		"date": "18th Dec 2013",
@@ -666,7 +666,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 58,
 		"retention": 47.16,
 		"date": "19th Dec 2013",
@@ -675,7 +675,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 59,
 		"retention": 53.15,
 		"date": "20th Dec 2013",
@@ -684,7 +684,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 60,
 		"retention": 54.26,
 		"date": "21st Dec 2013",
@@ -693,7 +693,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 61,
 		"retention": 49.8,
 		"date": "22nd Dec 2013",
@@ -702,7 +702,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 62,
 		"retention": 51.62,
 		"date": "23rd Dec 2013",
@@ -711,7 +711,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 63,
 		"retention": 42.53,
 		"date": "24th Dec 2013",
@@ -720,7 +720,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 64,
 		"retention": 45.56,
 		"date": "25th Dec 2013",
@@ -729,7 +729,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 65,
 		"retention": 47.46,
 		"date": "26th Dec 2013",
@@ -738,7 +738,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 66,
 		"retention": 49.2,
 		"date": "27th Dec 2013",
@@ -747,7 +747,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 67,
 		"retention": 54.79,
 		"date": "28th Dec 2013",
@@ -756,7 +756,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 68,
 		"retention": 55.09,
 		"date": "29th Dec 2013",
@@ -765,7 +765,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 69,
 		"retention": 53.79,
 		"date": "30th Dec 2013",
@@ -774,7 +774,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 70,
 		"retention": 52.57,
 		"date": "31st Dec 2013",
@@ -783,7 +783,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 71,
 		"retention": 58.21,
 		"date": "1st Jan 2014",
@@ -792,7 +792,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 72,
 		"retention": 50.57,
 		"date": "2nd Jan 2014",
@@ -801,7 +801,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 73,
 		"retention": 54.25,
 		"date": "3rd Jan 2014",
@@ -810,7 +810,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 74,
 		"retention": 57.68,
 		"date": "4th Jan 2014",
@@ -819,7 +819,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 75,
 		"retention": 58.42,
 		"date": "5th Jan 2014",
@@ -828,7 +828,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 76,
 		"retention": 47.78,
 		"date": "6th Jan 2014",
@@ -837,7 +837,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 77,
 		"retention": 46.25,
 		"date": "7th Jan 2014",
@@ -846,7 +846,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 78,
 		"retention": 43.54,
 		"date": "8th Jan 2014",
@@ -855,7 +855,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 79,
 		"retention": 43.51,
 		"date": "9th Jan 2014",
@@ -864,7 +864,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 80,
 		"retention": 52.76,
 		"date": "10th Jan 2014",
@@ -873,7 +873,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 81,
 		"retention": 54.99,
 		"date": "11th Jan 2014",
@@ -882,7 +882,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 82,
 		"retention": 55.29,
 		"date": "12th Jan 2014",
@@ -891,7 +891,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 83,
 		"retention": 42.93,
 		"date": "13th Jan 2014",
@@ -900,7 +900,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 84,
 		"retention": 41.57,
 		"date": "14th Jan 2014",
@@ -909,7 +909,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 85,
 		"retention": 39.83,
 		"date": "15th Jan 2014",
@@ -918,7 +918,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 86,
 		"retention": 39.79,
 		"date": "16th Jan 2014",
@@ -927,7 +927,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 87,
 		"retention": 48.09,
 		"date": "17th Jan 2014",
@@ -936,7 +936,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 88,
 		"retention": 52.55,
 		"date": "18th Jan 2014",
@@ -945,7 +945,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 89,
 		"retention": 50.95,
 		"date": "19th Jan 2014",
@@ -954,7 +954,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 90,
 		"retention": 45.29,
 		"date": "20th Jan 2014",
@@ -963,7 +963,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 91,
 		"retention": 40.84,
 		"date": "21st Jan 2014",
@@ -972,7 +972,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 92,
 		"retention": 37.23,
 		"date": "22nd Jan 2014",
@@ -981,7 +981,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 93,
 		"retention": 37.26,
 		"date": "23rd Jan 2014",
@@ -990,7 +990,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 94,
 		"retention": 46.21,
 		"date": "24th Jan 2014",
@@ -999,7 +999,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 95,
 		"retention": 48.7,
 		"date": "25th Jan 2014",
@@ -1008,7 +1008,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 96,
 		"retention": 48.9,
 		"date": "26th Jan 2014",
@@ -1017,7 +1017,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 97,
 		"retention": 23.54,
 		"date": "27th Jan 2014",
@@ -1026,7 +1026,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 98,
 		"retention": 32.05,
 		"date": "28th Jan 2014",
@@ -1035,7 +1035,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 99,
 		"retention": 34.17,
 		"date": "29th Jan 2014",
@@ -1044,7 +1044,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 100,
 		"retention": 35.47,
 		"date": "30th Jan 2014",
@@ -1053,7 +1053,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 101,
 		"retention": 40.5,
 		"date": "31st Jan 2014",
@@ -1062,7 +1062,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 102,
 		"retention": 44.73,
 		"date": "1st Feb 2014",
@@ -1071,7 +1071,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 103,
 		"retention": 44.73,
 		"date": "2nd Feb 2014",
@@ -1080,7 +1080,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 104,
 		"retention": 34.85,
 		"date": "3rd Feb 2014",
@@ -1089,7 +1089,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 105,
 		"retention": 33.34,
 		"date": "4th Feb 2014",
@@ -1098,7 +1098,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 106,
 		"retention": 33.02,
 		"date": "5th Feb 2014",
@@ -1107,7 +1107,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 107,
 		"retention": 31.55,
 		"date": "6th Feb 2014",
@@ -1116,7 +1116,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 108,
 		"retention": 38.12,
 		"date": "7th Feb 2014",
@@ -1125,7 +1125,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 109,
 		"retention": 42.01,
 		"date": "8th Feb 2014",
@@ -1134,7 +1134,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 110,
 		"retention": 42.3,
 		"date": "9th Feb 2014",
@@ -1143,7 +1143,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 111,
 		"retention": 32.85,
 		"date": "10th Feb 2014",
@@ -1152,7 +1152,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 112,
 		"retention": 33.52,
 		"date": "11th Feb 2014",
@@ -1161,7 +1161,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 113,
 		"retention": 33.51,
 		"date": "12th Feb 2014",
@@ -1170,7 +1170,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 114,
 		"retention": 33.59,
 		"date": "13th Feb 2014",
@@ -1179,7 +1179,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 115,
 		"retention": 37.75,
 		"date": "14th Feb 2014",
@@ -1188,7 +1188,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 116,
 		"retention": 39.89,
 		"date": "15th Feb 2014",
@@ -1197,7 +1197,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 117,
 		"retention": 39.87,
 		"date": "16th Feb 2014",
@@ -1206,7 +1206,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 118,
 		"retention": 34.11,
 		"date": "17th Feb 2014",
@@ -1215,7 +1215,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 119,
 		"retention": 29.17,
 		"date": "18th Feb 2014",
@@ -1224,7 +1224,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 120,
 		"retention": 28.09,
 		"date": "19th Feb 2014",
@@ -1233,7 +1233,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 121,
 		"retention": 26.63,
 		"date": "20th Feb 2014",
@@ -1242,7 +1242,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 122,
 		"retention": 32.65,
 		"date": "21st Feb 2014",
@@ -1251,7 +1251,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 123,
 		"retention": 34.89,
 		"date": "22nd Feb 2014",
@@ -1260,7 +1260,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Domination/Nemesis",
+		"league": "Dom/Nem",
 		"day": 124,
 		"retention": 34.71,
 		"date": "23rd Feb 2014",
@@ -1323,7 +1323,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 1,
 		"retention": 100,
 		"date": "5th Mar 2014",
@@ -1332,7 +1332,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 2,
 		"retention": 88.37,
 		"date": "6th Mar 2014",
@@ -1341,7 +1341,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 3,
 		"retention": 102.13,
 		"date": "7th Mar 2014",
@@ -1350,7 +1350,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 4,
 		"retention": 109.48,
 		"date": "8th Mar 2014",
@@ -1359,7 +1359,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 5,
 		"retention": 109.86,
 		"date": "9th Mar 2014",
@@ -1368,7 +1368,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 6,
 		"retention": 87.94,
 		"date": "10th Mar 2014",
@@ -1377,7 +1377,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 7,
 		"retention": 83.2,
 		"date": "11th Mar 2014",
@@ -1386,7 +1386,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 8,
 		"retention": 82.29,
 		"date": "12th Mar 2014",
@@ -1395,7 +1395,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 9,
 		"retention": 74.36,
 		"date": "13th Mar 2014",
@@ -1404,7 +1404,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 10,
 		"retention": 85.73,
 		"date": "14th Mar 2014",
@@ -1413,7 +1413,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 11,
 		"retention": 93.66,
 		"date": "15th Mar 2014",
@@ -1422,7 +1422,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 12,
 		"retention": 92.78,
 		"date": "16th Mar 2014",
@@ -1431,7 +1431,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 13,
 		"retention": 75.88,
 		"date": "17th Mar 2014",
@@ -1440,7 +1440,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 14,
 		"retention": 71.07,
 		"date": "18th Mar 2014",
@@ -1449,7 +1449,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 15,
 		"retention": 69.39,
 		"date": "19th Mar 2014",
@@ -1458,7 +1458,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 16,
 		"retention": 54.01,
 		"date": "20th Mar 2014",
@@ -1467,7 +1467,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 17,
 		"retention": 73.9,
 		"date": "21st Mar 2014",
@@ -1476,7 +1476,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 18,
 		"retention": 78.95,
 		"date": "22nd Mar 2014",
@@ -1485,7 +1485,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 19,
 		"retention": 78.23,
 		"date": "23rd Mar 2014",
@@ -1494,7 +1494,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 20,
 		"retention": 63.81,
 		"date": "24th Mar 2014",
@@ -1503,7 +1503,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 21,
 		"retention": 59.77,
 		"date": "25th Mar 2014",
@@ -1512,7 +1512,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 22,
 		"retention": 60.68,
 		"date": "26th Mar 2014",
@@ -1521,7 +1521,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 23,
 		"retention": 57.77,
 		"date": "27th Mar 2014",
@@ -1530,7 +1530,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 24,
 		"retention": 67.4,
 		"date": "28th Mar 2014",
@@ -1539,7 +1539,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 25,
 		"retention": 67.65,
 		"date": "29th Mar 2014",
@@ -1548,7 +1548,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 26,
 		"retention": 64.07,
 		"date": "30th Mar 2014",
@@ -1557,7 +1557,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 27,
 		"retention": 50.79,
 		"date": "31st Mar 2014",
@@ -1566,7 +1566,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 28,
 		"retention": 57.63,
 		"date": "1st Apr 2014",
@@ -1575,7 +1575,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 29,
 		"retention": 47.6,
 		"date": "2nd Apr 2014",
@@ -1584,7 +1584,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 30,
 		"retention": 47.81,
 		"date": "3rd Apr 2014",
@@ -1593,7 +1593,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 31,
 		"retention": 56.07,
 		"date": "4th Apr 2014",
@@ -1602,7 +1602,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 32,
 		"retention": 57.65,
 		"date": "5th Apr 2014",
@@ -1611,7 +1611,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 33,
 		"retention": 56.25,
 		"date": "6th Apr 2014",
@@ -1620,7 +1620,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 34,
 		"retention": 46.81,
 		"date": "7th Apr 2014",
@@ -1629,7 +1629,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 35,
 		"retention": 45.85,
 		"date": "8th Apr 2014",
@@ -1638,7 +1638,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 36,
 		"retention": 44.15,
 		"date": "9th Apr 2014",
@@ -1647,7 +1647,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 37,
 		"retention": 44.57,
 		"date": "10th Apr 2014",
@@ -1656,7 +1656,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 38,
 		"retention": 52.36,
 		"date": "11th Apr 2014",
@@ -1665,7 +1665,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 39,
 		"retention": 57.86,
 		"date": "12th Apr 2014",
@@ -1674,7 +1674,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 40,
 		"retention": 55.51,
 		"date": "13th Apr 2014",
@@ -1683,7 +1683,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 41,
 		"retention": 45.31,
 		"date": "14th Apr 2014",
@@ -1692,7 +1692,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 42,
 		"retention": 45.13,
 		"date": "15th Apr 2014",
@@ -1701,7 +1701,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 43,
 		"retention": 43.48,
 		"date": "16th Apr 2014",
@@ -1710,7 +1710,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 44,
 		"retention": 46.84,
 		"date": "17th Apr 2014",
@@ -1719,7 +1719,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 45,
 		"retention": 48.07,
 		"date": "18th Apr 2014",
@@ -1728,7 +1728,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 46,
 		"retention": 49.02,
 		"date": "19th Apr 2014",
@@ -1737,7 +1737,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 47,
 		"retention": 49.12,
 		"date": "20th Apr 2014",
@@ -1746,7 +1746,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 48,
 		"retention": 44.06,
 		"date": "21st Apr 2014",
@@ -1755,7 +1755,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 49,
 		"retention": 40.54,
 		"date": "22nd Apr 2014",
@@ -1764,7 +1764,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 50,
 		"retention": 38.05,
 		"date": "23rd Apr 2014",
@@ -1773,7 +1773,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 51,
 		"retention": 37.95,
 		"date": "24th Apr 2014",
@@ -1782,7 +1782,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 52,
 		"retention": 43.02,
 		"date": "25th Apr 2014",
@@ -1791,7 +1791,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 53,
 		"retention": 45.98,
 		"date": "26th Apr 2014",
@@ -1800,7 +1800,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 54,
 		"retention": 44.68,
 		"date": "27th Apr 2014",
@@ -1809,7 +1809,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 55,
 		"retention": 35.48,
 		"date": "28th Apr 2014",
@@ -1818,7 +1818,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 56,
 		"retention": 34.89,
 		"date": "29th Apr 2014",
@@ -1827,7 +1827,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 57,
 		"retention": 38,
 		"date": "30th Apr 2014",
@@ -1836,7 +1836,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 58,
 		"retention": 48.44,
 		"date": "1st May 2014",
@@ -1845,7 +1845,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 59,
 		"retention": 42.27,
 		"date": "2nd May 2014",
@@ -1854,7 +1854,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 60,
 		"retention": 43.53,
 		"date": "3rd May 2014",
@@ -1863,7 +1863,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 61,
 		"retention": 42.46,
 		"date": "4th May 2014",
@@ -1872,7 +1872,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 62,
 		"retention": 34.03,
 		"date": "5th May 2014",
@@ -1881,7 +1881,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 63,
 		"retention": 34.06,
 		"date": "6th May 2014",
@@ -1890,7 +1890,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 64,
 		"retention": 33.9,
 		"date": "7th May 2014",
@@ -1899,7 +1899,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 65,
 		"retention": 33.96,
 		"date": "8th May 2014",
@@ -1908,7 +1908,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 66,
 		"retention": 47.97,
 		"date": "9th May 2014",
@@ -1917,7 +1917,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 67,
 		"retention": 48.95,
 		"date": "10th May 2014",
@@ -1926,7 +1926,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 68,
 		"retention": 43.85,
 		"date": "11th May 2014",
@@ -1935,7 +1935,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 69,
 		"retention": 36.97,
 		"date": "12th May 2014",
@@ -1944,7 +1944,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 70,
 		"retention": 36.25,
 		"date": "13th May 2014",
@@ -1953,7 +1953,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 71,
 		"retention": 34.86,
 		"date": "14th May 2014",
@@ -1962,7 +1962,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 72,
 		"retention": 34.66,
 		"date": "15th May 2014",
@@ -1971,7 +1971,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 73,
 		"retention": 38.78,
 		"date": "16th May 2014",
@@ -1980,7 +1980,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 74,
 		"retention": 41.24,
 		"date": "17th May 2014",
@@ -1989,7 +1989,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 75,
 		"retention": 39.83,
 		"date": "18th May 2014",
@@ -1998,7 +1998,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 76,
 		"retention": 34.49,
 		"date": "19th May 2014",
@@ -2007,7 +2007,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 77,
 		"retention": 31.88,
 		"date": "20th May 2014",
@@ -2016,7 +2016,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 78,
 		"retention": 31.41,
 		"date": "21st May 2014",
@@ -2025,7 +2025,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 79,
 		"retention": 31.31,
 		"date": "22nd May 2014",
@@ -2034,7 +2034,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 80,
 		"retention": 34.37,
 		"date": "23rd May 2014",
@@ -2043,7 +2043,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 81,
 		"retention": 36.18,
 		"date": "24th May 2014",
@@ -2052,7 +2052,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 82,
 		"retention": 35.89,
 		"date": "25th May 2014",
@@ -2061,7 +2061,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 83,
 		"retention": 34.93,
 		"date": "26th May 2014",
@@ -2070,7 +2070,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 84,
 		"retention": 29.84,
 		"date": "27th May 2014",
@@ -2079,7 +2079,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 85,
 		"retention": 31.39,
 		"date": "28th May 2014",
@@ -2088,7 +2088,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 86,
 		"retention": 31.29,
 		"date": "29th May 2014",
@@ -2097,7 +2097,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 87,
 		"retention": 34.43,
 		"date": "30th May 2014",
@@ -2106,7 +2106,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 88,
 		"retention": 36.88,
 		"date": "31st May 2014",
@@ -2115,7 +2115,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 89,
 		"retention": 37.68,
 		"date": "1st Jun 2014",
@@ -2124,7 +2124,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 90,
 		"retention": 30.32,
 		"date": "2nd Jun 2014",
@@ -2133,7 +2133,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 91,
 		"retention": 29.95,
 		"date": "3rd Jun 2014",
@@ -2142,7 +2142,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 92,
 		"retention": 29.84,
 		"date": "4th Jun 2014",
@@ -2151,7 +2151,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 93,
 		"retention": 29.34,
 		"date": "5th Jun 2014",
@@ -2160,7 +2160,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 94,
 		"retention": 33.2,
 		"date": "6th Jun 2014",
@@ -2169,7 +2169,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 95,
 		"retention": 37.77,
 		"date": "7th Jun 2014",
@@ -2178,7 +2178,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 96,
 		"retention": 37.07,
 		"date": "8th Jun 2014",
@@ -2187,7 +2187,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 97,
 		"retention": 28.95,
 		"date": "9th Jun 2014",
@@ -2196,7 +2196,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 98,
 		"retention": 29.27,
 		"date": "10th Jun 2014",
@@ -2205,7 +2205,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 99,
 		"retention": 30.38,
 		"date": "11th Jun 2014",
@@ -2214,7 +2214,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 100,
 		"retention": 28.37,
 		"date": "12th Jun 2014",
@@ -2223,7 +2223,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 101,
 		"retention": 33.94,
 		"date": "13th Jun 2014",
@@ -2232,7 +2232,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 102,
 		"retention": 37.28,
 		"date": "14th Jun 2014",
@@ -2241,7 +2241,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 103,
 		"retention": 36.89,
 		"date": "15th Jun 2014",
@@ -2250,7 +2250,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 104,
 		"retention": 30.51,
 		"date": "16th Jun 2014",
@@ -2259,7 +2259,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 105,
 		"retention": 29.91,
 		"date": "17th Jun 2014",
@@ -2268,7 +2268,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 106,
 		"retention": 30.36,
 		"date": "18th Jun 2014",
@@ -2277,7 +2277,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 107,
 		"retention": 29.6,
 		"date": "19th Jun 2014",
@@ -2286,7 +2286,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 108,
 		"retention": 30.88,
 		"date": "20th Jun 2014",
@@ -2295,7 +2295,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 109,
 		"retention": 34.24,
 		"date": "21st Jun 2014",
@@ -2304,7 +2304,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 110,
 		"retention": 32.97,
 		"date": "22nd Jun 2014",
@@ -2313,7 +2313,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 111,
 		"retention": 29.97,
 		"date": "23rd Jun 2014",
@@ -2322,7 +2322,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 112,
 		"retention": 28.57,
 		"date": "24th Jun 2014",
@@ -2331,7 +2331,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 113,
 		"retention": 27.4,
 		"date": "25th Jun 2014",
@@ -2340,7 +2340,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 114,
 		"retention": 26.5,
 		"date": "26th Jun 2014",
@@ -2349,7 +2349,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 115,
 		"retention": 29.16,
 		"date": "27th Jun 2014",
@@ -2358,7 +2358,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 116,
 		"retention": 31.41,
 		"date": "28th Jun 2014",
@@ -2367,7 +2367,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 117,
 		"retention": 30.39,
 		"date": "29th Jun 2014",
@@ -2376,7 +2376,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 118,
 		"retention": 26.49,
 		"date": "30th Jun 2014",
@@ -2385,7 +2385,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 119,
 		"retention": 38.85,
 		"date": "1st Jul 2014",
@@ -2394,7 +2394,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 120,
 		"retention": 26.88,
 		"date": "2nd Jul 2014",
@@ -2403,7 +2403,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 121,
 		"retention": 28.71,
 		"date": "3rd Jul 2014",
@@ -2412,7 +2412,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 122,
 		"retention": 30.68,
 		"date": "4th Jul 2014",
@@ -2421,7 +2421,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Ambush/Invasion",
+		"league": "Amb/Inv",
 		"day": 123,
 		"retention": 33.5,
 		"date": "5th Jul 2014",
@@ -2430,277 +2430,412 @@
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 2,
+		"retention": 32.96,
 		"date": "6th Jul 2014",
 		"players": 5872,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 3,
+		"retention": 28.62,
 		"date": "7th Jul 2014",
 		"players": 5098,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 4,
+		"retention": 28.34,
 		"date": "8th Jul 2014",
 		"players": 5048,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 5,
+		"retention": 26.71,
 		"date": "9th Jul 2014",
 		"players": 4758,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 6,
+		"retention": 26.61,
 		"date": "10th Jul 2014",
 		"players": 4741,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 7,
+		"retention": 37.81,
 		"date": "11th Jul 2014",
 		"players": 6736,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 8,
+		"retention": 39.38,
 		"date": "12th Jul 2014",
 		"players": 7015,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 9,
+		"retention": 37.43,
 		"date": "13th Jul 2014",
 		"players": 6668,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 10,
+		"retention": 36.67,
 		"date": "14th Jul 2014",
 		"players": 6533,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 11,
+		"retention": 36.91,
 		"date": "15th Jul 2014",
 		"players": 6576,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 12,
+		"retention": 36.6,
 		"date": "16th Jul 2014",
 		"players": 6521,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 13,
+		"retention": 33.97,
 		"date": "17th Jul 2014",
 		"players": 6051,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 14,
+		"retention": 35.67,
 		"date": "18th Jul 2014",
 		"players": 6354,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 15,
+		"retention": 37.77,
 		"date": "19th Jul 2014",
 		"players": 6729,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 16,
+		"retention": 37.1,
 		"date": "20th Jul 2014",
 		"players": 6609,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 17,
+		"retention": 32.94,
 		"date": "21st Jul 2014",
 		"players": 5868,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 18,
+		"retention": 31.71,
 		"date": "22nd Jul 2014",
 		"players": 5650,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 19,
+		"retention": 31.07,
 		"date": "23rd Jul 2014",
 		"players": 5536,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 20,
+		"retention": 31.28,
 		"date": "24th Jul 2014",
 		"players": 5572,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 21,
+		"retention": 32.52,
 		"date": "25th Jul 2014",
 		"players": 5793,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 22,
+		"retention": 37,
 		"date": "26th Jul 2014",
 		"players": 6592,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 23,
+		"retention": 36.51,
 		"date": "27th Jul 2014",
 		"players": 6505,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 24,
+		"retention": 31.28,
 		"date": "28th Jul 2014",
 		"players": 5573,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 25,
+		"retention": 30.8,
 		"date": "29th Jul 2014",
 		"players": 5487,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 26,
+		"retention": 29.72,
 		"date": "30th Jul 2014",
 		"players": 5294,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 27,
+		"retention": 29.19,
 		"date": "31st Jul 2014",
 		"players": 5200,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 28,
+		"retention": 137.49,
 		"date": "1st Aug 2014",
 		"players": 24493,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 29,
+		"retention": 35.48,
 		"date": "2nd Aug 2014",
 		"players": 6320,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 30,
+		"retention": 35.62,
 		"date": "3rd Aug 2014",
 		"players": 6346,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 31,
+		"retention": 32.32,
 		"date": "4th Aug 2014",
 		"players": 5757,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 32,
+		"retention": 30.9,
 		"date": "5th Aug 2014",
 		"players": 5505,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 33,
+		"retention": 30.45,
 		"date": "6th Aug 2014",
 		"players": 5425,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 34,
+		"retention": 29.94,
 		"date": "7th Aug 2014",
 		"players": 5334,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 35,
+		"retention": 34.52,
 		"date": "8th Aug 2014",
 		"players": 6149,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 36,
+		"retention": 37.78,
 		"date": "9th Aug 2014",
 		"players": 6730,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 37,
+		"retention": 37.84,
 		"date": "10th Aug 2014",
 		"players": 6742,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 38,
+		"retention": 32.12,
 		"date": "11th Aug 2014",
 		"players": 5723,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 39,
+		"retention": 32.2,
 		"date": "12th Aug 2014",
 		"players": 5737,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 40,
+		"retention": 32.2,
 		"date": "13th Aug 2014",
 		"players": 5736,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 41,
+		"retention": 29.27,
 		"date": "14th Aug 2014",
 		"players": 5214,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 42,
+		"retention": 33.56,
 		"date": "15th Aug 2014",
 		"players": 5979,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 43,
+		"retention": 35.82,
 		"date": "16th Aug 2014",
 		"players": 6382,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 44,
+		"retention": 35.56,
 		"date": "17th Aug 2014",
 		"players": 6335,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 45,
+		"retention": 31.19,
 		"date": "18th Aug 2014",
 		"players": 5557,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 46,
+		"retention": 29.92,
 		"date": "19th Aug 2014",
 		"players": 5331,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 1,
 		"retention": 100,
 		"date": "20th Aug 2014",
@@ -2709,7 +2844,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 2,
 		"retention": 99.34,
 		"date": "21st Aug 2014",
@@ -2718,7 +2853,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 3,
 		"retention": 113.2,
 		"date": "22nd Aug 2014",
@@ -2727,7 +2862,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 4,
 		"retention": 125.81,
 		"date": "23rd Aug 2014",
@@ -2736,7 +2871,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 5,
 		"retention": 124.38,
 		"date": "24th Aug 2014",
@@ -2745,7 +2880,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 6,
 		"retention": 105.73,
 		"date": "25th Aug 2014",
@@ -2754,7 +2889,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 7,
 		"retention": 101.69,
 		"date": "26th Aug 2014",
@@ -2763,7 +2898,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 8,
 		"retention": 95.88,
 		"date": "27th Aug 2014",
@@ -2772,7 +2907,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 9,
 		"retention": 90.9,
 		"date": "28th Aug 2014",
@@ -2781,7 +2916,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 10,
 		"retention": 96.44,
 		"date": "29th Aug 2014",
@@ -2790,7 +2925,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 11,
 		"retention": 100.9,
 		"date": "30th Aug 2014",
@@ -2799,7 +2934,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 12,
 		"retention": 99.15,
 		"date": "31st Aug 2014",
@@ -2808,7 +2943,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 13,
 		"retention": 98.53,
 		"date": "1st Sep 2014",
@@ -2817,7 +2952,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 14,
 		"retention": 77.67,
 		"date": "2nd Sep 2014",
@@ -2826,7 +2961,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 15,
 		"retention": 76.17,
 		"date": "3rd Sep 2014",
@@ -2835,7 +2970,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 16,
 		"retention": 72.52,
 		"date": "4th Sep 2014",
@@ -2844,7 +2979,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 17,
 		"retention": 83.61,
 		"date": "5th Sep 2014",
@@ -2853,7 +2988,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 18,
 		"retention": 86.72,
 		"date": "6th Sep 2014",
@@ -2862,7 +2997,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 19,
 		"retention": 84.94,
 		"date": "7th Sep 2014",
@@ -2871,7 +3006,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 20,
 		"retention": 68.81,
 		"date": "8th Sep 2014",
@@ -2880,7 +3015,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 21,
 		"retention": 67.47,
 		"date": "9th Sep 2014",
@@ -2889,7 +3024,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 22,
 		"retention": 64,
 		"date": "10th Sep 2014",
@@ -2898,7 +3033,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 23,
 		"retention": 63.4,
 		"date": "11th Sep 2014",
@@ -2907,7 +3042,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 24,
 		"retention": 73.96,
 		"date": "12th Sep 2014",
@@ -2916,7 +3051,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 25,
 		"retention": 78.09,
 		"date": "13th Sep 2014",
@@ -2925,7 +3060,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 26,
 		"retention": 75.18,
 		"date": "14th Sep 2014",
@@ -2934,7 +3069,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 27,
 		"retention": 62.11,
 		"date": "15th Sep 2014",
@@ -2943,7 +3078,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 28,
 		"retention": 57.32,
 		"date": "16th Sep 2014",
@@ -2952,7 +3087,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 29,
 		"retention": 56.02,
 		"date": "17th Sep 2014",
@@ -2961,7 +3096,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 30,
 		"retention": 55.56,
 		"date": "18th Sep 2014",
@@ -2970,7 +3105,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 31,
 		"retention": 63.29,
 		"date": "19th Sep 2014",
@@ -2979,7 +3114,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 32,
 		"retention": 65.57,
 		"date": "20th Sep 2014",
@@ -2988,7 +3123,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 33,
 		"retention": 63.13,
 		"date": "21st Sep 2014",
@@ -2997,7 +3132,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 34,
 		"retention": 54.22,
 		"date": "22nd Sep 2014",
@@ -3006,7 +3141,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 35,
 		"retention": 50.48,
 		"date": "23rd Sep 2014",
@@ -3015,7 +3150,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 36,
 		"retention": 49.66,
 		"date": "24th Sep 2014",
@@ -3024,7 +3159,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 37,
 		"retention": 49.6,
 		"date": "25th Sep 2014",
@@ -3033,7 +3168,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 38,
 		"retention": 56.43,
 		"date": "26th Sep 2014",
@@ -3042,7 +3177,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 39,
 		"retention": 60.27,
 		"date": "27th Sep 2014",
@@ -3051,7 +3186,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 40,
 		"retention": 58.46,
 		"date": "28th Sep 2014",
@@ -3060,7 +3195,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 41,
 		"retention": 47.78,
 		"date": "29th Sep 2014",
@@ -3069,7 +3204,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 42,
 		"retention": 45.58,
 		"date": "30th Sep 2014",
@@ -3078,7 +3213,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 43,
 		"retention": 55.29,
 		"date": "1st Oct 2014",
@@ -3087,7 +3222,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 44,
 		"retention": 46.18,
 		"date": "2nd Oct 2014",
@@ -3096,7 +3231,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 45,
 		"retention": 54.3,
 		"date": "3rd Oct 2014",
@@ -3105,7 +3240,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 46,
 		"retention": 55.71,
 		"date": "4th Oct 2014",
@@ -3114,7 +3249,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 47,
 		"retention": 54.45,
 		"date": "5th Oct 2014",
@@ -3123,7 +3258,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 48,
 		"retention": 44.1,
 		"date": "6th Oct 2014",
@@ -3132,7 +3267,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 49,
 		"retention": 43.32,
 		"date": "7th Oct 2014",
@@ -3141,7 +3276,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 50,
 		"retention": 42.64,
 		"date": "8th Oct 2014",
@@ -3150,7 +3285,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 51,
 		"retention": 42.27,
 		"date": "9th Oct 2014",
@@ -3159,7 +3294,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 52,
 		"retention": 48.35,
 		"date": "10th Oct 2014",
@@ -3168,7 +3303,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 53,
 		"retention": 50.99,
 		"date": "11th Oct 2014",
@@ -3177,7 +3312,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 54,
 		"retention": 49.35,
 		"date": "12th Oct 2014",
@@ -3186,7 +3321,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 55,
 		"retention": 43.57,
 		"date": "13th Oct 2014",
@@ -3195,7 +3330,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 56,
 		"retention": 38.83,
 		"date": "14th Oct 2014",
@@ -3204,7 +3339,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 57,
 		"retention": 37.76,
 		"date": "15th Oct 2014",
@@ -3213,7 +3348,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 58,
 		"retention": 37.16,
 		"date": "16th Oct 2014",
@@ -3222,7 +3357,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 59,
 		"retention": 43.11,
 		"date": "17th Oct 2014",
@@ -3231,7 +3366,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 60,
 		"retention": 43.02,
 		"date": "18th Oct 2014",
@@ -3240,7 +3375,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 61,
 		"retention": 41.85,
 		"date": "19th Oct 2014",
@@ -3249,7 +3384,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 62,
 		"retention": 35,
 		"date": "20th Oct 2014",
@@ -3258,7 +3393,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 63,
 		"retention": 34.78,
 		"date": "21st Oct 2014",
@@ -3267,7 +3402,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 64,
 		"retention": 36.15,
 		"date": "22nd Oct 2014",
@@ -3276,7 +3411,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 65,
 		"retention": 40.11,
 		"date": "23rd Oct 2014",
@@ -3285,7 +3420,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 66,
 		"retention": 44.92,
 		"date": "24th Oct 2014",
@@ -3294,7 +3429,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 67,
 		"retention": 44.94,
 		"date": "25th Oct 2014",
@@ -3303,7 +3438,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 68,
 		"retention": 44.74,
 		"date": "26th Oct 2014",
@@ -3312,7 +3447,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 69,
 		"retention": 37.86,
 		"date": "27th Oct 2014",
@@ -3321,7 +3456,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 70,
 		"retention": 37.83,
 		"date": "28th Oct 2014",
@@ -3330,7 +3465,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 71,
 		"retention": 37.34,
 		"date": "29th Oct 2014",
@@ -3339,7 +3474,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 72,
 		"retention": 36.8,
 		"date": "30th Oct 2014",
@@ -3348,7 +3483,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 73,
 		"retention": 39.86,
 		"date": "31st Oct 2014",
@@ -3357,7 +3492,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 74,
 		"retention": 42.15,
 		"date": "1st Nov 2014",
@@ -3366,7 +3501,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 75,
 		"retention": 41.89,
 		"date": "2nd Nov 2014",
@@ -3375,7 +3510,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 76,
 		"retention": 32.41,
 		"date": "3rd Nov 2014",
@@ -3384,7 +3519,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 77,
 		"retention": 32.08,
 		"date": "4th Nov 2014",
@@ -3393,7 +3528,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 78,
 		"retention": 32.18,
 		"date": "5th Nov 2014",
@@ -3402,7 +3537,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 79,
 		"retention": 31.25,
 		"date": "6th Nov 2014",
@@ -3411,7 +3546,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 80,
 		"retention": 37.9,
 		"date": "7th Nov 2014",
@@ -3420,7 +3555,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 81,
 		"retention": 38.89,
 		"date": "8th Nov 2014",
@@ -3429,7 +3564,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 82,
 		"retention": 39.08,
 		"date": "9th Nov 2014",
@@ -3438,7 +3573,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 83,
 		"retention": 32.28,
 		"date": "10th Nov 2014",
@@ -3447,7 +3582,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 84,
 		"retention": 32.36,
 		"date": "11th Nov 2014",
@@ -3456,7 +3591,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 85,
 		"retention": 28.23,
 		"date": "12th Nov 2014",
@@ -3465,7 +3600,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 86,
 		"retention": 28.58,
 		"date": "13th Nov 2014",
@@ -3474,7 +3609,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 87,
 		"retention": 34.31,
 		"date": "14th Nov 2014",
@@ -3483,7 +3618,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 88,
 		"retention": 36.44,
 		"date": "15th Nov 2014",
@@ -3492,7 +3627,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 89,
 		"retention": 35.98,
 		"date": "16th Nov 2014",
@@ -3501,7 +3636,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 90,
 		"retention": 28.87,
 		"date": "17th Nov 2014",
@@ -3510,7 +3645,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 91,
 		"retention": 27.58,
 		"date": "18th Nov 2014",
@@ -3519,7 +3654,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 92,
 		"retention": 26.59,
 		"date": "19th Nov 2014",
@@ -3528,7 +3663,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Rampage/Beyond",
+		"league": "Ram/Bey",
 		"day": 93,
 		"retention": 26.02,
 		"date": "20th Nov 2014",
@@ -3537,725 +3672,791 @@
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 140,
+		"retention": 28.52,
 		"date": "21st Nov 2014",
 		"players": 5588,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 141,
+		"retention": 32.22,
 		"date": "22nd Nov 2014",
 		"players": 6311,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 142,
+		"retention": 32.43,
 		"date": "23rd Nov 2014",
 		"players": 6354,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 143,
+		"retention": 27.11,
 		"date": "24th Nov 2014",
 		"players": 5311,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 144,
+		"retention": 26.33,
 		"date": "25th Nov 2014",
 		"players": 5158,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 145,
+		"retention": 26.24,
 		"date": "26th Nov 2014",
 		"players": 5141,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 146,
+		"retention": 26.67,
 		"date": "27th Nov 2014",
 		"players": 5225,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 147,
+		"retention": 33.36,
 		"date": "28th Nov 2014",
 		"players": 6536,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 148,
+		"retention": 35.63,
 		"date": "29th Nov 2014",
 		"players": 6979,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 149,
+		"retention": 35.49,
 		"date": "30th Nov 2014",
 		"players": 6953,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 150,
+		"retention": 69.88,
 		"date": "1st Dec 2014",
 		"players": 13689,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 151,
+		"retention": 28.66,
 		"date": "2nd Dec 2014",
 		"players": 5615,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 152,
+		"retention": 27.63,
 		"date": "3rd Dec 2014",
 		"players": 5412,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 153,
+		"retention": 25.85,
 		"date": "4th Dec 2014",
 		"players": 5064,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 154,
+		"retention": 26.98,
 		"date": "5th Dec 2014",
 		"players": 5286,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 155,
+		"retention": 31.91,
 		"date": "6th Dec 2014",
 		"players": 6252,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 156,
+		"retention": 31.61,
 		"date": "7th Dec 2014",
 		"players": 6192,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 157,
+		"retention": 26.93,
 		"date": "8th Dec 2014",
 		"players": 5276,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 158,
+		"retention": 26.2,
 		"date": "9th Dec 2014",
 		"players": 5133,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 159,
+		"retention": 25.18,
 		"date": "10th Dec 2014",
 		"players": 4933,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 160,
+		"retention": 23.89,
 		"date": "11th Dec 2014",
 		"players": 4680,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
+		"league": "Tor/Blo",
+		"day": 161,
+		"retention": 67.8,
 		"date": "12th Dec 2014",
 		"players": 13282,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 1,
-		"retention": 100,
+		"league": "Tor/Blo",
+		"day": 162,
+		"retention": 70.05,
 		"date": "13th Dec 2014",
 		"players": 13723,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 2,
-		"retention": 100.63,
+		"league": "Tor/Blo",
+		"day": 163,
+		"retention": 70.5,
 		"date": "14th Dec 2014",
 		"players": 13810,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 3,
-		"retention": 86.5,
+		"league": "Tor/Blo",
+		"day": 164,
+		"retention": 60.6,
 		"date": "15th Dec 2014",
 		"players": 11871,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 4,
-		"retention": 82.44,
+		"league": "Tor/Blo",
+		"day": 165,
+		"retention": 57.75,
 		"date": "16th Dec 2014",
 		"players": 11313,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 5,
-		"retention": 81.87,
+		"league": "Tor/Blo",
+		"day": 166,
+		"retention": 57.35,
 		"date": "17th Dec 2014",
 		"players": 11235,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 6,
-		"retention": 79.21,
+		"league": "Tor/Blo",
+		"day": 167,
+		"retention": 55.49,
 		"date": "18th Dec 2014",
 		"players": 10870,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 7,
-		"retention": 84.8,
+		"league": "Tor/Blo",
+		"day": 168,
+		"retention": 59.4,
 		"date": "19th Dec 2014",
 		"players": 11637,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 8,
-		"retention": 88.23,
+		"league": "Tor/Blo",
+		"day": 169,
+		"retention": 61.81,
 		"date": "20th Dec 2014",
 		"players": 12108,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 9,
-		"retention": 91.02,
+		"league": "Tor/Blo",
+		"day": 170,
+		"retention": 63.76,
 		"date": "21st Dec 2014",
 		"players": 12490,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 10,
-		"retention": 86.05,
+		"league": "Tor/Blo",
+		"day": 171,
+		"retention": 60.28,
 		"date": "22nd Dec 2014",
 		"players": 11809,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 11,
-		"retention": 82.53,
+		"league": "Tor/Blo",
+		"day": 172,
+		"retention": 57.82,
 		"date": "23rd Dec 2014",
 		"players": 11326,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 12,
-		"retention": 70.34,
+		"league": "Tor/Blo",
+		"day": 173,
+		"retention": 49.28,
 		"date": "24th Dec 2014",
 		"players": 9653,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 13,
-		"retention": 73.72,
+		"league": "Tor/Blo",
+		"day": 174,
+		"retention": 51.64,
 		"date": "25th Dec 2014",
 		"players": 10117,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 14,
-		"retention": 77.84,
+		"league": "Tor/Blo",
+		"day": 175,
+		"retention": 54.53,
 		"date": "26th Dec 2014",
 		"players": 10682,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 15,
-		"retention": 82.61,
+		"league": "Tor/Blo",
+		"day": 176,
+		"retention": 57.87,
 		"date": "27th Dec 2014",
 		"players": 11336,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 16,
-		"retention": 84.9,
+		"league": "Tor/Blo",
+		"day": 177,
+		"retention": 59.47,
 		"date": "28th Dec 2014",
 		"players": 11651,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 17,
-		"retention": 81.98,
+		"league": "Tor/Blo",
+		"day": 178,
+		"retention": 57.43,
 		"date": "29th Dec 2014",
 		"players": 11250,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 18,
-		"retention": 82.91,
+		"league": "Tor/Blo",
+		"day": 179,
+		"retention": 58.08,
 		"date": "30th Dec 2014",
 		"players": 11378,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 19,
-		"retention": 84.48,
+		"league": "Tor/Blo",
+		"day": 180,
+		"retention": 59.18,
 		"date": "31st Dec 2014",
 		"players": 11593,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 20,
-		"retention": 88.79,
+		"league": "Tor/Blo",
+		"day": 181,
+		"retention": 62.19,
 		"date": "1st Jan 2015",
 		"players": 12184,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 21,
-		"retention": 86.46,
+		"league": "Tor/Blo",
+		"day": 182,
+		"retention": 60.57,
 		"date": "2nd Jan 2015",
 		"players": 11865,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 22,
-		"retention": 89.35,
+		"league": "Tor/Blo",
+		"day": 183,
+		"retention": 62.59,
 		"date": "3rd Jan 2015",
 		"players": 12261,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 23,
-		"retention": 88.2,
+		"league": "Tor/Blo",
+		"day": 184,
+		"retention": 61.79,
 		"date": "4th Jan 2015",
 		"players": 12104,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 24,
-		"retention": 77.82,
+		"league": "Tor/Blo",
+		"day": 185,
+		"retention": 54.51,
 		"date": "5th Jan 2015",
 		"players": 10679,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 25,
-		"retention": 73.93,
+		"league": "Tor/Blo",
+		"day": 186,
+		"retention": 51.79,
 		"date": "6th Jan 2015",
 		"players": 10145,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 26,
-		"retention": 74.58,
+		"league": "Tor/Blo",
+		"day": 187,
+		"retention": 52.25,
 		"date": "7th Jan 2015",
 		"players": 10235,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 27,
-		"retention": 76.05,
+		"league": "Tor/Blo",
+		"day": 188,
+		"retention": 53.27,
 		"date": "8th Jan 2015",
 		"players": 10436,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 28,
-		"retention": 84.51,
+		"league": "Tor/Blo",
+		"day": 189,
+		"retention": 59.2,
 		"date": "9th Jan 2015",
 		"players": 11597,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 29,
-		"retention": 87.2,
+		"league": "Tor/Blo",
+		"day": 190,
+		"retention": 61.09,
 		"date": "10th Jan 2015",
 		"players": 11967,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 30,
-		"retention": 88.25,
+		"league": "Tor/Blo",
+		"day": 191,
+		"retention": 61.82,
 		"date": "11th Jan 2015",
 		"players": 12111,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 31,
-		"retention": 73.61,
+		"league": "Tor/Blo",
+		"day": 192,
+		"retention": 51.57,
 		"date": "12th Jan 2015",
 		"players": 10102,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 32,
-		"retention": 71.78,
+		"league": "Tor/Blo",
+		"day": 193,
+		"retention": 50.28,
 		"date": "13th Jan 2015",
 		"players": 9850,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 33,
-		"retention": 66.26,
+		"league": "Tor/Blo",
+		"day": 194,
+		"retention": 46.42,
 		"date": "14th Jan 2015",
 		"players": 9093,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 34,
-		"retention": 65.68,
+		"league": "Tor/Blo",
+		"day": 195,
+		"retention": 46.01,
 		"date": "15th Jan 2015",
 		"players": 9013,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 35,
-		"retention": 75.01,
+		"league": "Tor/Blo",
+		"day": 196,
+		"retention": 52.54,
 		"date": "16th Jan 2015",
 		"players": 10293,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 36,
-		"retention": 79.03,
+		"league": "Tor/Blo",
+		"day": 197,
+		"retention": 55.36,
 		"date": "17th Jan 2015",
 		"players": 10845,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 37,
-		"retention": 78.62,
+		"league": "Tor/Blo",
+		"day": 198,
+		"retention": 55.07,
 		"date": "18th Jan 2015",
 		"players": 10789,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 38,
-		"retention": 70.39,
+		"league": "Tor/Blo",
+		"day": 199,
+		"retention": 49.31,
 		"date": "19th Jan 2015",
 		"players": 9660,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 39,
-		"retention": 66.92,
+		"league": "Tor/Blo",
+		"day": 200,
+		"retention": 46.88,
 		"date": "20th Jan 2015",
 		"players": 9183,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 40,
-		"retention": 63.62,
+		"league": "Tor/Blo",
+		"day": 201,
+		"retention": 44.57,
 		"date": "21st Jan 2015",
 		"players": 8731,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 41,
-		"retention": 62.93,
+		"league": "Tor/Blo",
+		"day": 202,
+		"retention": 44.08,
 		"date": "22nd Jan 2015",
 		"players": 8636,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 42,
-		"retention": 72.86,
+		"league": "Tor/Blo",
+		"day": 203,
+		"retention": 51.04,
 		"date": "23rd Jan 2015",
 		"players": 9999,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 43,
-		"retention": 75.48,
+		"league": "Tor/Blo",
+		"day": 204,
+		"retention": 52.87,
 		"date": "24th Jan 2015",
 		"players": 10358,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 44,
-		"retention": 76.07,
+		"league": "Tor/Blo",
+		"day": 205,
+		"retention": 53.29,
 		"date": "25th Jan 2015",
 		"players": 10439,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 45,
-		"retention": 64.59,
+		"league": "Tor/Blo",
+		"day": 206,
+		"retention": 45.24,
 		"date": "26th Jan 2015",
 		"players": 8863,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 46,
-		"retention": 58.87,
+		"league": "Tor/Blo",
+		"day": 207,
+		"retention": 41.24,
 		"date": "27th Jan 2015",
 		"players": 8079,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 47,
-		"retention": 60.02,
+		"league": "Tor/Blo",
+		"day": 208,
+		"retention": 42.05,
 		"date": "28th Jan 2015",
 		"players": 8237,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 48,
-		"retention": 58.22,
+		"league": "Tor/Blo",
+		"day": 209,
+		"retention": 40.79,
 		"date": "29th Jan 2015",
 		"players": 7990,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 49,
-		"retention": 68.62,
+		"league": "Tor/Blo",
+		"day": 210,
+		"retention": 48.07,
 		"date": "30th Jan 2015",
 		"players": 9417,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 50,
-		"retention": 73.22,
+		"league": "Tor/Blo",
+		"day": 211,
+		"retention": 51.29,
 		"date": "31st Jan 2015",
 		"players": 10048,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 51,
-		"retention": 72.74,
+		"league": "Tor/Blo",
+		"day": 212,
+		"retention": 50.95,
 		"date": "1st Feb 2015",
 		"players": 9982,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 52,
-		"retention": 60.96,
+		"league": "Tor/Blo",
+		"day": 213,
+		"retention": 42.71,
 		"date": "2nd Feb 2015",
 		"players": 8366,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 53,
-		"retention": 57.92,
+		"league": "Tor/Blo",
+		"day": 214,
+		"retention": 40.57,
 		"date": "3rd Feb 2015",
 		"players": 7948,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 54,
-		"retention": 54.52,
+		"league": "Tor/Blo",
+		"day": 215,
+		"retention": 38.19,
 		"date": "4th Feb 2015",
 		"players": 7482,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 55,
-		"retention": 54.52,
+		"league": "Tor/Blo",
+		"day": 216,
+		"retention": 38.19,
 		"date": "5th Feb 2015",
 		"players": 7482,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 56,
-		"retention": 51.3,
+		"league": "Tor/Blo",
+		"day": 217,
+		"retention": 35.94,
 		"date": "6th Feb 2015",
 		"players": 7040,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 57,
-		"retention": 51.3,
+		"league": "Tor/Blo",
+		"day": 218,
+		"retention": 35.94,
 		"date": "7th Feb 2015",
 		"players": 7040,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 58,
-		"retention": 51.3,
+		"league": "Tor/Blo",
+		"day": 219,
+		"retention": 35.94,
 		"date": "8th Feb 2015",
 		"players": 7040,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 59,
-		"retention": 51.3,
+		"league": "Tor/Blo",
+		"day": 220,
+		"retention": 35.94,
 		"date": "9th Feb 2015",
 		"players": 7040,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 60,
-		"retention": 48.08,
+		"league": "Tor/Blo",
+		"day": 221,
+		"retention": 33.68,
 		"date": "10th Feb 2015",
 		"players": 6598,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 61,
-		"retention": 25.78,
+		"league": "Tor/Blo",
+		"day": 222,
+		"retention": 18.06,
 		"date": "11th Feb 2015",
 		"players": 3538,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 62,
-		"retention": 25.78,
+		"league": "Tor/Blo",
+		"day": 223,
+		"retention": 18.06,
 		"date": "12th Feb 2015",
 		"players": 3538,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 63,
-		"retention": 56.21,
+		"league": "Tor/Blo",
+		"day": 224,
+		"retention": 39.38,
 		"date": "13th Feb 2015",
 		"players": 7714,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 64,
-		"retention": 61.85,
+		"league": "Tor/Blo",
+		"day": 225,
+		"retention": 43.33,
 		"date": "14th Feb 2015",
 		"players": 8488,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 65,
-		"retention": 61.86,
+		"league": "Tor/Blo",
+		"day": 226,
+		"retention": 43.33,
 		"date": "15th Feb 2015",
 		"players": 8489,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 66,
+		"league": "Tor/Blo",
+		"day": 227,
 		"retention": 0,
 		"date": "16th Feb 2015",
 		"players": "",
@@ -4263,80 +4464,80 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 67,
-		"retention": 49.99,
+		"league": "Tor/Blo",
+		"day": 228,
+		"retention": 35.02,
 		"date": "17th Feb 2015",
 		"players": 6860,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 68,
-		"retention": 50.35,
+		"league": "Tor/Blo",
+		"day": 229,
+		"retention": 35.27,
 		"date": "18th Feb 2015",
 		"players": 6910,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 69,
-		"retention": 49.14,
+		"league": "Tor/Blo",
+		"day": 230,
+		"retention": 34.42,
 		"date": "19th Feb 2015",
 		"players": 6743,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 70,
-		"retention": 58.39,
+		"league": "Tor/Blo",
+		"day": 231,
+		"retention": 40.9,
 		"date": "20th Feb 2015",
 		"players": 8013,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 71,
-		"retention": 61.58,
+		"league": "Tor/Blo",
+		"day": 232,
+		"retention": 43.13,
 		"date": "21st Feb 2015",
 		"players": 8450,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 72,
-		"retention": 61.01,
+		"league": "Tor/Blo",
+		"day": 233,
+		"retention": 42.74,
 		"date": "22nd Feb 2015",
 		"players": 8373,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 73,
-		"retention": 50.3,
+		"league": "Tor/Blo",
+		"day": 234,
+		"retention": 35.23,
 		"date": "23rd Feb 2015",
 		"players": 6902,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 74,
-		"retention": 49.29,
+		"league": "Tor/Blo",
+		"day": 235,
+		"retention": 34.53,
 		"date": "24th Feb 2015",
 		"players": 6764,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 75,
+		"league": "Tor/Blo",
+		"day": 236,
 		"retention": 0,
 		"date": "25th Feb 2015",
 		"players": "",
@@ -4344,8 +4545,8 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 76,
+		"league": "Tor/Blo",
+		"day": 237,
 		"retention": 0,
 		"date": "26th Feb 2015",
 		"players": "",
@@ -4353,8 +4554,8 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 77,
+		"league": "Tor/Blo",
+		"day": 238,
 		"retention": 0,
 		"date": "27th Feb 2015",
 		"players": "",
@@ -4362,8 +4563,8 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 78,
+		"league": "Tor/Blo",
+		"day": 239,
 		"retention": 0,
 		"date": "28th Feb 2015",
 		"players": "",
@@ -4371,17 +4572,17 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 79,
-		"retention": 71.83,
+		"league": "Tor/Blo",
+		"day": 240,
+		"retention": 50.32,
 		"date": "1st Mar 2015",
 		"players": 9857,
 		"averagePlayers": "",
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 80,
+		"league": "Tor/Blo",
+		"day": 241,
 		"retention": 0,
 		"date": "2nd Mar 2015",
 		"players": "",
@@ -4389,8 +4590,8 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 81,
+		"league": "Tor/Blo",
+		"day": 242,
 		"retention": 0,
 		"date": "3rd Mar 2015",
 		"players": "",
@@ -4398,8 +4599,8 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 82,
+		"league": "Tor/Blo",
+		"day": 243,
 		"retention": 0,
 		"date": "4th Mar 2015",
 		"players": "",
@@ -4407,8 +4608,8 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 83,
+		"league": "Tor/Blo",
+		"day": 244,
 		"retention": 0,
 		"date": "5th Mar 2015",
 		"players": "",
@@ -4416,8 +4617,8 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 84,
+		"league": "Tor/Blo",
+		"day": 245,
 		"retention": 0,
 		"date": "6th Mar 2015",
 		"players": "",
@@ -4425,8 +4626,8 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 85,
+		"league": "Tor/Blo",
+		"day": 246,
 		"retention": 0,
 		"date": "7th Mar 2015",
 		"players": "",
@@ -4434,8 +4635,8 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 86,
+		"league": "Tor/Blo",
+		"day": 247,
 		"retention": 0,
 		"date": "8th Mar 2015",
 		"players": "",
@@ -4443,8 +4644,8 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 87,
+		"league": "Tor/Blo",
+		"day": 248,
 		"retention": 0,
 		"date": "9th Mar 2015",
 		"players": "",
@@ -4452,8 +4653,8 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 88,
+		"league": "Tor/Blo",
+		"day": 249,
 		"retention": 0,
 		"date": "10th Mar 2015",
 		"players": "",
@@ -4461,8 +4662,8 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 89,
+		"league": "Tor/Blo",
+		"day": 250,
 		"retention": 0,
 		"date": "11th Mar 2015",
 		"players": "",
@@ -4470,8 +4671,8 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 90,
+		"league": "Tor/Blo",
+		"day": 251,
 		"retention": 0,
 		"date": "12th Mar 2015",
 		"players": "",
@@ -4479,8 +4680,8 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 91,
+		"league": "Tor/Blo",
+		"day": 252,
 		"retention": 0,
 		"date": "13th Mar 2015",
 		"players": "",
@@ -4488,8 +4689,8 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 92,
+		"league": "Tor/Blo",
+		"day": 253,
 		"retention": 0,
 		"date": "14th Mar 2015",
 		"players": "",
@@ -4497,8 +4698,8 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 93,
+		"league": "Tor/Blo",
+		"day": 254,
 		"retention": 0,
 		"date": "15th Mar 2015",
 		"players": "",
@@ -4506,8 +4707,8 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 94,
+		"league": "Tor/Blo",
+		"day": 255,
 		"retention": 0,
 		"date": "16th Mar 2015",
 		"players": "",
@@ -4515,8 +4716,8 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 95,
+		"league": "Tor/Blo",
+		"day": 256,
 		"retention": 0,
 		"date": "17th Mar 2015",
 		"players": "",
@@ -4524,8 +4725,8 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 96,
+		"league": "Tor/Blo",
+		"day": 257,
 		"retention": 0,
 		"date": "18th Mar 2015",
 		"players": "",
@@ -4533,8 +4734,8 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 97,
+		"league": "Tor/Blo",
+		"day": 258,
 		"retention": 0,
 		"date": "19th Mar 2015",
 		"players": "",
@@ -4542,8 +4743,8 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 98,
+		"league": "Tor/Blo",
+		"day": 259,
 		"retention": 0,
 		"date": "20th Mar 2015",
 		"players": "",
@@ -4551,8 +4752,8 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 99,
+		"league": "Tor/Blo",
+		"day": 260,
 		"retention": 0,
 		"date": "21st Mar 2015",
 		"players": "",
@@ -4560,8 +4761,8 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 100,
+		"league": "Tor/Blo",
+		"day": 261,
 		"retention": 0,
 		"date": "22nd Mar 2015",
 		"players": "",
@@ -4569,8 +4770,8 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 101,
+		"league": "Tor/Blo",
+		"day": 262,
 		"retention": 0,
 		"date": "23rd Mar 2015",
 		"players": "",
@@ -4578,8 +4779,8 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Torment/Bloodlines",
-		"day": 102,
+		"league": "Tor/Blo",
+		"day": 263,
 		"retention": 0,
 		"date": "24th Mar 2015",
 		"players": "",
@@ -5229,7 +5430,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 1,
 		"retention": 100,
 		"date": "10th Jul 2015",
@@ -5238,7 +5439,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 2,
 		"retention": 103.18,
 		"date": "11th Jul 2015",
@@ -5247,7 +5448,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 3,
 		"retention": 115.25,
 		"date": "12th Jul 2015",
@@ -5256,7 +5457,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 4,
 		"retention": 105.78,
 		"date": "13th Jul 2015",
@@ -5265,7 +5466,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 5,
 		"retention": 101.94,
 		"date": "14th Jul 2015",
@@ -5274,7 +5475,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 6,
 		"retention": 96.65,
 		"date": "15th Jul 2015",
@@ -5283,7 +5484,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 7,
 		"retention": 92.87,
 		"date": "16th Jul 2015",
@@ -5292,7 +5493,7 @@
 		"twitchViewers": ""
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 8,
 		"retention": 91.02,
 		"date": "17th Jul 2015",
@@ -5301,7 +5502,7 @@
 		"twitchViewers": 5917
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 9,
 		"retention": 96.75,
 		"date": "18th Jul 2015",
@@ -5310,7 +5511,7 @@
 		"twitchViewers": 11931
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 10,
 		"retention": 102.99,
 		"date": "19th Jul 2015",
@@ -5319,7 +5520,7 @@
 		"twitchViewers": 6682
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 11,
 		"retention": 94.37,
 		"date": "20th Jul 2015",
@@ -5328,7 +5529,7 @@
 		"twitchViewers": 7085
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 12,
 		"retention": 88.05,
 		"date": "21st Jul 2015",
@@ -5337,7 +5538,7 @@
 		"twitchViewers": 6895
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 13,
 		"retention": 83.63,
 		"date": "22nd Jul 2015",
@@ -5346,7 +5547,7 @@
 		"twitchViewers": 6181
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 14,
 		"retention": 84.72,
 		"date": "23rd Jul 2015",
@@ -5355,7 +5556,7 @@
 		"twitchViewers": 9542
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 15,
 		"retention": 80.67,
 		"date": "24th Jul 2015",
@@ -5364,7 +5565,7 @@
 		"twitchViewers": 6792
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 16,
 		"retention": 88.14,
 		"date": "25th Jul 2015",
@@ -5373,7 +5574,7 @@
 		"twitchViewers": 6162
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 17,
 		"retention": 95.06,
 		"date": "26th Jul 2015",
@@ -5382,7 +5583,7 @@
 		"twitchViewers": 8128
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 18,
 		"retention": 85.28,
 		"date": "27th Jul 2015",
@@ -5391,7 +5592,7 @@
 		"twitchViewers": 6686
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 19,
 		"retention": 78.93,
 		"date": "28th Jul 2015",
@@ -5400,7 +5601,7 @@
 		"twitchViewers": 5801
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 20,
 		"retention": 73.41,
 		"date": "29th Jul 2015",
@@ -5409,7 +5610,7 @@
 		"twitchViewers": 5134
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 21,
 		"retention": 73.41,
 		"date": "30th Jul 2015",
@@ -5418,7 +5619,7 @@
 		"twitchViewers": 5920
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 22,
 		"retention": 70.96,
 		"date": "31st Jul 2015",
@@ -5427,7 +5628,7 @@
 		"twitchViewers": 5173
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 23,
 		"retention": 75.67,
 		"date": "1st Aug 2015",
@@ -5436,7 +5637,7 @@
 		"twitchViewers": 4920
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 24,
 		"retention": 82.86,
 		"date": "2nd Aug 2015",
@@ -5445,7 +5646,7 @@
 		"twitchViewers": 6256
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 25,
 		"retention": 74.11,
 		"date": "3rd Aug 2015",
@@ -5454,7 +5655,7 @@
 		"twitchViewers": 4330
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 26,
 		"retention": 70.01,
 		"date": "4th Aug 2015",
@@ -5463,7 +5664,7 @@
 		"twitchViewers": 6436
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 27,
 		"retention": 64.84,
 		"date": "5th Aug 2015",
@@ -5472,7 +5673,7 @@
 		"twitchViewers": 4934
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 28,
 		"retention": 62.84,
 		"date": "6th Aug 2015",
@@ -5481,7 +5682,7 @@
 		"twitchViewers": 5185
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 29,
 		"retention": 60.17,
 		"date": "7th Aug 2015",
@@ -5490,7 +5691,7 @@
 		"twitchViewers": 4161
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 30,
 		"retention": 65.23,
 		"date": "8th Aug 2015",
@@ -5499,7 +5700,7 @@
 		"twitchViewers": 7364
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 31,
 		"retention": 70.61,
 		"date": "9th Aug 2015",
@@ -5508,7 +5709,7 @@
 		"twitchViewers": 4916
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 32,
 		"retention": 64.06,
 		"date": "10th Aug 2015",
@@ -5517,7 +5718,7 @@
 		"twitchViewers": 5115
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 33,
 		"retention": 59.57,
 		"date": "11th Aug 2015",
@@ -5526,7 +5727,7 @@
 		"twitchViewers": 4779
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 34,
 		"retention": 57.38,
 		"date": "12th Aug 2015",
@@ -5535,7 +5736,7 @@
 		"twitchViewers": 4473
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 35,
 		"retention": 55.64,
 		"date": "13th Aug 2015",
@@ -5544,7 +5745,7 @@
 		"twitchViewers": 5075
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 36,
 		"retention": 53.22,
 		"date": "14th Aug 2015",
@@ -5553,7 +5754,7 @@
 		"twitchViewers": 3831
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 37,
 		"retention": 58.99,
 		"date": "15th Aug 2015",
@@ -5562,7 +5763,7 @@
 		"twitchViewers": 4514
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 38,
 		"retention": 62.66,
 		"date": "16th Aug 2015",
@@ -5571,7 +5772,7 @@
 		"twitchViewers": 3293
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 39,
 		"retention": 54.91,
 		"date": "17th Aug 2015",
@@ -5580,7 +5781,7 @@
 		"twitchViewers": 4038
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 40,
 		"retention": 52.42,
 		"date": "18th Aug 2015",
@@ -5589,7 +5790,7 @@
 		"twitchViewers": 4308
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 41,
 		"retention": 50.02,
 		"date": "19th Aug 2015",
@@ -5598,7 +5799,7 @@
 		"twitchViewers": 3949
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 42,
 		"retention": 47.68,
 		"date": "20th Aug 2015",
@@ -5607,7 +5808,7 @@
 		"twitchViewers": 3711
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 43,
 		"retention": 46.94,
 		"date": "21st Aug 2015",
@@ -5616,7 +5817,7 @@
 		"twitchViewers": 3737
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 44,
 		"retention": 52.01,
 		"date": "22nd Aug 2015",
@@ -5625,7 +5826,7 @@
 		"twitchViewers": 3142
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 45,
 		"retention": 54.57,
 		"date": "23rd Aug 2015",
@@ -5634,7 +5835,7 @@
 		"twitchViewers": 3790
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 46,
 		"retention": 49.03,
 		"date": "24th Aug 2015",
@@ -5643,7 +5844,7 @@
 		"twitchViewers": 2673
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 47,
 		"retention": 43.77,
 		"date": "25th Aug 2015",
@@ -5652,7 +5853,7 @@
 		"twitchViewers": 2685
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 48,
 		"retention": 40.49,
 		"date": "26th Aug 2015",
@@ -5661,7 +5862,7 @@
 		"twitchViewers": 2335
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 49,
 		"retention": 39.61,
 		"date": "27th Aug 2015",
@@ -5670,7 +5871,7 @@
 		"twitchViewers": 3034
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 50,
 		"retention": 36.58,
 		"date": "28th Aug 2015",
@@ -5679,7 +5880,7 @@
 		"twitchViewers": 2685
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 51,
 		"retention": 38.8,
 		"date": "29th Aug 2015",
@@ -5688,7 +5889,7 @@
 		"twitchViewers": 1392
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 52,
 		"retention": 40.36,
 		"date": "30th Aug 2015",
@@ -5697,7 +5898,7 @@
 		"twitchViewers": 1481
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 53,
 		"retention": 36.01,
 		"date": "31st Aug 2015",
@@ -5706,7 +5907,7 @@
 		"twitchViewers": 1504
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 54,
 		"retention": 31.09,
 		"date": "1st Sep 2015",
@@ -5715,7 +5916,7 @@
 		"twitchViewers": 1614
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 55,
 		"retention": 30.18,
 		"date": "2nd Sep 2015",
@@ -5724,7 +5925,7 @@
 		"twitchViewers": 1889
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 56,
 		"retention": 31.68,
 		"date": "3rd Sep 2015",
@@ -5733,7 +5934,7 @@
 		"twitchViewers": 2239
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 57,
 		"retention": 32.11,
 		"date": "4th Sep 2015",
@@ -5742,7 +5943,7 @@
 		"twitchViewers": 2068
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 58,
 		"retention": 35.43,
 		"date": "5th Sep 2015",
@@ -5751,7 +5952,7 @@
 		"twitchViewers": 1647
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 59,
 		"retention": 37.43,
 		"date": "6th Sep 2015",
@@ -5760,7 +5961,7 @@
 		"twitchViewers": 1757
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 60,
 		"retention": 38.39,
 		"date": "7th Sep 2015",
@@ -5769,7 +5970,7 @@
 		"twitchViewers": 3519
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 61,
 		"retention": 33.92,
 		"date": "8th Sep 2015",
@@ -5778,7 +5979,7 @@
 		"twitchViewers": 2583
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 62,
 		"retention": 28.1,
 		"date": "9th Sep 2015",
@@ -5787,7 +5988,7 @@
 		"twitchViewers": 1306
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 63,
 		"retention": 28.03,
 		"date": "10th Sep 2015",
@@ -5796,7 +5997,7 @@
 		"twitchViewers": 2125
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 64,
 		"retention": 28.14,
 		"date": "11th Sep 2015",
@@ -5805,7 +6006,7 @@
 		"twitchViewers": 1907
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 65,
 		"retention": 32.83,
 		"date": "12th Sep 2015",
@@ -5814,7 +6015,7 @@
 		"twitchViewers": 2586
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 66,
 		"retention": 34.78,
 		"date": "13th Sep 2015",
@@ -5823,7 +6024,7 @@
 		"twitchViewers": 1921
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 67,
 		"retention": 29.99,
 		"date": "14th Sep 2015",
@@ -5832,7 +6033,7 @@
 		"twitchViewers": 1691
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 68,
 		"retention": 26.88,
 		"date": "15th Sep 2015",
@@ -5841,7 +6042,7 @@
 		"twitchViewers": 1662
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 69,
 		"retention": 25.68,
 		"date": "16th Sep 2015",
@@ -5850,7 +6051,7 @@
 		"twitchViewers": 1052
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 70,
 		"retention": 25.12,
 		"date": "17th Sep 2015",
@@ -5859,7 +6060,7 @@
 		"twitchViewers": 1762
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 71,
 		"retention": 25.27,
 		"date": "18th Sep 2015",
@@ -5868,7 +6069,7 @@
 		"twitchViewers": 1234
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 72,
 		"retention": 29.61,
 		"date": "19th Sep 2015",
@@ -5877,7 +6078,7 @@
 		"twitchViewers": 1476
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 73,
 		"retention": 30.95,
 		"date": "20th Sep 2015",
@@ -5886,7 +6087,7 @@
 		"twitchViewers": 1458
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 74,
 		"retention": 25.72,
 		"date": "21st Sep 2015",
@@ -5895,7 +6096,7 @@
 		"twitchViewers": 1345
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 75,
 		"retention": 24.18,
 		"date": "22nd Sep 2015",
@@ -5904,7 +6105,7 @@
 		"twitchViewers": 1098
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 76,
 		"retention": 23.57,
 		"date": "23rd Sep 2015",
@@ -5913,7 +6114,7 @@
 		"twitchViewers": 1573
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 77,
 		"retention": 23.2,
 		"date": "24th Sep 2015",
@@ -5922,7 +6123,7 @@
 		"twitchViewers": 1325
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 78,
 		"retention": 22.46,
 		"date": "25th Sep 2015",
@@ -5931,7 +6132,7 @@
 		"twitchViewers": 4383
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 79,
 		"retention": 26.58,
 		"date": "26th Sep 2015",
@@ -5940,7 +6141,7 @@
 		"twitchViewers": 1644
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 80,
 		"retention": 27.31,
 		"date": "27th Sep 2015",
@@ -5949,7 +6150,7 @@
 		"twitchViewers": 2153
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 81,
 		"retention": 23.78,
 		"date": "28th Sep 2015",
@@ -5958,7 +6159,7 @@
 		"twitchViewers": 1818
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 82,
 		"retention": 21.29,
 		"date": "29th Sep 2015",
@@ -5967,7 +6168,7 @@
 		"twitchViewers": 1864
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 83,
 		"retention": 19.83,
 		"date": "30th Sep 2015",
@@ -5976,7 +6177,7 @@
 		"twitchViewers": 1515
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 84,
 		"retention": 19.08,
 		"date": "1st Oct 2015",
@@ -5985,7 +6186,7 @@
 		"twitchViewers": 1202
 	},
 	{
-		"league": "Warbands/Tempest",
+		"league": "War/Tem",
 		"day": 85,
 		"retention": 41.05,
 		"date": "2nd Oct 2015",
