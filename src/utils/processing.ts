@@ -17,7 +17,7 @@ export const convertToJSON = async (csvFilePath: string): Promise<void> => {
     fs.createReadStream(csvFilePath).pipe(parser);
 
     for await (const row of parser) {
-        records.push({ ...row, date: moment(row.date).format('Do MMM YYYY') });
+        records.push({ ...row, date: moment(row.date).format('YYYY-MM-DD') });
     }
 
     const JSONContent = JSON.stringify(records);
@@ -42,12 +42,12 @@ export const addLeague = async (
         let day1Players = 0;
 
         data = data.map((OneDay: { date: string; players: number }) => {
-            const date = moment(OneDay.date, 'Do MMM YYYY');
+            const date = moment(OneDay.date, 'YYYY-MM-DD');
 
             for (var league of leaguesData) {
                 const start = moment(league.start);
                 const end = moment(league.end);
-
+                console.log(start, end, date);
                 if (date.isBetween(start, end, undefined, '[]')) {
                     if (date.diff(start, 'days') === 0) day1Players = OneDay.players;
                     return {
