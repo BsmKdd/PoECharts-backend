@@ -47,9 +47,10 @@ export const addLeague = async (
             for (var league of leaguesData) {
                 const start = moment(league.start);
                 const end = moment(league.end);
-                console.log(start, end, date);
+
                 if (date.isBetween(start, end, undefined, '[]')) {
                     if (date.diff(start, 'days') === 0) day1Players = OneDay.players;
+
                     return {
                         league: league.name,
                         day: date.diff(start, 'days') + 1,
