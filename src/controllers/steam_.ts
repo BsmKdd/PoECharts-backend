@@ -1,11 +1,38 @@
-import { RequestHandler } from 'express';
-import PlayerNumber from '../models/playerNumber';
+import { AxiosError } from 'axios';
+import { sendAxiosRequest } from '../config/axiosConfig';
+import env from '../utils/validateEnv';
 
-export const getAllPlayerNumbers: RequestHandler = async (req, res, next) => {
+const url = 'https://api.steampowered.com/ISteamUserStats/GetNumberOfCurrentPlayers/v1/';
+
+interface NumberOfCurrentSteamPlayersInterface {
+    player_count: number;
+    result: number;
+}
+interface getNumberOfCurrentSteamPlayers {
+    data: NumberOfCurrentSteamPlayersInterface | undefined;
+    errorMessage: string | undefined;
+    status: number;
+}
+
+export const getNumberOfCurrentSteamPlayers = async (): Promise<getNumberOfCurrentSteamPlayers> => {
     try {
-        const playerNumbers = await PlayerNumber.find().sort({ date: 1 });
-        res.status(200).json(playerNumbers);
+        const response = await sendAxiosRequest<NumberOfCurrentSteamPlayersInterface>({
+            method: 'get',
+            url,
+            config: { params: { format: 'json', appid: env.POE_STEAM_APP_ID } },
+        });
+
+        return {
+            data: response.data,
+            errorMessage: undefined,
+            status: 200,
+        };
     } catch (error) {
-        next(error);
+        const axiosError = error as AxiosError;
+        return {
+            errorMessage: axiosError.message,
+            data: undefined,
+            status: axiosError.status ?? 500,
+        };
     }
 };
