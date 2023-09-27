@@ -3,7 +3,8 @@ import express from 'express';
 import { convertToJSON, addLeague } from './utils/processing';
 import leaguesRoutes from './routes/leagues';
 import playerNumbersRoutes from './routes/playerNumbers';
-import { getNumberOfCurrentSteamPlayers } from './controllers/steam_';
+import { everySecond } from './services/addDailyPeakPlayers';
+import { getCurrentPoeLeagues } from './controllers/poe';
 
 const temp = async () => {
     await convertToJSON('./src/data/chart.csv');
@@ -16,7 +17,7 @@ const app = express();
 
 app.use(express.json());
 
-getNumberOfCurrentSteamPlayers();
+getCurrentPoeLeagues();
 
 app.use((req, res, next) => {
     res.setHeader('Access-Control-Allow-Origin', '*');

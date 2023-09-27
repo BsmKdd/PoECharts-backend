@@ -6,4 +6,5 @@ export default cleanEnv(process.env, {
     PORT: port(),
     STEAM_API_KEY: str(),
     POE_STEAM_APP_ID: str(),
+    POESESSID: str(),
 });
