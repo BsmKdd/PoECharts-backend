@@ -26,8 +26,7 @@ export const getCurrentPoeLeagues = async (): Promise<getCurrentPoeLeagues> => {
             config: {
                 headers: {
                     Cookie: `POESESSID=${env.POESESSID}`,
-                    'User-Agent':
-                        'PoECharts - bsmkdd@outlook.com - just some beginner dev playing around with APIs.',
+                    'User-Agent': 'poecharts/0.0.1 (contact: bsmkdd@outlook.com).',
                 },
             },
         });
