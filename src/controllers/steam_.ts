@@ -4,12 +4,13 @@ import env from '../utils/validateEnv';
 
 const url = 'https://api.steampowered.com/ISteamUserStats/GetNumberOfCurrentPlayers/v1/';
 
-interface NumberOfCurrentSteamPlayersInterface {
-    player_count: number;
-    result: number;
+interface SteamAPIReply {
+    response: {
+        player_count: number;
+    };
 }
 interface getNumberOfCurrentSteamPlayers {
-    data: NumberOfCurrentSteamPlayersInterface | undefined;
+    data: SteamAPIReply['response'] | undefined;
     errorMessage: string | undefined;
     status: number;
 }
@@ -17,14 +18,14 @@ interface getNumberOfCurrentSteamPlayers {
 export const getNumberOfCurrentPoeSteamPlayers =
     async (): Promise<getNumberOfCurrentSteamPlayers> => {
         try {
-            const response = await sendAxiosRequest<NumberOfCurrentSteamPlayersInterface>({
+            const response = await sendAxiosRequest<SteamAPIReply>({
                 method: 'get',
                 url,
                 config: { params: { format: 'json', appid: env.POE_STEAM_APP_ID } },
             });
 
             return {
-                data: response.data,
+                data: response.data.response,
                 errorMessage: undefined,
                 status: 200,
             };

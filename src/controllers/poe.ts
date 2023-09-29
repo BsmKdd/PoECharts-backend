@@ -10,13 +10,13 @@ interface getCurrentPoeLeagues {
     status: number;
 }
 
-interface poeLeague {
+export interface poeLeague {
     id: string;
     startAt: Date;
     endAt: Date;
 }
 
-type poeLeagues = poeLeague[];
+type poeLeagues = { leagues: poeLeague[] };
 // -8
 export const getCurrentPoeLeagues = async (): Promise<getCurrentPoeLeagues> => {
     try {

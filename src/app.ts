@@ -3,6 +3,7 @@ import express from 'express';
 import { convertToJSON, addLeague } from './utils/processing';
 import leaguesRoutes from './routes/leagues';
 import playerNumbersRoutes from './routes/playerNumbers';
+import { addDailyPeakPlayers } from './services/addDailyPeakPlayers';
 
 const temp = async () => {
     await convertToJSON('./src/data/chart.csv');
@@ -14,6 +15,8 @@ temp();
 const app = express();
 
 app.use(express.json());
+
+addDailyPeakPlayers();
 
 app.use((req, res, next) => {
     res.setHeader('Access-Control-Allow-Origin', '*');
