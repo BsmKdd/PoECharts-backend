@@ -37,7 +37,7 @@ export const addDailyPeakPlayers = async () => {
     );
 
     cron.schedule(
-        '* */30 * * * *',
+        '0 */15 * * * *',
         async () => {
             currentPlayers = (await getNumberOfCurrentPoeSteamPlayers()).data?.player_count ?? 0;
             currentPeak = Math.max(currentPlayers, currentPeak);
